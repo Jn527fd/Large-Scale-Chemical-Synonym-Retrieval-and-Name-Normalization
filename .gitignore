@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+.venv/
+venv/
+.env
+
+.cache/
+cache/
+.pytest_cache/
+.ipynb_checkpoints/
+
+data/
+results/*
+!results/.gitkeep
+
+# Large generated research artifacts
+*.npy
+*.npz
+*.index
+*.faiss
+*.safetensors
+*.bin
+*.pt
+*.pth

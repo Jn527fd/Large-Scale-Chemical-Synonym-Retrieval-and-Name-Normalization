@@ -1,0 +1,78 @@
+project:
+  name: ChemSynonymizer
+  results_dir: results
+  cache_dir: cache
+  run_name: null
+
+data:
+  csv_path: data/fixedGood.csv
+  cid_col: cid
+  name_col: name
+  normalize_names: true
+  filter_empty_names: true
+  remove_singletons: true
+  limit_rows: null
+
+eval:
+  seed: 0
+  eval_frac: 0.25
+  k_values: [1, 5, 10]
+  n_examples: 10
+
+model:
+  key: sapbert
+  max_length: 96
+  batch_size: 8192
+  query_batch_size: 16384
+  dtype: float16
+  l2_normalize: true
+
+semantic:
+  index_type: ivf_flat
+  faiss_device: cuda
+  search_batch_size: 16384
+  nlist: 16384
+  nprobe: 256
+  train_size: 3000000
+  add_batch_size: 250000
+  m_pq: 64
+  nbits: 8
+  use_float16_faiss: true
+
+lexical:
+  analyzer: char_wb
+  ngram_min: 3
+  ngram_max: 5
+  min_df: 1
+  sublinear_tf: true
+  batch_size: 512
+  edit_distance_rerank: true
+  candidate_multiplier: 3
+  tfidf_weight: 0.8
+  n_jobs: -1
+
+robustness:
+  baseline: lexical
+  corruption_levels: [0.0, 0.25, 0.5, 0.75, 1.0]
+  operations: [typo, swap, drop_punctuation, drop_token, spacing]
+
+finetune:
+  split: surface
+  epochs: 1
+  steps_per_epoch: 2000
+  batch_size: 128
+  learning_rate: 0.00002
+  weight_decay: 0.01
+  warmup_ratio: 0.06
+  gradient_accumulation_steps: 1
+  max_grad_norm: 1.0
+  temperature: 0.05
+  margin: 0.2
+  mixed_precision: fp16
+  hard_negative_prefix_len: 4
+
+compute:
+  device: auto
+
+experiments:
+  semantic_models: [e5_base, e5_large, bge_base, biomedbert, sapbert]

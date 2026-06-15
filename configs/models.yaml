@@ -1,0 +1,46 @@
+model_presets:
+  e5_base:
+    model_name: intfloat/e5-base-v2
+    corpus_prefix: "passage: "
+    query_prefix: "query: "
+    pooling: mean
+  e5_large:
+    model_name: intfloat/e5-large-v2
+    corpus_prefix: "passage: "
+    query_prefix: "query: "
+    pooling: mean
+  bge_base:
+    model_name: BAAI/bge-base-en-v1.5
+    corpus_prefix: null
+    query_prefix: null
+    pooling: cls
+  biomedbert:
+    model_name: microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext
+    corpus_prefix: null
+    query_prefix: null
+    pooling: mean
+  sapbert:
+    model_name: cambridgeltl/SapBERT-from-PubMedBERT-fulltext
+    corpus_prefix: null
+    query_prefix: null
+    pooling: cls
+  sapbert_contrastive:
+    model_name: results/sapbert_contrastive/artifacts/model
+    corpus_prefix: null
+    query_prefix: null
+    pooling: cls
+  sapbert_triplet:
+    model_name: results/sapbert_triplet/artifacts/model
+    corpus_prefix: null
+    query_prefix: null
+    pooling: cls
+  sapbert_contrastive_hard:
+    model_name: results/sapbert_contrastive_hard/artifacts/model
+    corpus_prefix: null
+    query_prefix: null
+    pooling: cls
+  sapbert_triplet_hard:
+    model_name: results/sapbert_triplet_hard/artifacts/model
+    corpus_prefix: null
+    query_prefix: null
+    pooling: cls
