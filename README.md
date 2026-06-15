@@ -422,3 +422,12 @@ chem_synonymizer/
 - Fine-tuned variants start from the same base SapBERT checkpoint.
 - The repository runs with only `cid` and `name`; structural or identifier features are optional future ablations.
 - Default semantic settings target a high-memory A100. Use the local smoke-test overrides for smaller hardware.
+
+## License
+
+The source code is licensed under the [MIT License](LICENSE).
+
+The chemical synonym dataset is not included in this repository and is not
+covered by the MIT License. Data obtained from PubChem remains subject to the
+policies and terms of its original provider. Pretrained models and third-party
+dependencies remain subject to their respective licenses.
