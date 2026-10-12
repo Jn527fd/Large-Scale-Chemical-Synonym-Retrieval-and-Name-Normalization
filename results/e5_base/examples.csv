@@ -1,0 +1,101 @@
+query_row,query_name,query_cid,neighbor_rank,neighbor_row,neighbor_name,neighbor_cid,is_relevant
+12663013,"7,8-dibromo-2-chloro-5,6-dihydro-9-methyl-4h-imidazo[4,5,1-ij]quinoline",90142467,1,12663011,"7,8-dibromo-2-chloro-9-methyl-5,6-dihydro-4h-imidazo[4,5,1-ij]quinoline",90142467,1
+12663013,"7,8-dibromo-2-chloro-5,6-dihydro-9-methyl-4h-imidazo[4,5,1-ij]quinoline",90142467,2,12264935,"7,8-dibromo-5,6-dihydro-9-methyl-2-(1-piperazinyl)-4h-imidazo(4,5,1-ij)quinoline",73776233,0
+12663013,"7,8-dibromo-2-chloro-5,6-dihydro-9-methyl-4h-imidazo[4,5,1-ij]quinoline",90142467,3,12264929,"7,8-dibromo-5,6-dihydro-9-methyl-2-(1-piperazinyl)-4h-imidazo[4,5,1-ij]quinoline hydrochloride",73776232,0
+12663013,"7,8-dibromo-2-chloro-5,6-dihydro-9-methyl-4h-imidazo[4,5,1-ij]quinoline",90142467,4,12264938,"7,8-dibromo-9-methyl-2-(piperazin-1-yl)-5,6-dihydro-4h-imidazo[4,5,1-ij]quinoline",73776233,0
+12663013,"7,8-dibromo-2-chloro-5,6-dihydro-9-methyl-4h-imidazo[4,5,1-ij]quinoline",90142467,5,12264908,"7,8-dibromo-9-methyl-2-(piperazin-1-yl)-5,6-dihydro-4h-imidazo[4,5,1-ij]quinoline hydrochloride",73776232,0
+12663013,"7,8-dibromo-2-chloro-5,6-dihydro-9-methyl-4h-imidazo[4,5,1-ij]quinoline",90142467,6,12264931,"7,8-dibromo-9-methyl-2-(piperazin-1-yl)-5,6-dihydro-4h-imidazo[4,5,1-ij]quinoline monohydrochloride",73776232,0
+12663013,"7,8-dibromo-2-chloro-5,6-dihydro-9-methyl-4h-imidazo[4,5,1-ij]quinoline",90142467,7,12264930,"7,8-dibromo-9-methyl-2-(1-piperazinyl)-5,6-dihydro-4h-imidazo[4,5,1-ij]quinoline hydrochloride (1:1)",73776232,0
+12663013,"7,8-dibromo-2-chloro-5,6-dihydro-9-methyl-4h-imidazo[4,5,1-ij]quinoline",90142467,8,12264912,"7,8-dibromo-9-methyl-2-piperazin-1-yl-5,6-dihydro-4h-imidazo[4,5,1-ij]quinoline hydrochloride",73776232,0
+12663013,"7,8-dibromo-2-chloro-5,6-dihydro-9-methyl-4h-imidazo[4,5,1-ij]quinoline",90142467,9,12264916,"7,8-dibromo-9-methyl-2-piperazin-1-yl-5,6-dihydro-4h- imidazo[4,5,1-ij]quinoline hydrochloride",73776232,0
+12663013,"7,8-dibromo-2-chloro-5,6-dihydro-9-methyl-4h-imidazo[4,5,1-ij]quinoline",90142467,10,12264914,"7,8-dibromo-5,6-dihydro-9-methyl-2-(1-piperazinyl)-4himidazo(4,5,1-ij)quinoline hydrochloride",73776232,0
+12107846,"1-[(furan-2-yl)methyl]-3-{1-[(5-phenyl-1,2,4-oxadiazol-3-yl)methyl]pyrrolidin-3-yl}urea",71794538,1,12107847,"1-(furan-2-ylmethyl)-3-(1-((5-phenyl-1,2,4-oxadiazol-3-yl)methyl)pyrrolidin-3-yl)urea",71794538,1
+12107846,"1-[(furan-2-yl)methyl]-3-{1-[(5-phenyl-1,2,4-oxadiazol-3-yl)methyl]pyrrolidin-3-yl}urea",71794538,2,12107848,"1-(furan-2-ylmethyl)-3-[1-[(5-phenyl-1,2,4-oxadiazol-3-yl)methyl]pyrrolidin-3-yl]urea",71794538,1
+12107846,"1-[(furan-2-yl)methyl]-3-{1-[(5-phenyl-1,2,4-oxadiazol-3-yl)methyl]pyrrolidin-3-yl}urea",71794538,3,12099894,"3-[(furan-2-yl)methyl]-1-{1-[3-(pyridin-4-yl)-1,2,4-oxadiazol-5-yl]cyclohexyl}urea",71792067,0
+12107846,"1-[(furan-2-yl)methyl]-3-{1-[(5-phenyl-1,2,4-oxadiazol-3-yl)methyl]pyrrolidin-3-yl}urea",71794538,4,12126152,"1-(2-{[3-(furan-2-yl)-1,2,4-oxadiazol-5-yl]methyl}phenyl)-3-[(thiophen-2-yl)methyl]urea",71800608,0
+12107846,"1-[(furan-2-yl)methyl]-3-{1-[(5-phenyl-1,2,4-oxadiazol-3-yl)methyl]pyrrolidin-3-yl}urea",71794538,5,12939359,"1-(furan-2-ylmethyl)-3-[[3-(5-methyl-1,2-oxazol-3-yl)-1,2,4-oxadiazol-5-yl]methyl]urea",92129858,0
+12107846,"1-[(furan-2-yl)methyl]-3-{1-[(5-phenyl-1,2,4-oxadiazol-3-yl)methyl]pyrrolidin-3-yl}urea",71794538,6,12939357,"1-[(furan-2-yl)methyl]-3-{[3-(5-methyl-1,2-oxazol-3-yl)-1,2,4-oxadiazol-5-yl]methyl}urea",92129858,0
+12107846,"1-[(furan-2-yl)methyl]-3-{1-[(5-phenyl-1,2,4-oxadiazol-3-yl)methyl]pyrrolidin-3-yl}urea",71794538,7,12126142,"1-(2-{[3-(furan-2-yl)-1,2,4-oxadiazol-5-yl]methyl}phenyl)-3-(thiophen-2-yl)urea",71800605,0
+12107846,"1-[(furan-2-yl)methyl]-3-{1-[(5-phenyl-1,2,4-oxadiazol-3-yl)methyl]pyrrolidin-3-yl}urea",71794538,8,12126136,"1-[2-[[3-(furan-2-yl)-1,2,4-oxadiazol-5-yl]methyl]phenyl]-3-(2-methoxyphenyl)urea",71800603,0
+12107846,"1-[(furan-2-yl)methyl]-3-{1-[(5-phenyl-1,2,4-oxadiazol-3-yl)methyl]pyrrolidin-3-yl}urea",71794538,9,11980686,"n-[5-(furan-2-yl)-1,3,4-oxadiazol-2-yl]-n'-[(pyridin-2-yl)methyl]urea",71618700,0
+12107846,"1-[(furan-2-yl)methyl]-3-{1-[(5-phenyl-1,2,4-oxadiazol-3-yl)methyl]pyrrolidin-3-yl}urea",71794538,10,11980683,"1-[5-(furan-2-yl)-1,3,4-oxadiazol-2-yl]-3-(pyridin-2-ylmethyl)urea",71618700,0
+9486075,"2-amino-2-(3,5-dichlorophenyl)acetic acid hydrochloride",24730302,1,9486076,"2-amino-2-(3,5-dichlorophenyl)acetic acid;hydrochloride",24730302,1
+9486075,"2-amino-2-(3,5-dichlorophenyl)acetic acid hydrochloride",24730302,2,12991378,"(r)-2-amino-2-(2,5-dichlorophenyl)acetic acid hydrochloride",101056094,0
+9486075,"2-amino-2-(3,5-dichlorophenyl)acetic acid hydrochloride",24730302,3,8209752,"2-amino-2-(2,3-dichlorophenyl)acetic acid;hydrochloride",16495331,0
+9486075,"2-amino-2-(3,5-dichlorophenyl)acetic acid hydrochloride",24730302,4,9486082,"2-amino-(3,5-dichloro-phenyl)-acetic acid hydrochloride",24730302,1
+9486075,"2-amino-2-(3,5-dichlorophenyl)acetic acid hydrochloride",24730302,5,11813489,"2-amino-2-(2-chlorophenyl)acetic acid hydrochloride, (s)-",70255513,0
+9486075,"2-amino-2-(3,5-dichlorophenyl)acetic acid hydrochloride",24730302,6,8209751,"2-amino-2-(2,3-dichlorophenyl)acetic acid hydrochloride",16495331,0
+9486075,"2-amino-2-(3,5-dichlorophenyl)acetic acid hydrochloride",24730302,7,9484608,"2-amino-2-(3,4-dichlorophenyl)acetic acid;hydrochloride",24729686,0
+9486075,"2-amino-2-(3,5-dichlorophenyl)acetic acid hydrochloride",24730302,8,8209753,2-amino-2-(2.3-dichlorophenyl)acetic acid hydrochloride,16495331,0
+9486075,"2-amino-2-(3,5-dichlorophenyl)acetic acid hydrochloride",24730302,9,12026955,"(r)-2-amino-2-(3,4-dichlorophenyl)acetic acid hydrochloride",71741599,0
+9486075,"2-amino-2-(3,5-dichlorophenyl)acetic acid hydrochloride",24730302,10,12052822,"2-(3,5-dichlorophenyl)-2-(ethylamino)acetic acid;hydrochloride",71756882,0
+7610292,ethyl 2-[(5-bromo-3-nitro-2-pyridinyl)oxy]propanoate,13594628,1,7610293,ethyl 2-[(5-bromo-3-nitropyridin-2-yl)oxy]propanoate,13594628,1
+7610292,ethyl 2-[(5-bromo-3-nitro-2-pyridinyl)oxy]propanoate,13594628,2,11554399,ethyl 2-[(5-bromo-3-pyridyl)oxy]propanoate,64206655,0
+7610292,ethyl 2-[(5-bromo-3-nitro-2-pyridinyl)oxy]propanoate,13594628,3,14725850,ethyl 2-((3-bromo-5-chloropyridin-2-yl)oxy)propanoate,168032672,0
+7610292,ethyl 2-[(5-bromo-3-nitro-2-pyridinyl)oxy]propanoate,13594628,4,14725851,ethyl 2-[(3-bromo-5-chloropyridin-2-yl)oxy]propanoate,168032672,0
+7610292,ethyl 2-[(5-bromo-3-nitro-2-pyridinyl)oxy]propanoate,13594628,5,11554398,ethyl 2-((5-bromopyridin-3-yl)oxy)propanoate,64206655,0
+7610292,ethyl 2-[(5-bromo-3-nitro-2-pyridinyl)oxy]propanoate,13594628,6,11554396,ethyl 2-[(5-bromopyridin-3-yl)oxy]propanoate,64206655,0
+7610292,ethyl 2-[(5-bromo-3-nitro-2-pyridinyl)oxy]propanoate,13594628,7,12640504,ethyl 2-[(6-bromo-5-fluoro-4-methyl-2-nitro-3-pyridinyl)oxy]acetate,89348180,0
+7610292,ethyl 2-[(5-bromo-3-nitro-2-pyridinyl)oxy]propanoate,13594628,8,13670604,ethyl 2-[(5-bromo-4-methyl-3-nitro-2-pyridyl)oxy]acetate,132212388,0
+7610292,ethyl 2-[(5-bromo-3-nitro-2-pyridinyl)oxy]propanoate,13594628,9,5251249,ethyl 2-[(5-bromo-3-nitro-2-pyridyl)oxy]acetate,4647502,0
+7610292,ethyl 2-[(5-bromo-3-nitro-2-pyridinyl)oxy]propanoate,13594628,10,14725872,ethyl 2-((5-bromo-3-(trifluoromethyl)pyridin-2-yl)oxy)propanoate,168032688,0
+4016514,"5-(4-bromoanilino)-3-(4-methylphenyl)-1,3-thiazolidine-2,4-dione",2830900,1,5259726,"5-(4-bromoanilino)-3-[(4-methylphenyl)methyl]-1,3-thiazolidine-2,4-dione",4669808,0
+4016514,"5-(4-bromoanilino)-3-(4-methylphenyl)-1,3-thiazolidine-2,4-dione",2830900,2,3360808,"(5e)-3-[(4-bromoanilino)methyl]-5-[(4-methylphenyl)methylidene]-1,3-thiazolidine-2,4-dione",1720785,0
+4016514,"5-(4-bromoanilino)-3-(4-methylphenyl)-1,3-thiazolidine-2,4-dione",2830900,3,4615100,"5-((4-bromoanilino)methylene)-1,3-thiazolidine-2,4-dione",3290479,0
+4016514,"5-(4-bromoanilino)-3-(4-methylphenyl)-1,3-thiazolidine-2,4-dione",2830900,4,3404418,"(5e)-3-[(4-bromoanilino)methyl]-5-[(3-methoxy-4-prop-2-enoxyphenyl)methylidene]-1,3-thiazolidine-2,4-dione",1774944,0
+4016514,"5-(4-bromoanilino)-3-(4-methylphenyl)-1,3-thiazolidine-2,4-dione",2830900,5,4494321,"5-(4-bromoanilino)-3-(3-methylphenyl)-1,3-thiazolidine-2,4-dione",3123232,0
+4016514,"5-(4-bromoanilino)-3-(4-methylphenyl)-1,3-thiazolidine-2,4-dione",2830900,6,5259725,"5-(4-bromoanilino)-3-(4-methylbenzyl)-1,3-thiazolidine-2,4-dione",4669808,0
+4016514,"5-(4-bromoanilino)-3-(4-methylphenyl)-1,3-thiazolidine-2,4-dione",2830900,7,3403796,"(5e)-3-[(4-bromo-2-methylanilino)methyl]-5-[(4-methylphenyl)methylidene]-1,3-thiazolidine-2,4-dione",1774243,0
+4016514,"5-(4-bromoanilino)-3-(4-methylphenyl)-1,3-thiazolidine-2,4-dione",2830900,8,3403806,"(5e)-3-[(4-bromo-2-methylanilino)methyl]-5-[(4-methylsulfanylphenyl)methylidene]-1,3-thiazolidine-2,4-dione",1774259,0
+4016514,"5-(4-bromoanilino)-3-(4-methylphenyl)-1,3-thiazolidine-2,4-dione",2830900,9,5853737,"(5e)-3-[(4-bromoanilino)methyl]-5-[[4-(dimethylamino)phenyl]methylidene]-1,3-thiazolidine-2,4-dione",5753172,0
+4016514,"5-(4-bromoanilino)-3-(4-methylphenyl)-1,3-thiazolidine-2,4-dione",2830900,10,3405251,"(5e)-3-[(4-bromo-2-methylanilino)methyl]-5-[(4-methoxyphenyl)methylidene]-1,3-thiazolidine-2,4-dione",1776504,0
+609760,"(1s)-6,6-dimethylbicyclo[3.1.1]hept-2-ene-2-carboxaldehyde",61130,1,3009599,"(1s,5r)-6,6-dimethylbicyclo(3.1.1)hept-2-ene-2-carboxaldehyde",1201528,0
+609760,"(1s)-6,6-dimethylbicyclo[3.1.1]hept-2-ene-2-carboxaldehyde",61130,2,609766,"(1r)-6,6-dimethylbicyclo[3.1.1]hept-2-en-2-carboxaldehyde",61130,1
+609760,"(1s)-6,6-dimethylbicyclo[3.1.1]hept-2-ene-2-carboxaldehyde",61130,3,3009621,"(1r,5s)-6,6-dimethylbicyclo[3.1.1]hept-2-ene-2-carboxaldehyde",1201529,0
+609760,"(1s)-6,6-dimethylbicyclo[3.1.1]hept-2-ene-2-carboxaldehyde",61130,4,3009622,"(1r,5s)-6,6-dimethylbicyclo(3.1.1)hept-2-ene-2-carboxaldehyde",1201529,0
+609760,"(1s)-6,6-dimethylbicyclo[3.1.1]hept-2-ene-2-carboxaldehyde",61130,5,7151599,"(1s)-(6,6-dimethylbicyclo(3.1.1)hept-2-en-2-yl)methyl acetate",11435490,0
+609760,"(1s)-6,6-dimethylbicyclo[3.1.1]hept-2-ene-2-carboxaldehyde",61130,6,7494642,"(1s)-6,6-dimethylbicyclo[3.1.1]hept-3-en-2-one",12879815,0
+609760,"(1s)-6,6-dimethylbicyclo[3.1.1]hept-2-ene-2-carboxaldehyde",61130,7,7494643,"(1s)-6,6-dimethylbicyclo(3.1.1)hept-3-en-2-one",12879815,0
+609760,"(1s)-6,6-dimethylbicyclo[3.1.1]hept-2-ene-2-carboxaldehyde",61130,8,7151597,"((1s,5r)-6,6-dimethylbicyclo[3.1.1]hept-2-en-2-yl)methyl acetate",11435490,0
+609760,"(1s)-6,6-dimethylbicyclo[3.1.1]hept-2-ene-2-carboxaldehyde",61130,9,7453521,"(1r)-(6,6-dimethylbicyclo(3.1.1)hept-2-en-2-yl)methyl acetate",12635160,0
+609760,"(1s)-6,6-dimethylbicyclo[3.1.1]hept-2-ene-2-carboxaldehyde",61130,10,3009601,"(1s,5r)-6,6-dimethylbicyclo[3.1.1]hept-2-ene-2-carbaldehyde",1201528,0
+245929,"((2r,3s,5r)-3-hydroxy-5-(5-methyl-2,4-dioxopyrimidin-1-yl)oxolan-2-yl)methyl dihydrogen phosphate",9700,1,1887323,"((2r,3s,5r)-5-(2,4-dioxopyrimidin-1-yl)-2-(hydroxymethyl)oxolan-3-yl) dihydrogen phosphate",449392,0
+245929,"((2r,3s,5r)-3-hydroxy-5-(5-methyl-2,4-dioxopyrimidin-1-yl)oxolan-2-yl)methyl dihydrogen phosphate",9700,2,644108,"((2r,3s,5r)-5-(2,4-dioxopyrimidin-1-yl)-3-hydroxyoxolan-2-yl)methyl dihydrogen phosphate",65063,0
+245929,"((2r,3s,5r)-3-hydroxy-5-(5-methyl-2,4-dioxopyrimidin-1-yl)oxolan-2-yl)methyl dihydrogen phosphate",9700,3,245927,"[(2r,3s,5r)-3-hydroxy-5-(5-methyl-2,4-dioxopyrimidin-1-yl)oxolan-2-yl]methyl dihydrogen phosphate",9700,1
+245929,"((2r,3s,5r)-3-hydroxy-5-(5-methyl-2,4-dioxopyrimidin-1-yl)oxolan-2-yl)methyl dihydrogen phosphate",9700,4,38450,"(3-hydroxy-5-(5-methyl-2,4-dioxopyrimidin-1-yl)oxolan-2-yl)methyl dihydrogen phosphate",1139,0
+245929,"((2r,3s,5r)-3-hydroxy-5-(5-methyl-2,4-dioxopyrimidin-1-yl)oxolan-2-yl)methyl dihydrogen phosphate",9700,5,315835,"((2r,3s,5r)-5-(4-amino-2-oxopyrimidin-1-yl)-3-hydroxyoxolan-2-yl)methyl dihydrogen phosphate",13945,0
+245929,"((2r,3s,5r)-3-hydroxy-5-(5-methyl-2,4-dioxopyrimidin-1-yl)oxolan-2-yl)methyl dihydrogen phosphate",9700,6,1874420,"[(2r,3s,5r)-2-(hydroxymethyl)-5-(5-methyl-2,4-dioxopyrimidin-1-yl)oxolan-3-yl] dihydrogen phosphate",444920,0
+245929,"((2r,3s,5r)-3-hydroxy-5-(5-methyl-2,4-dioxopyrimidin-1-yl)oxolan-2-yl)methyl dihydrogen phosphate",9700,7,7482885,"[(2r,3s,4r,5r)-3,4-dihydroxy-5-(5-methyl-2,4-dioxopyrimidin-1-yl)oxolan-2-yl]methyl dihydrogen phosphate",12803287,0
+245929,"((2r,3s,5r)-3-hydroxy-5-(5-methyl-2,4-dioxopyrimidin-1-yl)oxolan-2-yl)methyl dihydrogen phosphate",9700,8,7697394,"[(2r,3s,4r,5r)-3,4-dihydroxy-5-(5-hydroxy-2,4-dioxopyrimidin-1-yl)oxolan-2-yl]methyl dihydrogen phosphate",14212376,0
+245929,"((2r,3s,5r)-3-hydroxy-5-(5-methyl-2,4-dioxopyrimidin-1-yl)oxolan-2-yl)methyl dihydrogen phosphate",9700,9,8272389,"[(2r,3s,5r)-3-hydroxy-5-(5-methyl-2,4-dioxopyrimidin-1-yl)oxolan-2-yl]methyl phosphate",16755631,0
+245929,"((2r,3s,5r)-3-hydroxy-5-(5-methyl-2,4-dioxopyrimidin-1-yl)oxolan-2-yl)methyl dihydrogen phosphate",9700,10,1881706,"[(2r,3s,5r)-3-hydroxy-5-[5-(hydroxymethyl)-2,4-dioxopyrimidin-1-yl]oxolan-2-yl]methyl dihydrogen phosphate",447206,0
+4586402,"3-methyl-n-(2-morpholin-4-ylethyl)-1-phenylthieno[2,3-c]pyrazole-5-carboxamide",3242544,1,11478101,n-({3-[2-(morpholin-4-yl)ethoxy]phenyl}methyl)-5-(thiophen-2-yl)-1h-pyrazole-3-carboxamide,60590402,0
+4586402,"3-methyl-n-(2-morpholin-4-ylethyl)-1-phenylthieno[2,3-c]pyrazole-5-carboxamide",3242544,2,3222826,"(1-methyl-3-phenylthieno[2,3-c]pyrazol-5-yl)-morpholin-4-ylmethanone",1484440,0
+4586402,"3-methyl-n-(2-morpholin-4-ylethyl)-1-phenylthieno[2,3-c]pyrazole-5-carboxamide",3242544,3,13519680,(s)-5-ethyl-4-methyl-n-(4-(morpholin-2-yl)phenyl)-1h-pyrazole-3-carboxamide,130429734,0
+4586402,"3-methyl-n-(2-morpholin-4-ylethyl)-1-phenylthieno[2,3-c]pyrazole-5-carboxamide",3242544,4,10612919,5-[4-methoxy-3-(morpholin-4-ylsulfonyl)phenyl]-n-(2-methylbenzyl)-1h-pyrazole-3-carboxamide,50751684,0
+4586402,"3-methyl-n-(2-morpholin-4-ylethyl)-1-phenylthieno[2,3-c]pyrazole-5-carboxamide",3242544,5,10612931,5-[4-methoxy-3-(morpholin-4-ylsulfonyl)phenyl]-n-(3-methylbenzyl)-1h-pyrazole-3-carboxamide,50751696,0
+4586402,"3-methyl-n-(2-morpholin-4-ylethyl)-1-phenylthieno[2,3-c]pyrazole-5-carboxamide",3242544,6,8424125,"n-(3-morpholin-4-ylpropyl)-1,3-diphenylthieno[2,3-c]pyrazole-5-carboxamide",16958395,0
+4586402,"3-methyl-n-(2-morpholin-4-ylethyl)-1-phenylthieno[2,3-c]pyrazole-5-carboxamide",3242544,7,13519678,5-ethyl-4-methyl-~{n}-[4-[(2~{s})-morpholin-2-yl]phenyl]-1~{h}-pyrazole-3-carboxamide,130429734,0
+4586402,"3-methyl-n-(2-morpholin-4-ylethyl)-1-phenylthieno[2,3-c]pyrazole-5-carboxamide",3242544,8,10613031,5-[4-methoxy-3-(morpholin-4-ylsulfonyl)phenyl]-n-(pyridin-3-ylmethyl)-1h-pyrazole-3-carboxamide,50751822,0
+4586402,"3-methyl-n-(2-morpholin-4-ylethyl)-1-phenylthieno[2,3-c]pyrazole-5-carboxamide",3242544,9,10612883,5-[4-methoxy-3-(morpholin-4-ylsulfonyl)phenyl]-n-(4-methylbenzyl)-1h-pyrazole-3-carboxamide,50751629,0
+4586402,"3-methyl-n-(2-morpholin-4-ylethyl)-1-phenylthieno[2,3-c]pyrazole-5-carboxamide",3242544,10,14626375,(s)-5-ethyl-4-methyl-n-(4-(morpholin-2-yl)phenyl)-1h-pyrazole-3-carboxamide hydrochloride,164883617,0
+2608215,3-methyl-1-[4-(2-nitrobenzyl)piperazin-1-yl]butan-1-one,773353,1,2608198,3-methyl-1-[4-(4-nitrobenzyl)piperazin-1-yl]butan-1-one,773335,0
+2608215,3-methyl-1-[4-(2-nitrobenzyl)piperazin-1-yl]butan-1-one,773353,2,2608191,3-methyl-1-[4-(3-nitrobenzyl)piperazin-1-yl]butan-1-one,773331,0
+2608215,3-methyl-1-[4-(2-nitrobenzyl)piperazin-1-yl]butan-1-one,773353,3,2608214,3-methyl-1-{4-[(2-nitrophenyl)methyl]piperazin-1-yl}butan-1-one,773353,1
+2608215,3-methyl-1-[4-(2-nitrobenzyl)piperazin-1-yl]butan-1-one,773353,4,3011291,"3-methyl-1-[4-(2,3,4-trimethoxybenzyl)piperazin-1-yl]butan-1-one",1203196,0
+2608215,3-methyl-1-[4-(2-nitrobenzyl)piperazin-1-yl]butan-1-one,773353,5,2608213,3-methyl-1-[4-[(2-nitrophenyl)methyl]piperazin-1-yl]butan-1-one,773353,1
+2608215,3-methyl-1-[4-(2-nitrobenzyl)piperazin-1-yl]butan-1-one,773353,6,2608197,3-methyl-1-[4-[(4-nitrophenyl)methyl]piperazin-1-yl]butan-1-one,773335,0
+2608215,3-methyl-1-[4-(2-nitrobenzyl)piperazin-1-yl]butan-1-one,773353,7,3011296,"3-methyl-1-[4-(2,4,5-trimethoxybenzyl)piperazin-1-yl]butan-1-one",1203197,0
+2608215,3-methyl-1-[4-(2-nitrobenzyl)piperazin-1-yl]butan-1-one,773353,8,9409149,"3,3-dimethyl-1-[4-(4-methylbenzyl)piperazin-1-yl]butan-1-one",24019922,0
+2608215,3-methyl-1-[4-(2-nitrobenzyl)piperazin-1-yl]butan-1-one,773353,9,4954620,3-methyl-1-[4-(4-nitrophenyl)piperazin-1-yl]butan-1-one,3933546,0
+2608215,3-methyl-1-[4-(2-nitrobenzyl)piperazin-1-yl]butan-1-one,773353,10,3273831,"3-methyl-1-[4-(3,4,5-trimethoxybenzyl)piperazin-1-yl]butan-1-one",1529409,0
+1119414,hexadecanoic acid 2-hydroxy-1-(hydroxymethyl)ethyl ester,123409,1,1119391,"hexadecanoic acid, 2-hydroxy-1-(hydroxymethyl)ethyl ester",123409,1
+1119414,hexadecanoic acid 2-hydroxy-1-(hydroxymethyl)ethyl ester,123409,2,1119425,"hexadecanoic acid,2-hydroxy-1-(hydroxymethyl)ethyl ester",123409,1
+1119414,hexadecanoic acid 2-hydroxy-1-(hydroxymethyl)ethyl ester,123409,3,13495370,"hexadecanoic acid, 2-hydroxy-1-(hydroxymethyl) ethyl ester",129853056,0
+1119414,hexadecanoic acid 2-hydroxy-1-(hydroxymethyl)ethyl ester,123409,4,13495369,hexadecanoic acid 2-hydroxy-1-(hydroxymethyl) ethyl ester,129853056,0
+1119414,hexadecanoic acid 2-hydroxy-1-(hydroxymethyl)ethyl ester,123409,5,1255594,"hexadecanoic acid, 2-(hexadecyloxy)-1-(hydroxymethyl)ethyl ester",152228,0
+1119414,hexadecanoic acid 2-hydroxy-1-(hydroxymethyl)ethyl ester,123409,6,8822512,2-hydroxy-1-hexadecanoic acid ethyl ester,18942997,0
+1119414,hexadecanoic acid 2-hydroxy-1-(hydroxymethyl)ethyl ester,123409,7,1237840,"hexadecanoic acid, 2-(2,3-dihydro-2-(hydroxymethyl)-2,4,6-trimethyl-3-oxo-1h-inden-5-yl)ethyl ester, (-)-",148314,0
+1119414,hexadecanoic acid 2-hydroxy-1-(hydroxymethyl)ethyl ester,123409,8,998565,"hexadecanoic acid, 2-(2-hydroxyethoxy)ethyl ester",101323,0
+1119414,hexadecanoic acid 2-hydroxy-1-(hydroxymethyl)ethyl ester,123409,9,6918584,"hexadecanoic acid, 2-hydroxy-2-(hydroxymethyl)-, methyl ester, (s)-",10686914,0
+1119414,hexadecanoic acid 2-hydroxy-1-(hydroxymethyl)ethyl ester,123409,10,7705127,"hexadecanoic acid, 1-(hydroxymethyl)-2-[(1-oxododecyl)oxy]ethyl ester",14275222,0

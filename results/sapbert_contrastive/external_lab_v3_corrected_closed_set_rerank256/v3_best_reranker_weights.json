@@ -1,0 +1,12 @@
+{
+  "name": "random_086",
+  "embedding_score_norm": 0.5752420344210024,
+  "rank_prior": 0.0005994043670919589,
+  "compact_exact": 0.01288747144452344,
+  "sequence_ratio": 0.15114859837435277,
+  "char3_jaccard": 0.023118621330574914,
+  "token_jaccard": 0.17794705391329962,
+  "lipid_signature_match": 0.05850092214070367,
+  "lipid_class_match": 0.000555894008451015,
+  "stereo_mismatch": -0.0
+}

@@ -1,0 +1,6 @@
+{
+  "sample_pairs": 4096,
+  "positive_cosine_mean": 0.7089641690254211,
+  "random_negative_cosine_mean": 0.3501396179199219,
+  "positive_gt_random_fraction": 0.94287109375
+}

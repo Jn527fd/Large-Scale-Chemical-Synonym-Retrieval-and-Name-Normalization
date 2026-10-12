@@ -1,0 +1,20 @@
+{
+  "label": "condensed PubMed/PubChem fallback surfaces",
+  "model_name_or_path": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/sapbert_contrastive/artifacts/model",
+  "max_length": 96,
+  "pooling": "cls",
+  "embed_dtype": "float16",
+  "n_texts": 24145193,
+  "pubmed_max_names_per_cid": 50,
+  "pubmed_embed_row_limit": null,
+  "pubmed_deduplicate_global_surfaces": true,
+  "pubmed_surface_count": 24145193,
+  "pubmed_surfaces_csv_size": 5395987987,
+  "embedding_path": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/refmet_harmonization_publication_pipeline/artifacts/pubmed_fallback_surface_embeddings.npy",
+  "shape": [
+    24145193,
+    768
+  ],
+  "dtype": "float16",
+  "size_bytes": 37087016448
+}

@@ -1,0 +1,6 @@
+review_stratum,n_cases
+gold_in_top10_not_rank1,75
+candidate_generation_miss_or_low_rank,75
+strict_noncopy_exact_top1_success,50
+strict_noncopy_identity_aware_only_success,50
+high_confidence_wrong_identity,50

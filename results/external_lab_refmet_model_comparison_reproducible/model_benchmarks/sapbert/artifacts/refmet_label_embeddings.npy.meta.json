@@ -1,0 +1,11 @@
+{
+  "n": 68988,
+  "d": 768,
+  "model_name": "cambridgeltl/SapBERT-from-PubMedBERT-fulltext",
+  "pooling": "cls",
+  "prefix": null,
+  "max_length": 96,
+  "dtype": "float16",
+  "normalize": true,
+  "run_key": "external_lab_refmet_model_comparison_reproducible_sapbert_refmet_labels"
+}

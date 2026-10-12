@@ -1,0 +1,11 @@
+{
+  "run_name": "sapbert_full_114m_soft_hard_negative_V4",
+  "start_model_source": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/sapbert_contrastive/artifacts/model",
+  "loss_mode": "softplus_multi_negative",
+  "best_model_dir": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/sapbert_full_114m_soft_hard_negative_V4/artifacts/model_best",
+  "last_model_dir": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/sapbert_full_114m_soft_hard_negative_V4/artifacts/model_last",
+  "best_step": 0,
+  "best_validation_MRR": 0.10363153538354958,
+  "max_train_steps": 10000,
+  "elapsed_sec": 2695.6093667589994
+}

@@ -1,0 +1,10 @@
+{
+  "n_total_predictions": 443540,
+  "n_gold_with_cid": 91579,
+  "n_fallback_gold_not_refmet_top10_with_gold_cid": 51516,
+  "split_counts": {
+    "train": 30949,
+    "test": 10284,
+    "validation": 10283
+  }
+}

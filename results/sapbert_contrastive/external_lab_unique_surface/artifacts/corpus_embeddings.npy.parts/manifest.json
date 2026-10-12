@@ -1,0 +1,10 @@
+{
+  "file_name": "corpus_embeddings.npy",
+  "original_size": 175667682944,
+  "chunk_size": 2147483648,
+  "n_chunks": 82,
+  "parts_dir": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/sapbert_contrastive/external_lab_unique_surface/artifacts/corpus_embeddings.npy.parts",
+  "mode": "reverse_destructive_move",
+  "completed": true,
+  "chunks": {}
+}

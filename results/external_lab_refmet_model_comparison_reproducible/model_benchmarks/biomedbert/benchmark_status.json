@@ -1,0 +1,6 @@
+{
+  "status": "complete",
+  "model_key": "biomedbert",
+  "model_name": "microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext",
+  "saved_at": "2026-07-21 21:59:18"
+}

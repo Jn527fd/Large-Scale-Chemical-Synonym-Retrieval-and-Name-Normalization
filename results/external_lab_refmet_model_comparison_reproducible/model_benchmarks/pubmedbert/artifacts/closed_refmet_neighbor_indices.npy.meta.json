@@ -1,0 +1,19 @@
+{
+  "model_key": "pubmedbert",
+  "model_name": "microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext",
+  "pooling": "mean",
+  "query_prefix": null,
+  "target_prefix": null,
+  "n_queries": 295812,
+  "n_targets": 68988,
+  "k_retrieve": 256,
+  "query_shape": [
+    295812,
+    768
+  ],
+  "target_shape": [
+    68988,
+    768
+  ],
+  "run_name": "external_lab_refmet_model_comparison_reproducible"
+}

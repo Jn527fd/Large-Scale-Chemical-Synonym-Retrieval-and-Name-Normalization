@@ -1,0 +1,31 @@
+{
+  "run_name": "sapbert_contrastive_refmet_v2_corrected",
+  "task": "v2 corrected metabolite_name to refmet_name / CID evaluation",
+  "lab_csv": {
+    "path": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/data/allmetnames_062626.csv",
+    "exists": true,
+    "size": 16014063,
+    "mtime": 1782752534.0
+  },
+  "reference_csv": {
+    "path": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/data/CID-Synonym-full.csv",
+    "exists": true,
+    "size": 4218338069,
+    "mtime": 1774571103.0
+  },
+  "model_dir": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/sapbert_contrastive/artifacts/model",
+  "max_length": 96,
+  "pooling": "cls",
+  "embedding_dtype": "float16",
+  "index_type": "ivfpq",
+  "nprobe": 1024,
+  "k_retrieve": 256,
+  "rerank_pool_k": 256,
+  "v2_steps": [
+    "deterministic refmet mapping variants",
+    "compact-key refmet mapping",
+    "exact embedding rerank over IVFPQ candidates",
+    "hybrid lexical rerank",
+    "optional refmet target dictionary augmentation"
+  ]
+}

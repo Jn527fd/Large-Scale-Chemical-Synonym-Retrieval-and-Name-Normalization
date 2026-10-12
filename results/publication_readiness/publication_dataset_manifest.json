@@ -1,0 +1,189 @@
+{
+  "generated_at": "2026-07-27T17:22:12.201840",
+  "project_dir": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer",
+  "run_dir": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/external_lab_refmet_model_comparison_reproducible",
+  "dataset_summary": {
+    "raw_lab_rows": 443540,
+    "rows_with_both_names": 311553,
+    "deduplicated_query_pairs": 295812,
+    "unique_refmet_labels": 68988,
+    "split_counts": {
+      "train": 177487,
+      "test": 59163,
+      "val": 59162
+    },
+    "identical_metabolite_refmet_pairs": 22018
+  },
+  "refmet_cid_mapping_summary": {
+    "loaded_from_cache": true,
+    "unique_refmet_labels": 68988,
+    "mapped_labels_total": 33077,
+    "unmapped_labels_total": 35911,
+    "mapped_by_method": {
+      "exact": 22441,
+      "compact_key": 10258,
+      "strip_instrument_suffix": 375,
+      "remove_quotes": 2,
+      "punctuation_spaced": 1
+    }
+  },
+  "deterministic_mapping_summary": {
+    "reference_summary": {
+      "reference_csv_available": true,
+      "target_lab_normalized_names": 467549,
+      "reference_rows_read": 114674081,
+      "matched_reference_name_cid_pairs": 114775,
+      "unique_matched_normalized_names": 109086,
+      "ambiguous_matched_normalized_names": 3627,
+      "lookup_path": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/external_lab_refmet_model_comparison_reproducible/artifacts/targeted_reference_lookup.csv"
+    },
+    "lab_long_summary": {
+      "available_lab_name_columns": [
+        "metabolite_name",
+        "refmet_name"
+      ],
+      "lab_name_values_used": 755091,
+      "target_lab_normalized_names": 467549
+    },
+    "mapping_summary": {
+      "lab_rows": 443540,
+      "lab_name_values_used": 755091,
+      "matched_rows": 233002,
+      "unique_cid_rows": 216792,
+      "ambiguous_cid_rows": 16210,
+      "unmatched_rows": 210538,
+      "unique_assigned_cids": 81957,
+      "matched_row_pct": 52.532,
+      "unique_cid_row_pct": 48.878
+    },
+    "lab_csv_path": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/data/allmetnames_062626.csv",
+    "reference_csv_path": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/data/CID-Synonym-full.csv",
+    "lab_name_columns": [
+      "metabolite_name",
+      "refmet_name"
+    ],
+    "outputs": {
+      "mapped_lab": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/external_lab_refmet_model_comparison_reproducible/deterministic_cid_mapping/lab_names_with_candidate_cids.csv",
+      "labeled": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/external_lab_refmet_model_comparison_reproducible/deterministic_cid_mapping/lab_labeled_for_evaluation.csv",
+      "ambiguous": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/external_lab_refmet_model_comparison_reproducible/deterministic_cid_mapping/lab_names_ambiguous_cids.csv",
+      "unmatched": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/external_lab_refmet_model_comparison_reproducible/deterministic_cid_mapping/lab_names_unmatched.csv",
+      "long_matches": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/external_lab_refmet_model_comparison_reproducible/deterministic_cid_mapping/lab_name_column_matches.csv"
+    }
+  },
+  "artifact_manifest": [
+    {
+      "artifact": "config",
+      "path": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/external_lab_refmet_model_comparison_reproducible/config.json",
+      "exists": true,
+      "size_bytes": 990
+    },
+    {
+      "artifact": "data_summary",
+      "path": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/external_lab_refmet_model_comparison_reproducible/v4_data_summary.json",
+      "exists": true,
+      "size_bytes": 261
+    },
+    {
+      "artifact": "final_metrics",
+      "path": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/external_lab_refmet_model_comparison_reproducible/v4_final_metrics.json",
+      "exists": true,
+      "size_bytes": 15695
+    },
+    {
+      "artifact": "final_comparison",
+      "path": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/external_lab_refmet_model_comparison_reproducible/v4_final_comparison.csv",
+      "exists": true,
+      "size_bytes": 5162
+    },
+    {
+      "artifact": "predictions",
+      "path": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/external_lab_refmet_model_comparison_reproducible/v4_final_test_predictions.csv",
+      "exists": true,
+      "size_bytes": 17109347
+    },
+    {
+      "artifact": "top_hits",
+      "path": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/external_lab_refmet_model_comparison_reproducible/v4_final_test_top_hits.csv",
+      "exists": true,
+      "size_bytes": 60278920
+    },
+    {
+      "artifact": "confidence_curves",
+      "path": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/external_lab_refmet_model_comparison_reproducible/v4_confidence_curves.csv",
+      "exists": true,
+      "size_bytes": 945
+    },
+    {
+      "artifact": "refmet_cid_mapping_summary",
+      "path": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/external_lab_refmet_model_comparison_reproducible/v4_refmet_cid_mapping_summary.json",
+      "exists": true,
+      "size_bytes": 293
+    },
+    {
+      "artifact": "deterministic_mapping_summary",
+      "path": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/external_lab_refmet_model_comparison_reproducible/deterministic_cid_mapping/deterministic_mapping_summary.json",
+      "exists": true,
+      "size_bytes": 2223
+    },
+    {
+      "artifact": "refmet_dictionary",
+      "path": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/external_lab_refmet_model_comparison_reproducible/artifacts/v4_refmet_label_dictionary.csv",
+      "exists": true,
+      "size_bytes": 4881606
+    },
+    {
+      "artifact": "refmet_cid_mapping",
+      "path": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/external_lab_refmet_model_comparison_reproducible/artifacts/v4_refmet_label_cid_mapping.csv",
+      "exists": true,
+      "size_bytes": 1500509
+    },
+    {
+      "artifact": "query_pairs",
+      "path": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/external_lab_refmet_model_comparison_reproducible/artifacts/v4_query_pairs.csv",
+      "exists": true,
+      "size_bytes": 28144867
+    },
+    {
+      "artifact": "taxonomy",
+      "path": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/external_lab_refmet_model_comparison_reproducible/step6_error_taxonomy.csv",
+      "exists": true,
+      "size_bytes": 28670772
+    },
+    {
+      "artifact": "taxonomy_counts",
+      "path": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/external_lab_refmet_model_comparison_reproducible/step6_error_taxonomy_counts.csv",
+      "exists": true,
+      "size_bytes": 537
+    },
+    {
+      "artifact": "case_group_counts",
+      "path": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/external_lab_refmet_model_comparison_reproducible/step6_case_group_counts.csv",
+      "exists": true,
+      "size_bytes": 298
+    },
+    {
+      "artifact": "representative_examples",
+      "path": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/external_lab_refmet_model_comparison_reproducible/step6_representative_examples.csv",
+      "exists": true,
+      "size_bytes": 5696
+    },
+    {
+      "artifact": "reranker_ablation_metrics",
+      "path": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/external_lab_refmet_model_comparison_reproducible/reranker_ablation_metrics.csv",
+      "exists": true,
+      "size_bytes": 12701
+    },
+    {
+      "artifact": "bootstrap_confidence_intervals",
+      "path": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/bootstrap_confidence_intervals.csv",
+      "exists": true,
+      "size_bytes": 33424
+    },
+    {
+      "artifact": "bootstrap_metric_differences",
+      "path": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/bootstrap_metric_differences.csv",
+      "exists": true,
+      "size_bytes": 21891
+    }
+  ]
+}

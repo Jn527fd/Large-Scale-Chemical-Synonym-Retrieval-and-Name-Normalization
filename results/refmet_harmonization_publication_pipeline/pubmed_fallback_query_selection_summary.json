@@ -1,0 +1,8 @@
+{
+  "pubmed_fallback_query_mode": "calibrated",
+  "auto_accept_target_precision": 0.9,
+  "fallback_target_hit10": 0.8,
+  "n_queries_total": 443540,
+  "n_queries_sent_to_pubmed_fallback": 272709,
+  "fraction_sent_to_pubmed_fallback": 0.6148464625512918
+}

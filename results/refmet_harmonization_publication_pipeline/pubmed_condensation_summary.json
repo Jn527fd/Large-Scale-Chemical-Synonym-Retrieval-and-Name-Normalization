@@ -1,0 +1,9 @@
+{
+  "n_rows": 24306210,
+  "n_unique_cids": 13842608,
+  "n_unique_normalized_surfaces": 24145193,
+  "max_names_per_cid_after_condensing": 50,
+  "pubmed_csv": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/data/good.csv",
+  "condensed_parquet": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/refmet_harmonization_publication_pipeline/artifacts/pubmed_condensed_top50_per_cid.parquet",
+  "pubmed_max_names_per_cid": 50
+}

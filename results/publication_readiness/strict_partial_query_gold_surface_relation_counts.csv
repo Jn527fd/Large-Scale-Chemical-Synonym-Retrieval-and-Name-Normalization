@@ -1,0 +1,6 @@
+query_gold_surface_relation,n_queries
+nontrivial_surface_difference,20943
+compact_substring,14981
+token_subset,9957
+compact_equal,7991
+seq_ratio_ge_0.90,809

@@ -1,0 +1,11 @@
+{
+  "n": 295812,
+  "d": 1024,
+  "model_name": "intfloat/e5-large-v2",
+  "pooling": "mean",
+  "prefix": "query: ",
+  "max_length": 96,
+  "dtype": "float16",
+  "normalize": true,
+  "run_key": "external_lab_refmet_model_comparison_reproducible_e5_large_queries"
+}

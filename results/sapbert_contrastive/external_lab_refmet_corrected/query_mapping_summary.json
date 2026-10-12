@@ -1,0 +1,10 @@
+{
+  "lab_rows": 443540,
+  "rows_with_metabolite_name": 443538,
+  "rows_with_refmet_name": 311553,
+  "rows_with_both_names": 311553,
+  "deduplicated_query_pairs": 295812,
+  "queries_with_refmet_mapped_to_reference": 140808,
+  "queries_without_refmet_mapping": 155004,
+  "queries_where_metabolite_equals_refmet": 22018
+}

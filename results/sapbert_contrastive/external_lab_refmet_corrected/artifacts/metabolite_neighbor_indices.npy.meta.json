@@ -1,0 +1,17 @@
+{
+  "n_queries": 140808,
+  "k_retrieve": 256,
+  "query_embeddings": {
+    "path": "/mnt/local-scratch/chem_synonymizer/sapbert_contrastive_refmet_corrected/artifacts/metabolite_query_embeddings.npy",
+    "exists": true,
+    "size": 216281216,
+    "mtime": 1783973126.581242
+  },
+  "faiss_index": {
+    "path": "/mnt/local-scratch/chem_synonymizer/sapbert_contrastive_refmet_corrected/artifacts/faiss_ivfpq.index",
+    "exists": true,
+    "size": 11945415356,
+    "mtime": 1782872316.0
+  },
+  "corrected_task": true
+}

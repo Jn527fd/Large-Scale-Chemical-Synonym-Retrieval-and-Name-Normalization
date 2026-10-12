@@ -1,0 +1,11 @@
+{
+  "n": 216792,
+  "d": 768,
+  "prefix": null,
+  "pooling": "cls",
+  "max_length": 96,
+  "model_name": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/sapbert_contrastive/artifacts/model",
+  "run_key": "external_lab_sapbert_contrastive",
+  "dtype": "float16",
+  "normalize": true
+}

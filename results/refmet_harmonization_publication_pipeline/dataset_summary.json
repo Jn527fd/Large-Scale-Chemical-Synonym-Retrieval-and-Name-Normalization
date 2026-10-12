@@ -1,0 +1,17 @@
+{
+  "lab_csv": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/data/allmetnames_062626.csv",
+  "refmet_csv": null,
+  "pubmed_csv": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/data/good.csv",
+  "n_lab_rows": 443540,
+  "n_rows_with_metabolite_name": 443540,
+  "n_rows_with_refmet_name": 311553,
+  "n_eval_rows_mapped_to_refmet_target": 311553,
+  "n_refmet_targets": 68988,
+  "n_exact_normalized_metabolite_equals_refmet": 28049,
+  "split_counts": {
+    "train": 186931,
+    "unlabeled_or_unmapped": 131987,
+    "validation": 62311,
+    "test": 62311
+  }
+}

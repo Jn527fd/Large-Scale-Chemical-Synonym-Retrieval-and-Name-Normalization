@@ -1,0 +1,10 @@
+{
+  "total_csv_rows_seen": 114674081,
+  "chunk_dedup_rows_inserted": 114672214,
+  "unique_cid_name_pairs": 114672214,
+  "trainable_cids": 17372599,
+  "sampled_name_rows": 34745198,
+  "train_pairs": 17372599,
+  "names_per_cid": 2,
+  "elapsed_sec": 654.64073021
+}

@@ -1,0 +1,16 @@
+{
+  "run_name": "sapbert_contrastive",
+  "baseline": "fine_tune",
+  "base_model_key": "sapbert",
+  "objective": "contrastive",
+  "use_hard_negatives": false,
+  "output_dir": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/sapbert_contrastive/artifacts/model",
+  "elapsed_sec": 312.5503328750001,
+  "last_history": {
+    "epoch": 1,
+    "step": 1000,
+    "loss": 0.5213795900344849,
+    "rolling_loss": 0.4444187803912676,
+    "elapsed_sec": 310.045378581
+  }
+}

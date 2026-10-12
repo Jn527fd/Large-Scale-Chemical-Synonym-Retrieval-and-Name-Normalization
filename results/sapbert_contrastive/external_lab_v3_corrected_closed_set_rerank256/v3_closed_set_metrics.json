@@ -1,0 +1,106 @@
+{
+  "run_name": "sapbert_contrastive_refmet_v3_closed_set",
+  "model_key": "sapbert_contrastive",
+  "task": "closed_set_lab_refmet_name_prediction_from_metabolite_name",
+  "data_summary": {
+    "raw_lab_rows": 443540,
+    "rows_with_both_names": 311553,
+    "deduplicated_query_pairs": 295812,
+    "unique_refmet_labels": 68988,
+    "split_counts": {
+      "train": 177487,
+      "test": 59163,
+      "val": 59162
+    },
+    "identical_metabolite_refmet_pairs": 22018
+  },
+  "embedding_baseline": {
+    "train": {
+      "embedding_MRR": 0.4653742783150081,
+      "embedding_HitRate@1": 0.38658605982409977,
+      "embedding_HitRate@5": 0.5489472468406137,
+      "embedding_HitRate@10": 0.6151323758923188,
+      "embedding_HitRate@25": 0.7040402959089962,
+      "embedding_HitRate@50": 0.7659941291474869,
+      "embedding_HitRate@100": 0.8202459898471437,
+      "embedding_HitRate@256": 0.8847915621989216
+    },
+    "val": {
+      "embedding_MRR": 0.46544591069469915,
+      "embedding_HitRate@1": 0.38678543659781617,
+      "embedding_HitRate@5": 0.5487982150704844,
+      "embedding_HitRate@10": 0.6169162638179913,
+      "embedding_HitRate@25": 0.7043203407592712,
+      "embedding_HitRate@50": 0.7667759710625064,
+      "embedding_HitRate@100": 0.821152090869139,
+      "embedding_HitRate@256": 0.8854332172678409
+    },
+    "test": {
+      "embedding_MRR": 0.46680314689843916,
+      "embedding_HitRate@1": 0.3886043642141203,
+      "embedding_HitRate@5": 0.5504453797136724,
+      "embedding_HitRate@10": 0.6156212497675912,
+      "embedding_HitRate@25": 0.7062691209032672,
+      "embedding_HitRate@50": 0.767168669607694,
+      "embedding_HitRate@100": 0.820563527880601,
+      "embedding_HitRate@256": 0.8860098372293495
+    }
+  },
+  "tuned_reranker": {
+    "val": {
+      "rerank_MRR": 0.7246781353729616,
+      "rerank_HitRate@1": 0.6622156113721646,
+      "rerank_HitRate@5": 0.8055846658327981,
+      "rerank_HitRate@10": 0.8362124336567391,
+      "rerank_HitRate@25": 0.8590987458165714,
+      "rerank_HitRate@50": 0.8677191440451641,
+      "rerank_HitRate@100": 0.875612724383895,
+      "rerank_HitRate@256": 0.8854332172678409
+    },
+    "test": {
+      "rerank_MRR": 0.7262695020914592,
+      "rerank_HitRate@1": 0.6636749319676148,
+      "rerank_HitRate@5": 0.8079711982151007,
+      "rerank_HitRate@10": 0.8366208610111049,
+      "rerank_HitRate@25": 0.858475736524517,
+      "rerank_HitRate@50": 0.8681270388587462,
+      "rerank_HitRate@100": 0.8756655342021196,
+      "rerank_HitRate@256": 0.8860098372293495
+    }
+  },
+  "best_reranker_weights": {
+    "name": "random_086",
+    "embedding_score_norm": 0.5752420344210024,
+    "rank_prior": 0.0005994043670919589,
+    "compact_exact": 0.01288747144452344,
+    "sequence_ratio": 0.15114859837435277,
+    "char3_jaccard": 0.023118621330574914,
+    "token_jaccard": 0.17794705391329962,
+    "lipid_signature_match": 0.05850092214070367,
+    "lipid_class_match": 0.000555894008451015,
+    "stereo_mismatch": -0.0
+  },
+  "primary_test_result": {
+    "embedding_MRR": 0.46680314689843916,
+    "embedding_HitRate@1": 0.3886043642141203,
+    "embedding_HitRate@5": 0.5504453797136724,
+    "embedding_HitRate@10": 0.6156212497675912,
+    "embedding_HitRate@25": 0.7062691209032672,
+    "embedding_HitRate@50": 0.767168669607694,
+    "embedding_HitRate@100": 0.820563527880601,
+    "embedding_HitRate@256": 0.8860098372293495,
+    "rerank_MRR": 0.7262695020914592,
+    "rerank_HitRate@1": 0.6636749319676148,
+    "rerank_HitRate@5": 0.8079711982151007,
+    "rerank_HitRate@10": 0.8366208610111049,
+    "rerank_HitRate@25": 0.858475736524517,
+    "rerank_HitRate@50": 0.8681270388587462,
+    "rerank_HitRate@100": 0.8756655342021196,
+    "rerank_HitRate@256": 0.8860098372293495
+  },
+  "notes": [
+    "Candidate labels are unique refmet_name values from the provided lab file.",
+    "All lab-provided RefMet labels are searchable in train/val/test; query rows are held out by split.",
+    "Reranker weights are selected using a validation subset and reported on the held-out test split."
+  ]
+}

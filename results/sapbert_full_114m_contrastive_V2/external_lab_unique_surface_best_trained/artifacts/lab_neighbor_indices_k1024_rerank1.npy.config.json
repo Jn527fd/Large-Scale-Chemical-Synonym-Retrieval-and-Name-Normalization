@@ -1,0 +1,46 @@
+{
+  "model_key": "sapbert_contrastive",
+  "model_dir": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/sapbert_full_114m_contrastive_V2/artifacts/model_best_trained",
+  "lab_labels": {
+    "path": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/lab_cid_mapping/lab_labeled_for_evaluation.csv",
+    "size": 7799780,
+    "mtime_ns": 1782760155000000000
+  },
+  "query_embeddings": {
+    "path": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/sapbert_full_114m_contrastive_V2/external_lab_unique_surface_best_trained/artifacts/lab_query_embeddings.npy.parts",
+    "chunked": true,
+    "original_size": 332992640,
+    "chunk_size": 2147483648,
+    "n_chunks": 1,
+    "completed": true,
+    "chunks_hash": "721949b4b9ece693"
+  },
+  "corpus_embeddings_for_rerank": {
+    "path": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/sapbert_full_114m_contrastive_V2/external_lab_unique_surface_best_trained/artifacts/corpus_embeddings.npy.parts",
+    "chunked": true,
+    "original_size": 175667682944,
+    "chunk_size": 2147483648,
+    "n_chunks": 82,
+    "completed": true,
+    "chunks_hash": "ab130de06cd075e1"
+  },
+  "faiss_index": {
+    "path": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/sapbert_full_114m_contrastive_V2/external_lab_unique_surface_best_trained/artifacts/faiss_ivfpq.index",
+    "size": 11945415356,
+    "mtime_ns": 1783015597000000000
+  },
+  "index_type": "ivfpq",
+  "nlist": 16384,
+  "nprobe": 1024,
+  "train_size": 3000000,
+  "m_pq": 96,
+  "nbits": 8,
+  "k_retrieve": 1024,
+  "search_batch_size": 8192,
+  "rerank_candidates_with_original_embeddings": true,
+  "rerank_batch_size": 512,
+  "pooling": "cls",
+  "max_length": 96,
+  "embedding_dtype": "float16",
+  "l2_normalize": true
+}

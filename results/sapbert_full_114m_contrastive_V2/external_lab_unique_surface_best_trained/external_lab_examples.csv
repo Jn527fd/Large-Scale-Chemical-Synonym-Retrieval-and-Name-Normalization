@@ -1,0 +1,501 @@
+query_i,rank0,surface_id,query_cid,query_name,retrieved_normalized_name,retrieved_display_name,candidate_cids,relevant,filtered_rank
+535,1,6841195,35024530,"11-Dehydro-2,3-dinor-txb2","2,3-dinor-txb2","2,3-Dinor-TXB2",5283138,False,1
+535,2,5126500,35024530,"11-Dehydro-2,3-dinor-txb2","11-dehydro-2,3-dinor txb2","11-dehydro-2,3-dinor TXB2",35024530,True,2
+535,3,6841127,35024530,"11-Dehydro-2,3-dinor-txb2","2,3-dinor txb2","2,3-Dinor txb2",6438342,False,3
+535,4,5126501,35024530,"11-Dehydro-2,3-dinor-txb2","11-dehydro-2,3-dinor-thromboxane b2","11-Dehydro-2,3-dinor-thromboxane B2",6443676,False,4
+535,5,6841193,35024530,"11-Dehydro-2,3-dinor-txb2","2,3-dinor-thromboxane b2","2,3-Dinor-Thromboxane B2",6438342,False,5
+535,6,5126499,35024530,"11-Dehydro-2,3-dinor-txb2","11-dehydro-2,3-dinor thromboxane b2","11-dehydro-2,3-dinor Thromboxane B2",35024523,False,6
+535,7,6841194,35024530,"11-Dehydro-2,3-dinor-txb2","2,3-dinor-txb1","2,3-Dinor-TXB1",52921884,False,7
+535,8,6841123,35024530,"11-Dehydro-2,3-dinor-txb2","2,3-dinor thromboxane b2","2,3-Dinor thromboxane B2",1477|166639975|91886100,False,8
+535,9,5591057,35024530,"11-Dehydro-2,3-dinor-txb2","13,14-dihydro-dhk-txb2","13,14-Dihydro-dhk-txb2",129010935,False,9
+535,10,6841126,35024530,"11-Dehydro-2,3-dinor-txb2","2,3-dinor txb1","2,3-dinor TXB1",101668701,False,10
+2636,1,61693549,21859,Isostearic acid,lambda isostearic acid,lambda isostearic acid,5282646,False,1
+2636,2,2526981,21859,Isostearic acid,.lambda.-isostearic acid,.LAMBDA.-ISOSTEARIC ACID,5282646,False,2
+2636,3,61309203,21859,Isostearic acid,isostearic acid (30% balance isomers),Isostearic acid (30% balance isomers),256370,False,3
+2636,4,61309208,21859,Isostearic acid,isostearic acid ex,Isostearic acid EX,5281,False,4
+2636,5,45424668,21859,Isostearic acid,anteisostearic acid,Anteisostearic acid,4169198,False,5
+2636,6,5597260,21859,Isostearic acid,13-oxoisostearic acid,13-oxoisostearic acid,129655971,False,6
+2636,7,45296316,21859,Isostearic acid,alpha-methylstearic acid,alpha-methylstearic acid,111278,False,7
+2636,8,19731496,21859,Isostearic acid,a-hydroxystearic acid,a-hydroxystearic acid,439887,False,8
+2636,9,61309219,21859,Isostearic acid,"isostearic acid, >=97% (capillary gc)","Isostearic acid, >=97% (capillary GC)",21859,True,9
+2636,10,4896552,21859,Isostearic acid,10-d-hydroxystearic acid,10-D-Hydroxystearic acid,12520,False,10
+7151,1,2141252,10104370,(S)-beta-Bisabolene,(r)-beta-bisabolene,(R)-beta-bisabolene,68128,False,1
+7151,2,2376676,10104370,(S)-beta-Bisabolene,"(s,z)-alpha-bisabolene","(S,Z)-alpha-bisabolene",24798702,False,2
+7151,3,2376674,10104370,(S)-beta-Bisabolene,"(s,z)-a-bisabolene","(S,Z)-a-Bisabolene",5352653,False,3
+7151,4,84764,10104370,(S)-beta-Bisabolene,(-)-beta-bisabolene (>85%),(-)-beta-Bisabolene (>85%),10104370,True,4
+7151,5,84763,10104370,(S)-beta-Bisabolene,(-)-beta-bisabolene,(-)-beta-bisabolene,10104370,True,5
+7151,6,49568,10104370,(S)-beta-Bisabolene,"(+,-)-.beta.-bisabolene","(+,-)-.beta.-Bisabolene",10104370,True,6
+7151,7,80231,10104370,(S)-beta-Bisabolene,(-)-.beta.-bisabolene,(-)-.beta.-bisabolene,10104370,True,7
+7151,8,2014997,10104370,(S)-beta-Bisabolene,"(e,s)-alpha-bisabolene","(E,S)-alpha-bisabolene",24798703,False,8
+7151,9,84603,10104370,(S)-beta-Bisabolene,(-)-b-bisabolene (>85%),(-)-b-Bisabolene (>85%),10104370,True,9
+7151,10,35510,10104370,(S)-beta-Bisabolene,"(+)-(1'r,2r)-alpha-bisabolol","(+)-(1'R,2R)-alpha-Bisabolol",1549992,False,10
+13297,1,6277779,248592,17beta-Pyrazol-3-ylandrost-5-en-3beta-ol,17beta-pyrazol-3-yl-androst-5-en-3beta-ol,17beta-Pyrazol-3-yl-androst-5-en-3beta-ol,248592,True,1
+13297,2,6276408,248592,17beta-Pyrazol-3-ylandrost-5-en-3beta-ol,17beta-(1h-pyrazol-5-yl)androst-5-en-3beta-ol,17beta-(1H-Pyrazol-5-yl)androst-5-en-3beta-ol,248592,True,2
+13297,3,6276395,248592,17beta-Pyrazol-3-ylandrost-5-en-3beta-ol,"17beta-(1,2-oxazol-5-yl)androst-5-en-3beta-ol","17beta-(1,2-Oxazol-5-yl)androst-5-en-3beta-ol",249706,False,3
+13297,4,6178958,248592,17beta-Pyrazol-3-ylandrost-5-en-3beta-ol,17.beta.-pyrazol-3-yl-androst-5-en-3.beta.-ol,17.BETA.-PYRAZOL-3-YL-ANDROST-5-EN-3.BETA.-OL,248592,True,4
+13297,5,45413974,248592,17beta-Pyrazol-3-ylandrost-5-en-3beta-ol,"androst-5-en-3.beta.-ol, 17.beta.-pyrazol-3-yl-","ANDROST-5-EN-3.BETA.-OL, 17.BETA.-PYRAZOL-3-YL-",248592,True,5
+13297,6,6177396,248592,17beta-Pyrazol-3-ylandrost-5-en-3beta-ol,17-oxaandrost-5-en-3beta-ol,17-oxaandrost-5-en-3beta-ol,67684023,False,6
+13297,7,6274866,248592,17beta-Pyrazol-3-ylandrost-5-en-3beta-ol,17a-aza-d-homoandrost-5-en-3beta-ol,17a-Aza-D-homoandrost-5-en-3beta-ol,247855,False,7
+13297,8,45413927,248592,17beta-Pyrazol-3-ylandrost-5-en-3beta-ol,"androst-5-en-3-ol, 17-(1h-pyrazol-3-yl)-, (3.beta.,17.beta.)-","ANDROST-5-EN-3-OL, 17-(1H-PYRAZOL-3-YL)-, (3.BETA.,17.BETA.)-",248592,True,8
+13297,9,6091695,248592,17beta-Pyrazol-3-ylandrost-5-en-3beta-ol,16-oxaandrost-5-en-3beta-ol,16-oxaandrost-5-en-3beta-ol,54086454,False,9
+13297,10,6170284,248592,17beta-Pyrazol-3-ylandrost-5-en-3beta-ol,17-(3-hydroxy-1h-pyrazol-5-yl)androst-5-en-3-ol,17-(3-Hydroxy-1H-pyrazol-5-yl)androst-5-en-3-ol,271785,False,10
+29072,0,11619160,441,3-Hydroxybutyric acid,3- hydroxybutyric acid,3- hydroxybutyric acid,441,True,1
+29072,2,13032743,441,3-Hydroxybutyric acid,"3-hydroxybutyric acid, 95%","3-Hydroxybutyric acid, 95%",441,True,2
+29072,3,11385795,441,3-Hydroxybutyric acid,3 hydroxybutyric acid,3 Hydroxybutyric Acid,441,True,3
+29072,4,13032619,441,3-Hydroxybutyric acid,3-hydroxybutanoic acid,3-hydroxybutanoic acid,441,True,4
+29072,5,13032747,441,3-Hydroxybutyric acid,"3-hydroxybutyric acid, tech grade","3-Hydroxybutyric acid, tech grade",441,True,5
+29072,6,53588802,441,3-Hydroxybutyric acid,delta-3-hydroxybutyric acid,delta-3-hydroxybutyric acid,92135,False,6
+29072,7,13028788,441,3-Hydroxybutyric acid,3-hydroxy-butyric acid,3-hydroxy-butyric acid,441,True,7
+29072,8,91775,441,3-Hydroxybutyric acid,(.+/-.)-3-hydroxybutyric acid,(.+/-.)-3-Hydroxybutyric acid,441,True,8
+29072,9,53947181,441,3-Hydroxybutyric acid,dl-3-hydroxybutyricacid,DL-3-HydroxybutyricAcid,441,True,9
+29072,10,53947174,441,3-Hydroxybutyric acid,dl-3-hydroxybutyric acid,DL-3-Hydroxybutyric Acid,441,True,10
+35334,1,15761039,24755572,5-(1-hydroxypropan-2-yl)isolongifolane,5-(1-hydroxypropan-2-yl)isolongifol-5-ene,5-(1-hydroxypropan-2-yl)isolongifol-5-ene,24755579,False,1
+35334,2,15761038,24755572,5-(1-hydroxypropan-2-yl)isolongifolane,5-(1-hydroxypropan-2-yl)isolongifol-4-ene,5-(1-hydroxypropan-2-yl)isolongifol-4-ene,24755578,False,2
+35334,3,15764224,24755572,5-(1-hydroxypropan-2-yl)isolongifolane,5-(1-oxopropan-2-yl)isolongifol-5-ene,5-(1-oxopropan-2-yl)isolongifol-5-ene,24755571,False,3
+35334,4,61280884,24755572,5-(1-hydroxypropan-2-yl)isolongifolane,isolongifolen-5-one,Isolongifolen-5-one,600416,False,4
+35334,5,15761810,24755572,5-(1-hydroxypropan-2-yl)isolongifolane,5-(1-methoxypropan-2-yl)isolongifol-5-ene,5-(1-methoxypropan-2-yl)isolongifol-5-ene,24755532,False,5
+35334,6,15760779,24755572,5-(1-hydroxypropan-2-yl)isolongifolane,5-(1-hydroxybutan-2-yl)isolongifol-5-ene,5-(1-hydroxybutan-2-yl)isolongifol-5-ene,24755575,False,6
+35334,7,61280879,24755572,5-(1-hydroxypropan-2-yl)isolongifolane,isolongifolane,isolongifolane,24755565,False,7
+35334,8,16460691,24755572,5-(1-hydroxypropan-2-yl)isolongifolane,5-dehydro episterol,5-dehydro episterol,10894570,False,8
+35334,9,16522160,24755572,5-(1-hydroxypropan-2-yl)isolongifolane,"5-hydroxy-2-(propan-2-yl)-2,3-dihydro-1h-isoindol-1-one","5-hydroxy-2-(propan-2-yl)-2,3-dihydro-1H-isoindol-1-one",50993731,False,9
+35334,10,15866557,24755572,5-(1-hydroxypropan-2-yl)isolongifolane,5-(3-hydroxybutan-2-yl)isolongifol-5-ene,5-(3-hydroxybutan-2-yl)isolongifol-5-ene,24755573,False,10
+43943,1,45278809,79041,Acetolactate,alpha-acetolactate,alpha-acetolactate,79041,True,1
+43943,2,8912866,79041,Acetolactate,2-acetolactate,2-Acetolactate,22,False,2
+43943,3,20384587,79041,Acetolactate,acetoacetate,acetoacetate,6971017,False,3
+43943,4,20384920,79041,Acetolactate,acetoacitic acid,Acetoacitic acid,96,False,4
+43943,5,20384597,79041,Acetolactate,acetoacetate-water,acetoacetate-water,88690988,False,5
+43943,6,53947873,79041,Acetolactate,dl-acetolactic acid,DL-Acetolactic acid,22,False,6
+43943,7,52940208,79041,Acetolactate,d-alpha-acetolactic acid,D-alpha-Acetolactic acid,13696363,False,7
+43943,8,20391006,79041,Acetolactate,acetyl lactate,acetyl lactate,9855479,False,8
+43943,9,52936843,79041,Acetolactate,d-.alpha.-acetolactic acid,D-.ALPHA.-ACETOLACTIC ACID,13696363,False,9
+43943,10,20387741,79041,Acetolactate,acetonyl glyoxylate,acetonyl glyoxylate,12625922,False,10
+45178,1,20419215,190,Adenine,"adenine, 1","Adenine, 1",190,True,1
+45178,2,11361421,190,Adenine,2h-adenine,2h-adenine,56633456,False,2
+45178,3,19713193,190,Adenine,[d] adenine,[D] Adenine,156612466,False,3
+45178,4,19571165,190,Adenine,[3h]adenine,[3H]adenine,190,True,4
+45178,5,20419323,190,Adenine,"adenine, >=99%","Adenine, >=99%",190,True,5
+45178,6,20419218,190,Adenine,"adenine, 1-methyl-","Adenine, 1-methyl-",135398646,False,6
+45178,7,19445884,190,Adenine,"[2,3h]-adenine","[2,3h]-adenine",135462629,False,7
+45178,8,20419106,190,Adenine,adenine [jan],Adenine [JAN],190,True,8
+45178,9,20419220,190,Adenine,"adenine, 1-oxide","Adenine, 1-oxide",135407691,False,9
+45178,10,15625402,190,Adenine,4h-adenine,4h-adenine,85613358,False,10
+49554,1,45353873,2178,Amprolium cation,amprolium ion,Amprolium ion,2178,True,1
+49554,2,45353875,2178,Amprolium cation,amprolium(1+),amprolium(1+),2178,True,2
+49554,3,45353845,2178,Amprolium cation,amprolium,amprolium,73341,False,3
+49554,4,45353855,2178,Amprolium cation,amprolium [mi],AMPROLIUM [MI],73341,False,4
+49554,5,45353854,2178,Amprolium cation,amprolium [inn],AMPROLIUM [INN],73341,False,5
+49554,6,45353859,2178,Amprolium cation,amprolium [who-dd],AMPROLIUM [WHO-DD],73341,False,6
+49554,7,45353848,2178,Amprolium cation,amprolium (usp/inn),Amprolium (USP/INN),73341,False,7
+49554,8,45353856,2178,Amprolium cation,amprolium [usp monograph],AMPROLIUM [USP MONOGRAPH],8732,False,8
+49554,9,45353849,2178,Amprolium cation,amprolium 1000 microg/ml in acetonitrile:water,Amprolium 1000 microg/mL in Acetonitrile:Water,73341,False,9
+49554,10,45353851,2178,Amprolium cation,amprolium [green book],AMPROLIUM [GREEN BOOK],8732,False,10
+66946,1,52339968,448209,CMP-N-acetylneuraminic acid,cmp-d-n-acetylneuraminic acid,Cmp-D-N-acetylneuraminic acid,448209,True,1
+66946,2,52339994,448209,CMP-N-acetylneuraminic acid,cmp-n-acetylneuraminate,CMP-N-acetylneuraminate,448209,True,2
+66946,3,52339891,448209,CMP-N-acetylneuraminic acid,cmp n acetylneuraminic acid,CMP N Acetylneuraminic Acid,448209,True,3
+66946,4,52339886,448209,CMP-N-acetylneuraminic acid,cmp acetylneuraminic acid,CMP acetylneuraminic acid,448209,True,4
+66946,5,20394443,448209,CMP-N-acetylneuraminic acid,"acetylneuraminic acid, cmp","Acetylneuraminic acid, CMP",448209,True,5
+66946,6,52927711,448209,CMP-N-acetylneuraminic acid,cytidine-5'-monophospho-n-acetylneuraminic acid,cytidine-5'-monophospho-N-acetylneuraminic acid,448209,True,6
+66946,7,52926670,448209,CMP-N-acetylneuraminic acid,cytidine 5'-monophosphate-n-acetylneuraminic acid,Cytidine 5'-monophosphate-N-acetylneuraminic acid,448209,True,7
+66946,8,52926664,448209,CMP-N-acetylneuraminic acid,cytidine 5'-monophosphate n-acetylneuraminic acid,Cytidine 5'-monophosphate N-acetylneuraminic acid,448209,True,8
+66946,9,52926866,448209,CMP-N-acetylneuraminic acid,cytidine monophosphate n-acetylneuraminic acid,cytidine monophosphate N-acetylneuraminic acid,448209,True,9
+66946,10,52339999,448209,CMP-N-acetylneuraminic acid,cmp-n-acylneuraminate,CMP-N-acylneuraminate,448209,True,10
+79518,1,11386788,129637403,Dimethyluric acid,3 pound not7-dimethyluric acid,3 pound not7-Dimethyluric acid,83126,False,1
+79518,2,53849096,129637403,Dimethyluric acid,dimethylglycidic acid,dimethylglycidic acid,420556,False,2
+79518,3,2915379,129637403,Dimethyluric acid,"1,9-dimethyluric acid","1,9-Dimethyluric acid",108712,False,3
+79518,4,2805553,129637403,Dimethyluric acid,"1,3-dimethyluric acid","1,3-Dimethyluric acid",70346,False,4
+79518,5,53845172,129637403,Dimethyluric acid,dimethylacetic acid,Dimethylacetic acid,6590,False,5
+79518,6,53835167,129637403,Dimethyluric acid,"dimethyl dimethylhydrazine-1,2-dicarboxylate","Dimethyl dimethylhydrazine-1,2-dicarboxylate",23264360,False,6
+79518,7,53835166,129637403,Dimethyluric acid,"dimethyl dimethylhydrazine-1,1-dicarboxylate","Dimethyl dimethylhydrazine-1,1-dicarboxylate",23264361,False,7
+79518,8,64107368,129637403,Dimethyluric acid,"n,n'-dimethylhydrazinedicarboxylic acid","N,N'-dimethylhydrazinedicarboxylic acid",88765450,False,8
+79518,9,53849304,129637403,Dimethyluric acid,dimethylhippuric acid,dimethylhippuric acid,257223,False,9
+79518,10,53847664,129637403,Dimethyluric acid,dimethylcarbamic acid,Dimethylcarbamic acid,44946,False,10
+87617,1,59322926,93379,Forchlorfenuron,forchlorofenuron,Forchlorofenuron,15897813,False,1
+87617,2,59322921,93379,Forchlorfenuron,forchlorfenuron [mi],FORCHLORFENURON [MI],93379,True,2
+87617,3,59322919,93379,Forchlorfenuron,forchlorfenuron [ansi:iso],Forchlorfenuron [ANSI:ISO],93379,True,3
+87617,4,59322917,93379,Forchlorfenuron,forchlorfenuron (standard),Forchlorfenuron (Standard),93379,True,4
+87617,5,59322920,93379,Forchlorfenuron,forchlorfenuron [iso],Forchlorfenuron [ISO],93379,True,5
+87617,6,59322918,93379,Forchlorfenuron,forchlorfenuron 10 microg/ml in methanol,Forchlorfenuron 10 microg/mL in Methanol,93379,True,6
+87617,7,12998928,93379,Forchlorfenuron,3-hydroxy forchlorfenuron,3-Hydroxy forchlorfenuron,122363363,False,7
+87617,8,59322916,93379,Forchlorfenuron,"forchlorfenuron (kt-30, cppu)","Forchlorfenuron (KT-30, CPPU)",93379,True,8
+87617,9,61880812,93379,Forchlorfenuron,lufenuron,Lufenuron,71777,False,9
+87617,10,52330168,93379,Forchlorfenuron,clorsuron,Clorsuron,43231,False,10
+88785,1,9505409,83553,2-Furaldehyde diethyl acetal,"2-furaldehyde, diethyl acetal","2-FURALDEHYDE, DIETHYL ACETAL",83553,True,1
+88785,2,9505239,83553,2-Furaldehyde diethyl acetal,"2-furaldehyde diethyl acetal, 97%","2-Furaldehyde diethyl acetal, 97%",83553,True,2
+88785,3,9506452,83553,2-Furaldehyde diethyl acetal,2-furancarboxaldehyde diethyl acetal,2-Furancarboxaldehyde diethyl acetal,83553,True,3
+88785,4,9505240,83553,2-Furaldehyde diethyl acetal,2-furaldehyde diethylacetal,2-Furaldehyde diethylacetal,83553,True,4
+88785,5,9505426,83553,2-Furaldehyde diethyl acetal,2-furaldehyde-diethylacetal,2-Furaldehyde-diethylacetal,83553,True,5
+88785,6,12991361,83553,2-Furaldehyde diethyl acetal,3-furaldehyde diethyl acetal,3-Furaldehyde diethyl acetal,7006657,False,6
+88785,7,9509269,83553,2-Furaldehyde diethyl acetal,2-furfural diethyl acetal,2-Furfural diethyl acetal,83553,True,7
+88785,8,9505241,83553,2-Furaldehyde diethyl acetal,2-furaldehyde dimethyl acetal,2-FURALDEHYDE DIMETHYL ACETAL,11815465,False,8
+88785,9,8108200,83553,2-Furaldehyde diethyl acetal,2-(furan-2-yl-methylene)-propanedioic acid diethyl ester,2-(furan-2-yl-methylene)-propanedioic acid diethyl ester,28550,False,9
+88785,10,59383424,83553,2-Furaldehyde diethyl acetal,furfural diethyl acetal,Furfural diethyl acetal,83553,True,10
+94210,1,4268156,657272,sn-Glycero-3-phosphocholine,1-acetyl-sn-glycero-3-phosphocholine,1-acetyl-sn-glycero-3-phosphocholine,5311264,False,1
+94210,2,4401334,657272,sn-Glycero-3-phosphocholine,1-caproyl-sn-glycero-3-phosphocholine,1-caproyl-sn-glycero-3-phosphocholine,13917464,False,2
+94210,3,4401347,657272,sn-Glycero-3-phosphocholine,1-capryl-sn-glycero-3-phosphocholine,1-capryl-sn-glycero-3-phosphocholine,22851442,False,3
+94210,4,4681701,657272,sn-Glycero-3-phosphocholine,1-oleyl-sn-glycero-3-phosphocholine,1-oleyl-sn-glycero-3-phosphocholine,24779510,False,4
+94210,5,61612912,657272,sn-Glycero-3-phosphocholine,l-1-glycero-3-phosphocholine,L-1-glycero-3-phosphocholine,657272,True,5
+94210,6,4563528,657272,sn-Glycero-3-phosphocholine,1-linolenoyl-sn-glycero-3-phosphocholine,1-linolenoyl-sn-glycero-3-phosphocholine,24779469,False,6
+94210,7,59697715,657272,sn-Glycero-3-phosphocholine,glycero-3-phosphocholine,GLYCERO-3-PHOSPHOCHOLINE,439285,False,7
+94210,8,4739625,657272,sn-Glycero-3-phosphocholine,1-propionyl-sn-glycero-3-phosphocholine,1-propionyl-sn-glycero-3-phosphocholine,24779483,False,8
+94210,9,4681642,657272,sn-Glycero-3-phosphocholine,1-oleoyl-sn-glycero-3-phosphocholine,1-Oleoyl-sn-glycero-3-phosphocholine,16081932,False,9
+94210,10,4465038,657272,sn-Glycero-3-phosphocholine,1-decyl-sn-glycero-3-phosphocholine,1-decyl-sn-glycero-3-phosphocholine,86289471,False,10
+96815,0,60007541,164480430,Hex2Cer 16:0;O2/26:1,hex2cer 16:2;2o/26:1,Hex2Cer 16:2;2O/26:1,164488874,False,1
+96815,1,60007391,164480430,Hex2Cer 16:0;O2/26:1,hex2cer 16:0;2o/26:1,Hex2Cer 16:0;2O/26:1,164480430,True,2
+96815,2,60007617,164480430,Hex2Cer 16:0;O2/26:1,hex2cer 16:3;2o/26:1,Hex2Cer 16:3;2O/26:1,164344770,False,3
+96815,3,60007466,164480430,Hex2Cer 16:0;O2/26:1,hex2cer 16:1;2o/26:1,Hex2Cer 16:1;2O/26:1,164246597,False,4
+96815,4,60008592,164480430,Hex2Cer 16:0;O2/26:1,hex2cer 20:0;2o/26:1,Hex2Cer 20:0;2O/26:1,164337849,False,5
+96815,5,60008742,164480430,Hex2Cer 16:0;O2/26:1,hex2cer 20:2;2o/26:1,Hex2Cer 20:2;2O/26:1,164273203,False,6
+96815,6,60008667,164480430,Hex2Cer 16:0;O2/26:1,hex2cer 20:1;2o/26:1,Hex2Cer 20:1;2O/26:1,164443044,False,7
+96815,7,60007917,164480430,Hex2Cer 16:0;O2/26:1,hex2cer 17:3;2o/26:1,Hex2Cer 17:3;2O/26:1,164367962,False,8
+96815,8,60007465,164480430,Hex2Cer 16:0;O2/26:1,hex2cer 16:1;2o/26:0,Hex2Cer 16:1;2O/26:0,164293591,False,9
+96815,9,60008067,164480430,Hex2Cer 16:0;O2/26:1,hex2cer 18:1;2o/26:1,Hex2Cer 18:1;2O/26:1,164211093,False,10
+97522,1,61060791,44260037,"Hibiscetin 3,8,4'-trimethyl ether","hypolaetin 8,3',4'-trimethyl ether","Hypolaetin 8,3',4'-trimethyl ether",5316844,False,1
+97522,2,60004701,44260037,"Hibiscetin 3,8,4'-trimethyl ether","herbacetin 3,8,4'-trimethyl ether","Herbacetin 3,8,4'-trimethyl ether",13916278,False,2
+97522,3,60081235,44260037,"Hibiscetin 3,8,4'-trimethyl ether","hibiscetin 3,8,3',4'-tetramethyl ether","Hibiscetin 3,8,3',4'-tetramethyl ether",13983760,False,3
+97522,4,61308739,44260037,"Hibiscetin 3,8,4'-trimethyl ether","isoscutellarein 7,8,4'-trimethyl ether","Isoscutellarein 7,8,4'-trimethyl ether",14353376,False,4
+97522,5,59818390,44260037,"Hibiscetin 3,8,4'-trimethyl ether","gossypetin 8,3',4'-trimethyl ether","Gossypetin 8,3',4'-trimethyl ether",14027562,False,5
+97522,6,60004718,44260037,"Hibiscetin 3,8,4'-trimethyl ether","herbacetin 7,8,4'-trimethyl ether","Herbacetin 7,8,4'-trimethyl ether",5281700,False,6
+97522,7,61308768,44260037,"Hibiscetin 3,8,4'-trimethyl ether","isoscutellarein-7,8,4'-trimethyl ether","Isoscutellarein-7,8,4'-trimethyl ether",14353376,False,7
+97522,8,60081234,44260037,"Hibiscetin 3,8,4'-trimethyl ether","hibiscetin 3,7,8,4'-tetramethyl ether","Hibiscetin 3,7,8,4'-tetramethyl ether",44260038,False,8
+97522,9,109575687,44260037,"Hibiscetin 3,8,4'-trimethyl ether","velloquercetin 3,3',4'-trimethyl ether","Velloquercetin 3,3',4'-trimethyl ether",15126641,False,9
+97522,10,63937087,44260037,"Hibiscetin 3,8,4'-trimethyl ether","myricetin 3,3',4'-trimethyl ether","Myricetin 3,3',4'-trimethyl ether",44259719,False,10
+98170,1,60084893,7009650,His-Trp,his-his-trp,His-His-Trp,71408074,False,1
+98170,2,60085205,7009650,His-Trp,his-trp-his,His-Trp-His,145455992,False,2
+98170,3,108471779,7009650,His-Trp,trp-his,Trp-His,10154381,False,3
+98170,4,60085215,7009650,His-Trp,his-trp-trp,His-Trp-Trp,11570015,False,4
+98170,5,108471798,7009650,His-Trp,trp-his-trp,Trp-His-Trp,101007966,False,5
+98170,6,60084632,7009650,His-Trp,his-ala-trp,His-Ala-Trp,101991512,False,6
+98170,7,108472056,7009650,His-Trp,trp-trp-his,Trp-Trp-His,145458512,False,7
+98170,8,45207925,7009650,His-Trp,ala-his-trp,Ala-His-Trp,145453598,False,8
+98170,9,108291379,7009650,His-Trp,thr-his-trp,Thr-His-Trp,145458088,False,9
+98170,10,60084819,7009650,His-Trp,his-glu-trp,His-Glu-Trp,9912555,False,10
+99082,1,62600509,12679069,Hydroxy-PEG4-methyl acetate,methyl acetate-peg1,Methyl acetate-PEG1,20762880,False,1
+99082,2,62600510,12679069,Hydroxy-PEG4-methyl acetate,methyl acetate-peg1-methyl acetate,Methyl acetate-PEG1-methyl acetate,4534693,False,2
+99082,3,62696972,12679069,Hydroxy-PEG4-methyl acetate,methylglycol acetate,Methylglycol acetate,77544,False,3
+99082,4,62603743,12679069,Hydroxy-PEG4-methyl acetate,methyl cellosolve acetate,METHYL CELLOSOLVE ACETATE,8054,False,4
+99082,5,67716936,12679069,Hydroxy-PEG4-methyl acetate,nh2-peg2-methyl acetate,NH2-PEG2-methyl acetate,23518391,False,5
+99082,6,61051073,12679069,Hydroxy-PEG4-methyl acetate,hydroxy-peg4-methyl ester,Hydroxy-PEG4-methyl ester,134159723,False,6
+99082,7,53910924,12679069,Hydroxy-PEG4-methyl acetate,dipropyleneglycol methyl ether acetate,Dipropyleneglycol methyl ether acetate,9815489,False,7
+99082,8,53576785,12679069,Hydroxy-PEG4-methyl acetate,"decaethylene glycol monomethyl ether, acetate","Decaethylene glycol monomethyl ether, acetate",91699057,False,8
+99082,9,67783832,12679069,Hydroxy-PEG4-methyl acetate,"nonaethylene glycol monomethyl ether, acetate","Nonaethylene glycol monomethyl ether, acetate",91699055,False,9
+99082,10,108693730,12679069,Hydroxy-PEG4-methyl acetate,"undecaethylene glycol monomethyl ether, acetate","Undecaethylene glycol monomethyl ether, acetate",91699058,False,10
+100023,1,45527901,141089995,Ile-Arg-Glu,arg-ile-glu,Arg-Ile-Glu,145453850,False,1
+100023,2,61165501,141089995,Ile-Arg-Glu,ile-glu-arg,Ile-Glu-Arg,145456126,False,2
+100023,3,59667090,141089995,Ile-Arg-Glu,glu-ile-arg,Glu-Ile-Arg,25217474,False,3
+100023,4,45527751,141089995,Ile-Arg-Glu,arg-glu-ile,Arg-Glu-Ile,145453811,False,4
+100023,5,59666776,141089995,Ile-Arg-Glu,glu-arg-ile,Glu-Arg-Ile,145455303,False,5
+100023,6,59696481,141089995,Ile-Arg-Glu,gly-ile-arg,Gly-Ile-Arg,25217594,False,6
+100023,7,45527834,141089995,Ile-Arg-Glu,arg-gly-ile,Arg-Gly-Ile,145453822,False,7
+100023,8,45527903,141089995,Ile-Arg-Glu,arg-ile-gly,Arg-Ile-Gly,145453851,False,8
+100023,9,59695964,141089995,Ile-Arg-Glu,gly-arg-ile,Gly-Arg-Ile,25123283,False,9
+100023,10,61165533,141089995,Ile-Arg-Glu,ile-gly-arg,Ile-Gly-Arg,10405230,False,10
+104501,1,61691128,612,Lactic acid,"lactic acid, unspecified","Lactic acid, unspecified",612,True,1
+104501,2,20400160,612,Lactic acid,acidum lacticum,Acidum lacticum,612,True,2
+104501,3,61691151,612,Lactic acid,lacticum acidum,Lacticum acidum,612,True,3
+104501,4,61690850,612,Lactic acid,lactic acid [jan],Lactic acid [JAN],612,True,4
+104501,5,61690837,612,Lactic acid,"lactic acid (7ci,8ci)","Lactic acid (7CI,8CI)",612,True,5
+104501,6,53945526,612,Lactic acid,dl lactic acid,DL lactic acid,91435,False,6
+104501,7,61691122,612,Lactic acid,"lactic acid, tech grade","Lactic acid, tech grade",612,True,7
+104501,8,61691084,612,Lactic acid,"lactic acid, meets usp testing specifications","Lactic acid, meets USP testing specifications",612,True,8
+104501,9,61611229,612,Lactic acid,l lactic acid,L Lactic Acid,107689,False,9
+104501,10,61691048,612,Lactic acid,"lactic acid, dl-","Lactic acid, dl-",612,True,10
+108467,1,39309,10236627,"2-Amino-14,16-dimethyloctadecan-3-ol","(+)-2-amino-14,16-dimethyloctadecan-3-ol","(+)-2-Amino-14,16-dimethyloctadecan-3-ol",10236627,True,1
+108467,2,13183976,10236627,"2-Amino-14,16-dimethyloctadecan-3-ol","3-octadecanol, 2-amino-14,16-dimethyl-","3-Octadecanol, 2-amino-14,16-dimethyl-",10236627,True,2
+108467,3,18329498,10236627,"2-Amino-14,16-dimethyloctadecan-3-ol","8-amino-2,6-dimethyloct-7-en-2-ol","8-Amino-2,6-dimethyloct-7-en-2-ol",86134802,False,3
+108467,4,841697,10236627,"2-Amino-14,16-dimethyloctadecan-3-ol","(2s,3r)-2-(dimethylamino)octadecane-1,3-diol","(2s,3r)-2-(dimethylamino)octadecane-1,3-diol",98464229,False,4
+108467,5,11381506,10236627,"2-Amino-14,16-dimethyloctadecan-3-ol","2s-dimethylaminooctadecane-1,3r-diol","2S-dimethylaminooctadecane-1,3R-diol",42608375,False,5
+108467,6,2012216,10236627,"2-Amino-14,16-dimethyloctadecan-3-ol","(e,2r,3s)-2-dimethylaminooctadec-4-ene-1,3-diol","(E,2R,3S)-2-dimethylaminooctadec-4-ene-1,3-diol",6438166,False,6
+108467,7,18329497,10236627,"2-Amino-14,16-dimethyloctadecan-3-ol","8-amino-2,6-dimethyloct-6-en-2-ol","8-Amino-2,6-dimethyloct-6-en-2-ol",6365962,False,7
+108467,8,8954901,10236627,"2-Amino-14,16-dimethyloctadecan-3-ol","2-amino-3,3-dimethyloct-4-enoic acid","2-amino-3,3-dimethyloct-4-enoic acid",165687801,False,8
+108467,9,64184170,10236627,"2-Amino-14,16-dimethyloctadecan-3-ol","n,n-dimethyltetradecan-2-amine","n,n-dimethyltetradecan-2-amine",91897,False,9
+108467,10,9036339,10236627,"2-Amino-14,16-dimethyloctadecan-3-ol","2-amino-9,13-dimethyl heptadecanoic acid","2-amino-9,13-dimethyl heptadecanoic acid",21775987,False,10
+109168,1,61843163,24779464,LPC 17:0,lpc 17:1,LPC 17:1,138204501,False,1
+109168,2,61843165,24779464,LPC 17:0,lpc 17:2,LPC 17:2,138165611,False,2
+109168,3,61843533,24779464,LPC 17:0,lpc(17:0),LPC(17:0),24779463,False,3
+109168,4,61843448,24779464,LPC 17:0,lpc o-17:1,LPC O-17:1,164193719,False,4
+109168,5,61843449,24779464,LPC 17:0,lpc o-17:2,LPC O-17:2,164208934,False,5
+109168,6,61843536,24779464,LPC 17:0,lpc(17:1),LPC(17:1),42607442,False,6
+109168,7,61843447,24779464,LPC 17:0,lpc o-17:0,LPC O-17:0,85136111,False,7
+109168,8,61843322,24779464,LPC 17:0,lpc 37:0,LPC 37:0,164443645,False,8
+109168,9,61843177,24779464,LPC 17:0,lpc 19:1,LPC 19:1,138282860,False,9
+109168,10,61843250,24779464,LPC 17:0,lpc 30:7,LPC 30:7,164319731,False,10
+112261,1,62031186,7010506,Phe-Met,met-phe,Met-phe,6992350,False,1
+112261,2,70282776,7010506,Phe-Met,phe-met-met,Phe-Met-Met,145457280,False,2
+112261,3,59905316,7010506,Phe-Met,h-phe-met-oh,H-Phe-Met-OH,7010506,True,3
+112261,4,70282744,7010506,Phe-Met,phe-met(o),Phe-Met(O),91746319,False,4
+112261,5,59904689,7010506,Phe-Met,h-met-phe-oh,H-Met-Phe-OH,6992350,False,5
+112261,6,62031204,7010506,Phe-Met,met-phe-met,Met-Phe-Met,54536440,False,6
+112261,7,70282780,7010506,Phe-Met,phe-met-phe,Phe-Met-Phe,145457281,False,7
+112261,8,70282839,7010506,Phe-Met,phe-phe-met,Phe-Phe-Met,145457291,False,8
+112261,9,62031206,7010506,Phe-Met,met-phe-phe,Met-Phe-Phe,54439938,False,9
+112261,10,59667260,7010506,Phe-Met,glu-phe-met,Glu-Phe-Met,145455468,False,10
+113810,1,61902509,145456818,Lys-Val-His,lys-his-val,Lys-His-Val,145456681,False,1
+113810,2,109553119,145456818,Lys-Val-His,val-lys-his,Val-Lys-His,145458980,False,2
+113810,3,109553019,145456818,Lys-Val-His,val-his-lys,Val-His-Lys,10114375,False,3
+113810,4,60085258,145456818,Lys-Val-His,his-val-lys,His-Val-Lys,145456027,False,4
+113810,5,60084991,145456818,Lys-Val-His,his-lys-val,His-Lys-Val,145455909,False,5
+113810,6,109553073,145456818,Lys-Val-His,val-leu-his,Val-Leu-His,145458967,False,6
+113810,7,61724381,145456818,Lys-Val-His,leu-val-his,Leu-Val-His,141460998,False,7
+113810,8,61723958,145456818,Lys-Val-His,leu-his-val,Leu-His-Val,145456440,False,8
+113810,9,59697129,145456818,Lys-Val-His,gly-val-his,Gly-Val-His,145455727,False,9
+113810,10,60085253,145456818,Lys-Val-His,his-val-his,His-Val-His,25173132,False,10
+116495,1,61926877,636583,Macaridine,macarpine,Macarpine,440929,False,1
+116495,2,71923167,636583,Macaridine,samandaridine,Samandaridine,12315225|146159388|165454,False,2
+116495,3,70032621,636583,Macaridine,pancridine,Pancridine,11111,False,3
+116495,4,45525433,636583,Macaridine,arboridinine,Arboridinine,122231131,False,4
+116495,5,45335838,636583,Macaridine,amiridine,Amiridine,6437859,False,5
+116495,6,71782782,636583,Macaridine,ribalinidine,Ribalinidine,336322,False,6
+116495,7,71784363,636583,Macaridine,ricidine,Ricidine,10666,False,7
+116495,8,63847587,636583,Macaridine,montipyridine,Montipyridine,10062882,False,8
+116495,9,67699815,636583,Macaridine,nephridine,Nephridine,5816,False,9
+116495,10,61086381,636583,Macaridine,icaridine,Icaridine,125098,False,10
+116718,1,61938699,525,Malic acid,malic-acid,malic-acid,222656,False,1
+116718,2,61938578,525,Malic acid,malic acid [ep monograph],MALIC ACID [EP MONOGRAPH],525,True,2
+116718,3,53950434,525,Malic acid,dl-malic acid,DL-malic acid,525,True,3
+116718,4,61938582,525,Malic acid,malic acid [mi],MALIC ACID [MI],525,True,4
+116718,5,61938572,525,Malic acid,malic acid (standard),Malic acid (Standard),525,True,5
+116718,6,71987,525,Malic acid,(+/-)-malic acid,(+/-)-Malic acid,525,True,6
+116718,7,61938581,525,Malic acid,malic acid [ii],MALIC ACID [II],525,True,7
+116718,8,53950447,525,Malic acid,"dl-malic acid, 99%","DL-Malic acid, 99%",525,True,8
+116718,9,61938670,525,Malic acid,"malic acid, dl-","Malic acid, DL-",525,True,9
+116718,10,61939078,525,Malic acid,malonic acid,malonic acid,867,False,10
+119917,1,2518015,12284,Methylglutaric acid,.alpha.-methylglutaric acid,.alpha.-Methylglutaric acid,12046,False,1
+119917,2,2524312,12284,Methylglutaric acid,.beta.-methylglutaric acid,.beta.-Methylglutaric acid,12284,True,2
+119917,3,19732114,12284,Methylglutaric acid,a-methylglutaric acid,a-Methylglutaric acid,12046,False,3
+119917,4,47527613,12284,Methylglutaric acid,beta-methylglutaric acid,beta-Methylglutaric acid,12284,True,4
+119917,5,45296141,12284,Methylglutaric acid,alpha-methylglutaric acid,alpha-Methylglutaric acid,12046,False,5
+119917,6,53945756,12284,Methylglutaric acid,dl-.alpha.-methylglutaric acid,dl-.alpha.-Methylglutaric acid,12046,False,6
+119917,7,62696944,12284,Methylglutaric acid,methylglutaconic acid,methylglutaconic acid,193896,False,7
+119917,8,45291732,12284,Methylglutaric acid,alpha-keto-beta-methylglutaric acid,alpha-keto-beta-methylglutaric acid,23628471,False,8
+119917,9,9746390,12284,Methylglutaric acid,2-methylglutaric acid,2-METHYLGLUTARIC ACID,12046,False,9
+119917,10,47527610,12284,Methylglutaric acid,beta-methylglutaconic acid,beta-Methylglutaconic acid,1551553,False,10
+128283,1,19670275,44715523,"NCGC00385574-01![5-acetyloxy-1,7-bis(3,4-dihydroxyphenyl)heptan-3-yl] acetate","[5-acetyloxy-7-(3,4-dihydroxyphenyl)-1-(4-hydroxyphenyl)heptan-3-yl] acetate","[5-acetyloxy-7-(3,4-dihydroxyphenyl)-1-(4-hydroxyphenyl)heptan-3-yl] acetate",76143975,False,1
+128283,2,2904390,44715523,"NCGC00385574-01![5-acetyloxy-1,7-bis(3,4-dihydroxyphenyl)heptan-3-yl] acetate","1,7-bis(3,4-dihydroxyphenyl)heptan-3-yl acetate","1,7-bis(3,4-dihydroxyphenyl)heptan-3-yl acetate",24013835,False,2
+128283,3,19332711,44715523,"NCGC00385574-01![5-acetyloxy-1,7-bis(3,4-dihydroxyphenyl)heptan-3-yl] acetate","[(3r,5r)-5-acetyloxy-7-(3,4-dihydroxyphenyl)-1-(4-hydroxyphenyl)heptan-3-yl] acetate","[(3R,5R)-5-acetyloxy-7-(3,4-dihydroxyphenyl)-1-(4-hydroxyphenyl)heptan-3-yl] acetate",54577121,False,3
+128283,4,1165593,44715523,"NCGC00385574-01![5-acetyloxy-1,7-bis(3,4-dihydroxyphenyl)heptan-3-yl] acetate","(3r,5r)-3-acetoxy-5-hydroxy-1,7-bis(3,4-dihydroxyphenyl)heptane","(3r,5r)-3-acetoxy-5-hydroxy-1,7-bis(3,4-dihydroxyphenyl)heptane",54577120,False,4
+128283,5,12619208,44715523,"NCGC00385574-01![5-acetyloxy-1,7-bis(3,4-dihydroxyphenyl)heptan-3-yl] acetate","3-acetoxy-5-hydroxy-1,7-bis(3,4-dihydroxyphenyl)heptane","3-acetoxy-5-hydroxy-1,7-bis(3,4-dihydroxyphenyl)heptane",76143974,False,5
+128283,6,17954393,44715523,"NCGC00385574-01![5-acetyloxy-1,7-bis(3,4-dihydroxyphenyl)heptan-3-yl] acetate","7-bis(3,4-dihydroxyphenyl)heptan-3-yl acetate","7-bis(3,4-dihydroxyphenyl)heptan-3-yl acetate",176453168,False,6
+128283,7,1165042,44715523,"NCGC00385574-01![5-acetyloxy-1,7-bis(3,4-dihydroxyphenyl)heptan-3-yl] acetate","(3r,5r)-1,7-bis(3,4-dihydroxyphenyl)-5-hydroxyheptan-3-yl acetate","(3R,5R)-1,7-Bis(3,4-dihydroxyphenyl)-5-hydroxyheptan-3-yl acetate",54577120,False,7
+128283,8,691092,44715523,"NCGC00385574-01![5-acetyloxy-1,7-bis(3,4-dihydroxyphenyl)heptan-3-yl] acetate","(2r,3s)-2-(3',4'-dihydroxyphenyl)-3-acetylamino-7-(oxoethyl acetate)-1,4-benzodioxane","(2R,3S)-2-(3',4'-dihydroxyphenyl)-3-acetylamino-7-(oxoethyl acetate)-1,4-benzodioxane",177826541,False,8
+128283,9,841272,44715523,"NCGC00385574-01![5-acetyloxy-1,7-bis(3,4-dihydroxyphenyl)heptan-3-yl] acetate","(2s,3r)-2-(3',4'-dihydroxyphenyl)-3-acetylamino-7-(oxoethyl acetate)-1,4-benzodioxane","(2S,3R)-2-(3',4'-dihydroxyphenyl)-3-acetylamino-7-(oxoethyl acetate)-1,4-benzodioxane",177825921,False,9
+128283,10,67513074,44715523,"NCGC00385574-01![5-acetyloxy-1,7-bis(3,4-dihydroxyphenyl)heptan-3-yl] acetate","ncgc00380826-01![1-(3,4-dihydroxy-5-methoxyphenyl)-7-(3,4-dihydroxyphenyl)heptan-3-yl] acetate","NCGC00380826-01![1-(3,4-dihydroxy-5-methoxyphenyl)-7-(3,4-dihydroxyphenyl)heptan-3-yl] acetate",102571606,False,10
+129143,1,59327960,75606,N-Formylglycine,formylglycine,Formylglycine,75606,True,1
+129143,2,66780358,75606,N-Formylglycine,"n-formylglycine, >=98.0%","N-Formylglycine, >=98.0%",75606,True,2
+129143,3,66779277,75606,N-Formylglycine,n-formyl glycine,N-formyl glycine,75606,True,3
+129143,4,45289913,75606,N-Formylglycine,alpha-formylglycine,alpha-formylglycine,29|443424,False,4
+129143,5,66779807,75606,N-Formylglycine,n-formyl-glycine,n-formyl-glycine,75606,True,5
+129143,6,66780345,75606,N-Formylglycine,n-formylglycin,n-formylglycin,75606,True,6
+129143,7,48162238,75606,N-Formylglycine,c-formylglycine,C-formylglycine,29,False,7
+129143,8,59706549,75606,N-Formylglycine,"glycine, n-formyl-","Glycine, N-formyl-",75606,True,8
+129143,9,9504699,75606,N-Formylglycine,2-formylglycine,2-Formylglycine,29,False,9
+129143,10,48158931,75606,N-Formylglycine,c(alpha)-formylglycine,C(alpha)-formylglycine,443424,False,10
+138601,1,70064962,5287971,PC 34:2,pc 34:1,PC 34:1,5497103,False,1
+138601,2,70064818,5287971,PC 34:2,pc 33:2,PC 33:2,52922715,False,2
+138601,3,70064820,5287971,PC 34:2,pc 34:0,PC 34:0,24778686,False,3
+138601,4,70066442,5287971,PC 34:2,pc 37:2,PC 37:2,52922735,False,4
+138601,5,70065898,5287971,PC 34:2,pc 36:2,PC 36:2,10350317,False,5
+138601,6,70064258,5287971,PC 34:2,pc 32:2,PC 32:2,24778764,False,6
+138601,7,70065175,5287971,PC 34:2,pc 34:3,PC 34:3,52923213,False,7
+138601,8,70064141,5287971,PC 34:2,pc 32:1,PC 32:1,6443788,False,8
+138601,9,70064142,5287971,PC 34:2,pc 32:10,PC 32:10,134755208,False,9
+138601,10,70064675,5287971,PC 34:2,pc 33:0,PC 33:0,52922645,False,10
+141378,1,70064229,53479083,PC 40:5,pc 32:1_40:5,PC 32:1_40:5,164335173,False,1
+141378,2,70058190,53479083,PC 40:5,pc 16:1_40:5,PC 16:1_40:5,164336125,False,2
+141378,3,70065869,53479083,PC 40:5,pc 36:1_40:5,PC 36:1_40:5,164321869,False,3
+141378,4,70063416,53479083,PC 40:5,pc 30:1_40:5,PC 30:1_40:5,164499709,False,4
+141378,5,70059464,53479083,PC 40:5,pc 19:1_40:5,PC 19:1_40:5,164381680,False,5
+141378,6,70058424,53479083,PC 40:5,pc 16:4_40:5,PC 16:4_40:5,164461659,False,6
+141378,7,70066142,53479083,PC 40:5,pc 36:5,PC 36:5,52923341,False,7
+141378,8,70061199,53479083,PC 40:5,pc 24:1_40:5,PC 24:1_40:5,164345486,False,8
+141378,9,70064483,53479083,PC 40:5,pc 32:4_40:5,PC 32:4_40:5,164296097,False,9
+141378,10,70062617,53479083,PC 40:5,pc 28:1_40:5,PC 28:1_40:5,164368627,False,10
+145816,1,70064962,5287971,PC 34:2,pc 34:1,PC 34:1,5497103,False,1
+145816,2,70064818,5287971,PC 34:2,pc 33:2,PC 33:2,52922715,False,2
+145816,3,70064820,5287971,PC 34:2,pc 34:0,PC 34:0,24778686,False,3
+145816,4,70066442,5287971,PC 34:2,pc 37:2,PC 37:2,52922735,False,4
+145816,5,70065898,5287971,PC 34:2,pc 36:2,PC 36:2,10350317,False,5
+145816,6,70064258,5287971,PC 34:2,pc 32:2,PC 32:2,24778764,False,6
+145816,7,70065175,5287971,PC 34:2,pc 34:3,PC 34:3,52923213,False,7
+145816,8,70064141,5287971,PC 34:2,pc 32:1,PC 32:1,6443788,False,8
+145816,9,70064142,5287971,PC 34:2,pc 32:10,PC 32:10,134755208,False,9
+145816,10,70064675,5287971,PC 34:2,pc 33:0,PC 33:0,52922645,False,10
+148445,1,70064229,53479083,PC 40:5,pc 32:1_40:5,PC 32:1_40:5,164335173,False,1
+148445,2,70058190,53479083,PC 40:5,pc 16:1_40:5,PC 16:1_40:5,164336125,False,2
+148445,3,70065869,53479083,PC 40:5,pc 36:1_40:5,PC 36:1_40:5,164321869,False,3
+148445,4,70063416,53479083,PC 40:5,pc 30:1_40:5,PC 30:1_40:5,164499709,False,4
+148445,5,70059464,53479083,PC 40:5,pc 19:1_40:5,PC 19:1_40:5,164381680,False,5
+148445,6,70058424,53479083,PC 40:5,pc 16:4_40:5,PC 16:4_40:5,164461659,False,6
+148445,7,70066142,53479083,PC 40:5,pc 36:5,PC 36:5,52923341,False,7
+148445,8,70061199,53479083,PC 40:5,pc 24:1_40:5,PC 24:1_40:5,164345486,False,8
+148445,9,70064483,53479083,PC 40:5,pc 32:4_40:5,PC 32:4_40:5,164296097,False,9
+148445,10,70062617,53479083,PC 40:5,pc 28:1_40:5,PC 28:1_40:5,164368627,False,10
+148660,1,70064231,24778982,PC 40:7,pc 32:1_40:7,PC 32:1_40:7,164503809,False,1
+148660,2,70058192,24778982,PC 40:7,pc 16:1_40:7,PC 16:1_40:7,164196119,False,2
+148660,3,70059466,24778982,PC 40:7,pc 19:1_40:7,PC 19:1_40:7,164507086,False,3
+148660,4,70058632,24778982,PC 40:7,pc 17:1_40:7,PC 17:1_40:7,164348744,False,4
+148660,5,70062619,24778982,PC 40:7,pc 28:1_40:7,PC 28:1_40:7,164409203,False,5
+148660,6,70064485,24778982,PC 40:7,pc 32:4_40:7,PC 32:4_40:7,164479172,False,6
+148660,7,70062231,24778982,PC 40:7,pc 26:7,PC 26:7,134726994,False,7
+148660,8,70058426,24778982,PC 40:7,pc 16:4_40:7,PC 16:4_40:7,164445130,False,8
+148660,9,70063418,24778982,PC 40:7,pc 30:1_40:7,PC 30:1_40:7,164289248,False,9
+148660,10,70064585,24778982,PC 40:7,pc 32:6_40:7,PC 32:6_40:7,164357283,False,10
+155021,1,70175958,9546734,PE 18:0_18:1,pe 18:0_18:0,PE 18:0_18:0,102547,False,1
+155021,2,70176132,9546734,PE 18:0_18:1,pe 18:1_18:1,PE 18:1_18:1,6437392,False,2
+155021,3,70188101,9546734,PE 18:0_18:1,pe 9:0_18:1,PE 9:0_18:1,138300694,False,3
+155021,4,70175169,9546734,PE 18:0_18:1,pe 16:1_18:1,PE 16:1_18:1,138249942,False,4
+155021,5,70188100,9546734,PE 18:0_18:1,pe 9:0_18:0,PE 9:0_18:0,138282206,False,5
+155021,6,70175962,9546734,PE 18:0_18:1,pe 18:0_18:1;2o,PE 18:0_18:1;2O,138312347,False,6
+155021,7,70189560,9546734,PE 18:0_18:1,pe o-18:0_18:1,PE O-18:0_18:1,138134166,False,7
+155021,8,70174864,9546734,PE 18:0_18:1,pe 15:1_18:1,PE 15:1_18:1,138149884,False,8
+155021,9,70174999,9546734,PE 18:0_18:1,pe 16:0_18:1,PE 16:0_18:1,5282290,False,9
+155021,10,70189655,9546734,PE 18:0_18:1,pe o-18:1_18:1,PE O-18:1_18:1,138160177,False,10
+158011,1,70195419,53479694,"PE(18:3(9Z,12Z,15Z)/P-18:0)","pe(18:2(9z,12z)/p-18:0)","PE(18:2(9Z,12Z)/P-18:0)",53479670,False,1
+158011,2,70194505,53479694,"PE(18:3(9Z,12Z,15Z)/P-18:0)",pe(16:1(9z)/p-18:0),PE(16:1(9Z)/P-18:0),53479606,False,2
+158011,3,70193982,53479694,"PE(18:3(9Z,12Z,15Z)/P-18:0)",pe(14:1(9z)/p-18:0),PE(14:1(9Z)/P-18:0),53479572,False,3
+158011,4,70198833,53479694,"PE(18:3(9Z,12Z,15Z)/P-18:0)","pe(22:2(13z,16z)/p-18:0)","PE(22:2(13Z,16Z)/P-18:0)",53479894,False,4
+158011,5,70198671,53479694,"PE(18:3(9Z,12Z,15Z)/P-18:0)",pe(22:1(13z)/p-18:0),PE(22:1(13Z)/P-18:0),53479882,False,5
+158011,6,70195175,53479694,"PE(18:3(9Z,12Z,15Z)/P-18:0)",pe(18:1(9z)/p-18:0),PE(18:1(9Z)/P-18:0),53479658,False,6
+158011,7,70199913,53479694,"PE(18:3(9Z,12Z,15Z)/P-18:0)",pe(24:0/p-18:0),PE(24:0/P-18:0),53480014,False,7
+158011,8,70198555,53479694,"PE(18:3(9Z,12Z,15Z)/P-18:0)",pe(22:0/p-18:0),PE(22:0/P-18:0),53479849,False,8
+158011,9,70197013,53479694,"PE(18:3(9Z,12Z,15Z)/P-18:0)","pe(20:3(8z,11z,14z)/p-18:0)","PE(20:3(8Z,11Z,14Z)/P-18:0)",53479784,False,9
+158011,10,70195637,53479694,"PE(18:3(9Z,12Z,15Z)/P-18:0)","pe(18:3(6z,9z,12z)/p-18:0)","PE(18:3(6Z,9Z,12Z)/P-18:0)",53479682,False,10
+165795,1,15336794,9943917,Phenylbutyrylglutamine,4-phenylbutyrylglutamine,4-Phenylbutyrylglutamine,28939663,False,1
+165795,2,70326056,9943917,Phenylbutyrylglutamine,phenylbutyrylglycine,phenylbutyrylglycine,13799364,False,2
+165795,3,66798927,9943917,Phenylbutyrylglutamine,n-isobutyryl-n-phenylglycine,N-isobutyryl-N-phenylglycine,28764984,False,3
+165795,4,70323753,9943917,Phenylbutyrylglutamine,phenylacetylglutamine t-butyl ester,phenylacetylglutamine t-butyl ester,53814505,False,4
+165795,5,68664358,9943917,Phenylbutyrylglutamine,n~2~-(2-phenylbutanoyl)-l-glutamine,N~2~-(2-Phenylbutanoyl)-L-glutamine,61143197,False,5
+165795,6,70323652,9943917,Phenylbutyrylglutamine,phenylacetyl-a-amino isobutyric acid,phenylacetyl-a-amino isobutyric acid,12973815,False,6
+165795,7,66648041,9943917,Phenylbutyrylglutamine,n-butyl-n-phenylglycine,n-butyl-n-phenylglycine,19875110,False,7
+165795,8,12684758,9943917,Phenylbutyrylglutamine,3-amino-but-2-enethioic acid phenylamide,3-Amino-but-2-enethioic acid phenylamide,3539367,False,8
+165795,9,107908844,9943917,Phenylbutyrylglutamine,tert-butyl n-(2-amino-3-phenylbutyl)carbamate,tert-butyl N-(2-amino-3-phenylbutyl)carbamate,165751974,False,9
+165795,10,2406619,9943917,Phenylbutyrylglutamine,(z)-2-(benzyl(phenyl)amino)ethyl 3-aminobut-2-enoate,(Z)-2-(Benzyl(phenyl)amino)ethyl 3-aminobut-2-enoate,68115601,False,10
+165888,1,61043273,107,Hydrocinnamic acid,"hydrocinnamic acid, 99%","Hydrocinnamic acid, 99%",107,True,1
+165888,2,61043149,107,Hydrocinnamic acid,hydrocinnamic acid (standard),Hydrocinnamic acid (Standard),107,True,2
+165888,3,61043150,107,Hydrocinnamic acid,hydrocinnamic acid [mi],HYDROCINNAMIC ACID [MI],107,True,3
+165888,4,61043322,107,Hydrocinnamic acid,"hydrocinnamic acid, analytical standard","Hydrocinnamic acid, analytical standard",107,True,4
+165888,5,61050614,107,Hydrocinnamic acid,hydroxy-hydrocinnamic acid,hydroxy-hydrocinnamic acid,10394,False,5
+165888,6,61043383,107,Hydrocinnamic acid,"hydrocinnamic acid, o-hydroxy-","HYDROCINNAMIC ACID, O-HYDROXY-",873,False,6
+165888,7,61043373,107,Hydrocinnamic acid,"hydrocinnamic acid, m-hydroxy-","HYDROCINNAMIC ACID, m-HYDROXY-",91,False,7
+165888,8,53794024,107,Hydrocinnamic acid,dihydrocinnamic acid,Dihydrocinnamic acid,107,True,8
+165888,9,61915342,107,Hydrocinnamic acid,m-hydroxy-hydrocinnamic acid,m-hydroxy-hydrocinnamic acid,91,False,9
+165888,10,45290964,107,Hydrocinnamic acid,alpha-hydroxycinnamic acid,alpha-hydroxycinnamic acid,641637,False,10
+166496,1,70347352,1005,Phosphoenolpyruvic acid,phosphoenol pyruvic acid,Phosphoenol pyruvic acid,1005,True,1
+166496,2,9855393,1005,Phosphoenolpyruvic acid,2-phosphoenolpyruvic acid,2-PHOSPHOENOLPYRUVIC ACID,1005,True,2
+166496,3,70353876,1005,Phosphoenolpyruvic acid,phosphonopyruvic acid,Phosphonopyruvic acid,439811,False,3
+166496,4,70354604,1005,Phosphoenolpyruvic acid,phosphopyruvic acid,Phosphopyruvic acid,1005,True,4
+166496,5,70347362,1005,Phosphoenolpyruvic acid,phosphoenolpyruvate,phosphoenolpyruvate,1005,True,5
+166496,6,70353874,1005,Phosphoenolpyruvic acid,phosphonopyruvate,PHOSPHONOPYRUVATE,439811,False,6
+166496,7,70347368,1005,Phosphoenolpyruvic acid,phosphoenolpyruvate(1-),phosphoenolpyruvate(1-),638308,False,7
+166496,8,70347512,1005,Phosphoenolpyruvic acid,phosphohydroxypyruvic acid,Phosphohydroxypyruvic acid,105,False,8
+166496,9,70702803,1005,Phosphoenolpyruvic acid,"pyruvic acid, phosphono-","Pyruvic acid, phosphono-",439811,False,9
+166496,10,70347442,1005,Phosphoenolpyruvic acid,phosphoethanopyruvic acid,phosphoethanopyruvic acid,150978959,False,10
+175806,1,47741,44566790,Pseudoanisatin,(+)-pseudoanisatin,(+)-Pseudoanisatin,182028,False,1
+175806,2,70619259,44566790,Pseudoanisatin,pseudoisatin,Pseudoisatin,7054,False,2
+175806,3,67696131,44566790,Pseudoanisatin,neoanisatin,Neoanisatin,167309,False,3
+175806,4,70619546,44566790,Pseudoanisatin,pseudosmilagenin,Pseudosmilagenin,259037,False,4
+175806,5,45418331,44566790,Pseudoanisatin,anhydropisatin,Anhydropisatin,11822566,False,5
+175806,6,70619593,44566790,Pseudoanisatin,pseudotigogenin,Pseudotigogenin,11876128,False,6
+175806,7,61591306,44566790,Pseudoanisatin,kusaginin,Kusaginin,5281800,False,7
+175806,8,71965745,44566790,Pseudoanisatin,saubinin i,Saubinin I,107714|429923,False,8
+175806,9,67699070,44566790,Pseudoanisatin,neosakuranin,neosakuranin,14524443,False,9
+175806,10,70619475,44566790,Pseudoanisatin,pseudophomin a,Pseudophomin A,139586769,False,10
+176494,1,70683008,1052,Pyridoxamine,pyridoxamine [mi],PYRIDOXAMINE [MI],1052,True,1
+176494,2,70683037,1052,Pyridoxamine,pyridoxamine(2+),pyridoxamine(2+),23278142,False,2
+176494,3,70683009,1052,Pyridoxamine,pyridoxamine [who-dd],PYRIDOXAMINE [WHO-DD],1052,True,3
+176494,4,70683390,1052,Pyridoxamine,pyridoxylamine,Pyridoxylamine,1052,True,4
+176494,5,70683010,1052,Pyridoxamine,pyridoxamine cation,pyridoxamine cation,23278142,False,5
+176494,6,70683063,1052,Pyridoxamine,pyridoxamine-p,Pyridoxamine-P,1053,False,6
+176494,7,70683046,1052,Pyridoxamine,"pyridoxamine, n-methyl-","pyridoxamine, N-methyl-",20623944,False,7
+176494,8,70682976,1052,Pyridoxamine,pyridoxalamin,Pyridoxalamin,129643875,False,8
+176494,9,70683703,1052,Pyridoxamine,pyridylmethoxyamine,pyridylmethoxyamine,12213990,False,9
+176494,10,70679354,1052,Pyridoxamine,pyridinylamine,pyridinylamine,10439,False,10
+185101,1,107352319,6421381,"Sulfurous acid, isohexyl 2-pentyl ester","sulfurous acid, isohexyl pentyl ester","Sulfurous acid, isohexyl pentyl ester",6421380,False,1
+185101,2,107352300,6421381,"Sulfurous acid, isohexyl 2-pentyl ester","sulfurous acid, hexyl 2-pentyl ester","Sulfurous acid, hexyl 2-pentyl ester",6421073,False,2
+185101,3,107352306,6421381,"Sulfurous acid, isohexyl 2-pentyl ester","sulfurous acid, hexyl pentyl ester","Sulfurous acid, hexyl pentyl ester",6420421,False,3
+185101,4,107352298,6421381,"Sulfurous acid, isohexyl 2-pentyl ester","sulfurous acid, hexadecyl 2-pentyl ester","Sulfurous acid, hexadecyl 2-pentyl ester",6421064,False,4
+185101,5,107352297,6421381,"Sulfurous acid, isohexyl 2-pentyl ester","sulfurous acid, heptadecyl 2-pentyl ester","Sulfurous acid, heptadecyl 2-pentyl ester",6421072,False,5
+185101,6,107352313,6421381,"Sulfurous acid, isohexyl 2-pentyl ester","sulfurous acid, isobutyl 2-pentyl ester","Sulfurous acid, isobutyl 2-pentyl ester",6421057,False,6
+185101,7,107352175,6421381,"Sulfurous acid, isohexyl 2-pentyl ester","sulfurous acid, 2-pentyl pentyl ester","Sulfurous acid, 2-pentyl pentyl ester",6421069,False,7
+185101,8,107352299,6421381,"Sulfurous acid, isohexyl 2-pentyl ester","sulfurous acid, hexadecyl pentyl ester","Sulfurous acid, hexadecyl pentyl ester",6421055,False,8
+185101,9,107352314,6421381,"Sulfurous acid, isohexyl 2-pentyl ester","sulfurous acid, isobutyl pentyl ester","Sulfurous acid, isobutyl pentyl ester",6420767,False,9
+185101,10,107352197,6421381,"Sulfurous acid, isohexyl 2-pentyl ester","sulfurous acid, bis(2-pentyl) ester","Sulfurous acid, bis(2-pentyl) ester",6421047,False,10
+185804,1,108111550,25240174,TG 16:0_18:1_18:1,tg 16:1_18:0_18:1,TG 16:1_18:0_18:1,165298619,False,1
+185804,2,108115340,25240174,TG 16:0_18:1_18:1,tg 16:2_18:0_18:1,TG 16:2_18:0_18:1,165258145,False,2
+185804,3,108107647,25240174,TG 16:0_18:1_18:1,tg 16:0_18:0_18:1,TG 16:0_18:0_18:1,5365005,False,3
+185804,4,108119018,25240174,TG 16:0_18:1_18:1,tg 16:3_18:0_18:1,TG 16:3_18:0_18:1,165306720,False,4
+185804,5,108115445,25240174,TG 16:0_18:1_18:1,tg 16:2_18:1_18:1,TG 16:2_18:1_18:1,165192522,False,5
+185804,6,108119123,25240174,TG 16:0_18:1_18:1,tg 16:3_18:1_18:1,TG 16:3_18:1_18:1,165236532,False,6
+185804,7,108122585,25240174,TG 16:0_18:1_18:1,tg 16:4_18:0_18:1,TG 16:4_18:0_18:1,165269934,False,7
+185804,8,108111655,25240174,TG 16:0_18:1_18:1,tg 16:1_18:1_18:1,TG 16:1_18:1_18:1,25241103,False,8
+185804,9,108181353,25240174,TG 16:0_18:1_18:1,tg o-16:0_18:1_18:1,TG O-16:0_18:1_18:1,25121536,False,9
+185804,10,108181770,25240174,TG 16:0_18:1_18:1,tg o-16:1_18:0_18:1,TG O-16:1_18:0_18:1,164252051,False,10
+188138,1,108165888,9544255,TG 54:4,tg 52:4,TG 52:4,25240364,False,1
+188138,2,108165894,9544255,TG 54:4,tg 53:4,TG 53:4,9544152,False,2
+188138,3,108165899,9544255,TG 54:4,tg 54:3,TG 54:3,5497163,False,3
+188138,4,108165896,9544255,TG 54:4,tg 54:1,TG 54:1,16058371,False,4
+188138,5,108165898,9544255,TG 54:4,tg 54:2,TG 54:2,56938183,False,5
+188138,6,107643946,9544255,TG 54:4,tag(54:4),TAG(54:4),25240371,False,6
+188138,7,108243137,9544255,TG 54:4,tg(54:0),TG(54:0),56936481,False,7
+188138,8,108165876,9544255,TG 54:4,tg 50:4,TG 50:4,25240359,False,8
+188138,9,108243138,9544255,TG 54:4,tg(54:1),TG(54:1),56936651,False,9
+188138,10,108165883,9544255,TG 54:4,tg 51:4,TG 51:4,9544052,False,10
+189901,1,108023975,108192,Testosterone glucuronide,testosterone-glucuronide,testosterone-glucuronide,108192,True,1
+189901,2,53797448,108192,Testosterone glucuronide,dihydrotestosterone glucuronide,Dihydrotestosterone glucuronide,44263365,False,2
+189901,3,108023236,108192,Testosterone glucuronide,testosterone 17-glucuronide,Testosterone 17-glucuronide,108192,True,3
+189901,4,108023484,108192,Testosterone glucuronide,testosterone glucuronoside,testosterone glucuronoside,108192,True,4
+189901,5,108023479,108192,Testosterone glucuronide,testosterone glucoside,testosterone glucoside,9846597,False,5
+189901,6,108023974,108192,Testosterone glucuronide,testosterone-glucoside,testosterone-glucoside,172873974|22353119,False,6
+189901,7,56931147,108192,Testosterone glucuronide,epitestosterone glucuronide,Epitestosterone glucuronide,108192|99564860,True,7
+189901,8,6445195,108192,Testosterone glucuronide,19-nortestosterone glucuronide,19-nortestosterone glucuronide,21989526,False,8
+189901,9,16881932,108192,Testosterone glucuronide,5beta-dihydrotestosterone glucuronide,5beta-Dihydrotestosterone glucuronide,156596364,False,9
+189901,10,45416141,108192,Testosterone glucuronide,androsterone glucuronide,Androsterone glucuronide,114833,False,10
+203454,0,108230729,131761507,"TG 20:1(11Z)/20:4(8Z,11Z,14Z,17Z)/20:3(5Z,8Z,11Z)*","tg(20:1(11z)/20:4(8z,11z,14z,17z)/20:3(5z,8z,11z))","TG(20:1(11Z)/20:4(8Z,11Z,14Z,17Z)/20:3(5Z,8Z,11Z))",131761507,True,1
+203454,1,108230648,131761507,"TG 20:1(11Z)/20:4(8Z,11Z,14Z,17Z)/20:3(5Z,8Z,11Z)*","tg(20:1(11z)/20:3(8z,11z,14z)/20:4(5z,8z,11z,14z))","TG(20:1(11Z)/20:3(8Z,11Z,14Z)/20:4(5Z,8Z,11Z,14Z))",9545508,False,2
+203454,2,108220556,131761507,"TG 20:1(11Z)/20:4(8Z,11Z,14Z,17Z)/20:3(5Z,8Z,11Z)*","tg(18:1(11z)/20:4(8z,11z,14z,17z)/20:3(5z,8z,11z))","TG(18:1(11Z)/20:4(8Z,11Z,14Z,17Z)/20:3(5Z,8Z,11Z))",131760397,False,3
+203454,3,108233078,131761507,"TG 20:1(11Z)/20:4(8Z,11Z,14Z,17Z)/20:3(5Z,8Z,11Z)*","tg(20:3(5z,8z,11z)/20:4(8z,11z,14z,17z)/20:3(5z,8z,11z))","TG(20:3(5Z,8Z,11Z)/20:4(8Z,11Z,14Z,17Z)/20:3(5Z,8Z,11Z))",131762050,False,4
+203454,4,108231557,131761507,"TG 20:1(11Z)/20:4(8Z,11Z,14Z,17Z)/20:3(5Z,8Z,11Z)*","tg(20:2(11z,14z)/20:3(8z,11z,14z)/20:4(5z,8z,11z,14z))","TG(20:2(11Z,14Z)/20:3(8Z,11Z,14Z)/20:4(5Z,8Z,11Z,14Z))",9545584,False,5
+203454,5,108221496,131761507,"TG 20:1(11Z)/20:4(8Z,11Z,14Z,17Z)/20:3(5Z,8Z,11Z)*","tg(18:1(9z)/20:4(8z,11z,14z,17z)/20:3(5z,8z,11z))","TG(18:1(9Z)/20:4(8Z,11Z,14Z,17Z)/20:3(5Z,8Z,11Z))",131760956,False,6
+203454,6,108211840,131761507,"TG 20:1(11Z)/20:4(8Z,11Z,14Z,17Z)/20:3(5Z,8Z,11Z)*","tg(16:1(9z)/20:4(8z,11z,14z,17z)/20:3(5z,8z,11z))","TG(16:1(9Z)/20:4(8Z,11Z,14Z,17Z)/20:3(5Z,8Z,11Z))",131759779,False,7
+203454,7,108215671,131761507,"TG 20:1(11Z)/20:4(8Z,11Z,14Z,17Z)/20:3(5Z,8Z,11Z)*","tg(17:1(9z)/20:3(8z,11z,14z)/20:4(5z,8z,11z,14z))","TG(17:1(9Z)/20:3(8Z,11Z,14Z)/20:4(5Z,8Z,11Z,14Z))",9544902,False,8
+203454,8,108233289,131761507,"TG 20:1(11Z)/20:4(8Z,11Z,14Z,17Z)/20:3(5Z,8Z,11Z)*","tg(20:3(8z,11z,14z)/20:3(8z,11z,14z)/20:4(5z,8z,11z,14z))","TG(20:3(8Z,11Z,14Z)/20:3(8Z,11Z,14Z)/20:4(5Z,8Z,11Z,14Z))",9545658,False,9
+203454,9,108211750,131761507,"TG 20:1(11Z)/20:4(8Z,11Z,14Z,17Z)/20:3(5Z,8Z,11Z)*","tg(16:1(9z)/20:3(8z,11z,14z)/20:4(5z,8z,11z,14z))","TG(16:1(9Z)/20:3(8Z,11Z,14Z)/20:4(5Z,8Z,11Z,14Z))",9544763,False,10
+204549,1,108211502,131762519,"TG(22:1(13Z)/18:4(6Z,9Z,12Z,15Z)/20:3n6)","tg(16:1(9z)/18:4(6z,9z,12z,15z)/20:3n6)","TG(16:1(9Z)/18:4(6Z,9Z,12Z,15Z)/20:3n6)",131759763,False,1
+204549,2,108201751,131762519,"TG(22:1(13Z)/18:4(6Z,9Z,12Z,15Z)/20:3n6)","tg(14:1(9z)/18:4(6z,9z,12z,15z)/20:3n6)","TG(14:1(9Z)/18:4(6Z,9Z,12Z,15Z)/20:3n6)",131759128,False,2
+204549,3,108237260,131762519,"TG(22:1(13Z)/18:4(6Z,9Z,12Z,15Z)/20:3n6)","tg(22:0/18:4(6z,9z,12z,15z)/20:3n6)","TG(22:0/18:4(6Z,9Z,12Z,15Z)/20:3n6)",131757727,False,3
+204549,4,108241584,131762519,"TG(22:1(13Z)/18:4(6Z,9Z,12Z,15Z)/20:3n6)","tg(24:0/18:4(6z,9z,12z,15z)/20:3n6)","TG(24:0/18:4(6Z,9Z,12Z,15Z)/20:3n6)",131758435,False,4
+204549,5,108230512,131762519,"TG(22:1(13Z)/18:4(6Z,9Z,12Z,15Z)/20:3n6)","tg(20:1(11z)/18:4(6z,9z,12z,15z)/20:3n6)","TG(20:1(11Z)/18:4(6Z,9Z,12Z,15Z)/20:3n6)",131761496,False,5
+204549,6,108204313,131762519,"TG(22:1(13Z)/18:4(6Z,9Z,12Z,15Z)/20:3n6)","tg(15:0/18:4(6z,9z,12z,15z)/20:3n6)","TG(15:0/18:4(6Z,9Z,12Z,15Z)/20:3n6)",131754793,False,6
+204549,7,108198806,131762519,"TG(22:1(13Z)/18:4(6Z,9Z,12Z,15Z)/20:3n6)","tg(14:0/18:4(6z,9z,12z,15z)/20:3n6)","TG(14:0/18:4(6Z,9Z,12Z,15Z)/20:3n6)",131753936,False,7
+204549,8,108208791,131762519,"TG(22:1(13Z)/18:4(6Z,9Z,12Z,15Z)/20:3n6)","tg(16:0/18:4(6z,9z,12z,15z)/20:3n6)","TG(16:0/18:4(6Z,9Z,12Z,15Z)/20:3n6)",131755570,False,8
+204549,9,108222552,131762519,"TG(22:1(13Z)/18:4(6Z,9Z,12Z,15Z)/20:3n6)","tg(18:2(9z,12z)/18:4(6z,9z,12z,15z)/20:3n6)","TG(18:2(9Z,12Z)/18:4(6Z,9Z,12Z,15Z)/20:3n6)",131763410,False,9
+204549,10,108221171,131762519,"TG(22:1(13Z)/18:4(6Z,9Z,12Z,15Z)/20:3n6)","tg(18:1(9z)/18:4(6z,9z,12z,15z)/20:3n6)","TG(18:1(9Z)/18:4(6Z,9Z,12Z,15Z)/20:3n6)",131760942,False,10
+211258,1,70516414,145458470,Trp-Pro-Asp,pro-trp-asp,Pro-Trp-Asp,145457605,False,1
+211258,2,108471655,145458470,Trp-Pro-Asp,trp-asp-pro,Trp-Asp-Pro,145458316,False,2
+211258,3,70515780,145458470,Trp-Pro-Asp,pro-asp-trp,Pro-Asp-Trp,145457424,False,3
+211258,4,45645228,145458470,Trp-Pro-Asp,asp-trp-pro,Asp-Trp-Pro,145454586,False,4
+211258,5,45645129,145458470,Trp-Pro-Asp,asp-pro-trp,Asp-Pro-Trp,145454542,False,5
+211258,6,108471631,145458470,Trp-Pro-Asp,trp-asn-pro,Trp-Asn-Pro,145458297,False,6
+211258,7,45643986,145458470,Trp-Pro-Asp,asn-trp-pro,Asn-Trp-Pro,145454289,False,7
+211258,8,108471951,145458470,Trp-Pro-Asp,trp-phe-asp,Trp-Phe-Asp,145458456,False,8
+211258,9,108471654,145458470,Trp-Pro-Asp,trp-asp-phe,Trp-Asp-Phe,11976250,False,9
+211258,10,108471971,145458470,Trp-Pro-Asp,trp-pro-asn,Trp-Pro-Asn,145458469,False,10
+212420,1,108541064,25201749,UDP-3-O-[(3R)-3-hydroxytetradecanoyl]-alpha-D-glucosamine,udp-3-o-[(3r)-3-hydroxytetradecanoyl]-d-glucosamine,UDP-3-O-[(3R)-3-hydroxytetradecanoyl]-D-glucosamine,50909851,False,1
+212420,2,108541063,25201749,UDP-3-O-[(3R)-3-hydroxytetradecanoyl]-alpha-D-glucosamine,udp-3-o-[(3r)-3-hydroxytetradecanoyl]-alpha-d-glucosamine(1-),UDP-3-O-[(3R)-3-hydroxytetradecanoyl]-alpha-D-glucosamine(1-),25244806,False,2
+212420,3,108541038,25201749,UDP-3-O-[(3R)-3-hydroxytetradecanoyl]-alpha-D-glucosamine,udp-3-o-((3r)-3-hydroxytetradecanoyl)-alpha-d-glucosamine,UDP-3-O-((3R)-3-hydroxytetradecanoyl)-alpha-D-glucosamine,25201749,True,3
+212420,4,108541066,25201749,UDP-3-O-[(3R)-3-hydroxytetradecanoyl]-alpha-D-glucosamine,udp-3-o-[(3r)-3-hydroxytetradecanoyl]-d-glucosamine(1-),UDP-3-O-[(3R)-3-hydroxytetradecanoyl]-D-glucosamine(1-),70697715,False,4
+212420,5,108540913,25201749,UDP-3-O-[(3R)-3-hydroxytetradecanoyl]-alpha-D-glucosamine,"udp-2,3-bis[(3r)-3-hydroxytetradecanoyl]-alpha-d-glucosamine","UDP-2,3-bis[(3R)-3-hydroxytetradecanoyl]-alpha-D-glucosamine",25203769,False,5
+212420,6,108540914,25201749,UDP-3-O-[(3R)-3-hydroxytetradecanoyl]-alpha-D-glucosamine,"udp-2,3-bis[(3r)-3-hydroxytetradecanoyl]-alpha-d-glucosamine(2-)","UDP-2,3-bis[(3R)-3-hydroxytetradecanoyl]-alpha-D-glucosamine(2-)",25246209,False,6
+212420,7,108541020,25201749,UDP-3-O-[(3R)-3-hydroxytetradecanoyl]-alpha-D-glucosamine,"udp-2-n,3-o-bis[(3r)-3-hydroxytetradecanoyl]-alpha-d-glucosamine","UDP-2-N,3-O-bis[(3R)-3-hydroxytetradecanoyl]-alpha-D-glucosamine",25246209,False,7
+212420,8,108541067,25201749,UDP-3-O-[(3R)-3-hydroxytetradecanoyl]-alpha-D-glucosamine,udp-3-o-[(3r)-3-hydroxytetradecanoyl]-n-acetyl-alpha-d-glucosamine,UDP-3-O-[(3R)-3-hydroxytetradecanoyl]-N-acetyl-alpha-D-glucosamine,25244942,False,8
+212420,9,108541070,25201749,UDP-3-O-[(3R)-3-hydroxytetradecanoyl]-alpha-D-glucosamine,udp-3-o-[(3r)-3-hydroxytetradecanoyl]-n-acetylglucosamine(2-),UDP-3-O-[(3R)-3-hydroxytetradecanoyl]-N-acetylglucosamine(2-),25244942,False,9
+212420,10,108541068,25201749,UDP-3-O-[(3R)-3-hydroxytetradecanoyl]-alpha-D-glucosamine,udp-3-o-[(3r)-3-hydroxytetradecanoyl]-n-acetyl-alpha-glucosamine,UDP-3-O-[(3R)-3-hydroxytetradecanoyl]-N-acetyl-alpha-glucosamine,194791,False,10
+216214,1,109941112,5282223,Xanthoxic acid,xanthomonic acid,Xanthomonic acid,132521527,False,1
+216214,2,109941053,5282223,Xanthoxic acid,xanthogenic acid,Xanthogenic acid,8823,False,2
+216214,3,109941401,5282223,Xanthoxic acid,xanthurenic acid,xanthurenic acid,5699,False,3
+216214,4,109941418,5282223,Xanthoxic acid,xanthuric acid,Xanthuric acid,5699,False,4
+216214,5,109941412,5282223,Xanthoxic acid,"xanthurenic acid, 96%","Xanthurenic acid, 96%",5699,False,5
+216214,6,109941091,5282223,Xanthoxic acid,xanthokermesic acid,Xanthokermesic acid,9883304,False,6
+216214,7,109941439,5282223,Xanthoxic acid,xanthylic acid,Xanthylic acid,73323,False,7
+216214,8,109940284,5282223,Xanthoxic acid,xanoic acid,xanoic acid,23400779,False,8
+216214,9,109940343,5282223,Xanthoxic acid,xanoxic acid,Xanoxic acid,38767,False,9
+216214,10,53797902,5282223,Xanthoxic acid,dihydroxy xanthate,dihydroxy xanthate,164946486,False,10

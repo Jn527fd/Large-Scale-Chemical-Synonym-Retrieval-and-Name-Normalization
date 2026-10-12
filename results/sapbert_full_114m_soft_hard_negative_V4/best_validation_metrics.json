@@ -1,0 +1,11 @@
+{
+  "best_step": 0,
+  "validation_metrics": {
+    "n_pairs": 8192,
+    "MRR": 0.10363153538354958,
+    "HitRate@1": 0.0992431640625,
+    "HitRate@5": 0.1075439453125,
+    "HitRate@10": 0.1103515625,
+    "median_rank": 3489.5
+  }
+}

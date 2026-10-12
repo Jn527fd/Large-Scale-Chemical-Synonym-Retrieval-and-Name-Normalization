@@ -1,0 +1,13 @@
+{
+  "loaded_from_cache": false,
+  "unique_refmet_labels": 68988,
+  "mapped_labels_total": 38380,
+  "unmapped_labels_total": 30608,
+  "mapped_by_method": {
+    "exact": 22441,
+    "compact_key": 13724,
+    "strip_instrument_suffix": 2206,
+    "remove_quotes": 5,
+    "punctuation_spaced": 4
+  }
+}

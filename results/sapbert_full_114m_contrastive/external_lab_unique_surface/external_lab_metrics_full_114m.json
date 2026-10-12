@@ -1,0 +1,27 @@
+{
+  "run_name": "sapbert_contrastive_external_lab_unique_surface",
+  "model_key": "sapbert_contrastive",
+  "model_dir": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/sapbert_full_114m_contrastive/artifacts/model",
+  "metrics": {
+    "n_queries": 182328,
+    "MRR": 0.429660058394674,
+    "HitRate@1": 0.3450868763985784,
+    "Precision@1": 0.3450868763985784,
+    "RecallFrac@1": 0.01660677226847719,
+    "HitRate@5": 0.5448477469176429,
+    "Precision@5": 0.24315738668772757,
+    "RecallFrac@5": 0.04169980264513655,
+    "HitRate@10": 0.5935018208942127,
+    "Precision@10": 0.19377330963977005,
+    "RecallFrac@10": 0.057310299212814775
+  },
+  "search_elapsed_sec": 686.5375879450003,
+  "n_all_labeled_queries": 216792,
+  "n_evaluated_queries": 182328,
+  "n_queries_excluded_no_nonexact_relevant": 34464,
+  "corpus_summary": {
+    "loaded_from_cache": true,
+    "unique_surface_rows": 114366981
+  },
+  "exact_surface_form_hits_filtered": true
+}

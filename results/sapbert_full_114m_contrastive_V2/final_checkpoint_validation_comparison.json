@@ -1,0 +1,20 @@
+{
+  "best_overall_mrr": {
+    "model_dir": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/sapbert_full_114m_contrastive_V2/artifacts/model_best",
+    "n_pairs": 8192,
+    "MRR": 0.10363153538354958,
+    "HitRate@1": 0.0992431640625,
+    "HitRate@5": 0.1075439453125,
+    "HitRate@10": 0.1103515625,
+    "median_rank": 3489.5
+  },
+  "best_trained_mrr": {
+    "model_dir": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/sapbert_full_114m_contrastive_V2/artifacts/model_best_trained",
+    "n_pairs": 8192,
+    "MRR": 0.10259687608678139,
+    "HitRate@1": 0.0885009765625,
+    "HitRate@5": 0.107421875,
+    "HitRate@10": 0.119140625,
+    "median_rank": 432.0
+  }
+}

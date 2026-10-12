@@ -1,0 +1,43 @@
+{
+  "reference_summary": {
+    "reference_csv_available": true,
+    "target_lab_normalized_names": 467549,
+    "reference_rows_read": 114674081,
+    "matched_reference_name_cid_pairs": 114775,
+    "unique_matched_normalized_names": 109086,
+    "ambiguous_matched_normalized_names": 3627,
+    "lookup_path": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/external_lab_refmet_final_reproducible/artifacts/targeted_reference_lookup.csv"
+  },
+  "lab_long_summary": {
+    "available_lab_name_columns": [
+      "metabolite_name",
+      "refmet_name"
+    ],
+    "lab_name_values_used": 755091,
+    "target_lab_normalized_names": 467549
+  },
+  "mapping_summary": {
+    "lab_rows": 443540,
+    "lab_name_values_used": 755091,
+    "matched_rows": 233002,
+    "unique_cid_rows": 216792,
+    "ambiguous_cid_rows": 16210,
+    "unmatched_rows": 210538,
+    "unique_assigned_cids": 81957,
+    "matched_row_pct": 52.532,
+    "unique_cid_row_pct": 48.878
+  },
+  "lab_csv_path": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/data/allmetnames_062626.csv",
+  "reference_csv_path": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/data/CID-Synonym-full.csv",
+  "lab_name_columns": [
+    "metabolite_name",
+    "refmet_name"
+  ],
+  "outputs": {
+    "mapped_lab": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/external_lab_refmet_final_reproducible/deterministic_cid_mapping/lab_names_with_candidate_cids.csv",
+    "labeled": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/external_lab_refmet_final_reproducible/deterministic_cid_mapping/lab_labeled_for_evaluation.csv",
+    "ambiguous": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/external_lab_refmet_final_reproducible/deterministic_cid_mapping/lab_names_ambiguous_cids.csv",
+    "unmatched": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/external_lab_refmet_final_reproducible/deterministic_cid_mapping/lab_names_unmatched.csv",
+    "long_matches": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/external_lab_refmet_final_reproducible/deterministic_cid_mapping/lab_name_column_matches.csv"
+  }
+}

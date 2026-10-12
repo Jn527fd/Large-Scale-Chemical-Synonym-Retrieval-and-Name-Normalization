@@ -1,0 +1,5 @@
+primary_error_category,n_cases,mean_confidence_margin,identity_correct_rate,pct_of_exact_failures
+candidate_generation_miss_or_low_rank,8890,0.014752509744148507,0.0,0.453687165093136
+reranking_error_gold_in_top10,8182,0.015336875627338618,0.0,0.4175554988517479
+identity_match_not_exact_label,1999,0.01409124883787218,1.0,0.10201582036233733
+reranking_error_identity_in_top10,524,0.009558508755596492,0.0,0.02674151569277877

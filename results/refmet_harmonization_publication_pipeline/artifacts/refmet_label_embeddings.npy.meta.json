@@ -1,0 +1,16 @@
+{
+  "label": "RefMet target labels",
+  "model_name_or_path": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/sapbert_contrastive/artifacts/model",
+  "max_length": 96,
+  "pooling": "cls",
+  "embed_dtype": "float16",
+  "n_texts": 68988,
+  "target_count": 68988,
+  "embedding_path": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/refmet_harmonization_publication_pipeline/artifacts/refmet_label_embeddings.npy",
+  "shape": [
+    68988,
+    768
+  ],
+  "dtype": "float16",
+  "size_bytes": 105965696
+}

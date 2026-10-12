@@ -1,0 +1,10 @@
+{
+  "n": 140808,
+  "d": 768,
+  "model_name": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/sapbert_contrastive/artifacts/model",
+  "pooling": "cls",
+  "max_length": 96,
+  "dtype": "float16",
+  "normalize": true,
+  "run_key": "sapbert_contrastive_refmet_corrected"
+}

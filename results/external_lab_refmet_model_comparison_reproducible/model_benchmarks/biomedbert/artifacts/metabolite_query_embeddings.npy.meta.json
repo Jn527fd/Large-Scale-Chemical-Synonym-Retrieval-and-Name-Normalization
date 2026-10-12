@@ -1,0 +1,11 @@
+{
+  "n": 295812,
+  "d": 768,
+  "model_name": "microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext",
+  "pooling": "mean",
+  "prefix": null,
+  "max_length": 96,
+  "dtype": "float16",
+  "normalize": true,
+  "run_key": "external_lab_refmet_model_comparison_reproducible_biomedbert_queries"
+}

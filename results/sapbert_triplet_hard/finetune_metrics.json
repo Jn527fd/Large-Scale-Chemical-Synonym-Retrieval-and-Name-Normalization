@@ -1,0 +1,16 @@
+{
+  "run_name": "sapbert_triplet_hard",
+  "baseline": "fine_tune",
+  "base_model_key": "sapbert",
+  "objective": "triplet",
+  "use_hard_negatives": true,
+  "output_dir": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/sapbert_triplet_hard/artifacts/model",
+  "elapsed_sec": 507.8652028660001,
+  "last_history": {
+    "epoch": 1,
+    "step": 1000,
+    "loss": 0.026047609746456146,
+    "rolling_loss": 0.02419086661407158,
+    "elapsed_sec": 442.05349039400005
+  }
+}

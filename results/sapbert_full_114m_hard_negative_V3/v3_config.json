@@ -1,0 +1,27 @@
+{
+  "run_name": "sapbert_full_114m_hard_negative_V3",
+  "start_model_source": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/sapbert_contrastive/artifacts/model",
+  "start_model_details": {
+    "mode": "auto_external",
+    "selection_metric": "MRR",
+    "clean_metric": null,
+    "clean_metrics_path": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/sapbert_contrastive/external_lab_unique_surface/external_lab_metrics.json",
+    "v2_metric": null,
+    "v2_metrics_path": null,
+    "chosen": "clean"
+  },
+  "seed": 0,
+  "max_length": 96,
+  "pooling": "cls",
+  "mixed_precision": "bf16",
+  "mining_group_limit": 500000,
+  "mining_search_k": 64,
+  "train_triplet_batch_size": 128,
+  "max_train_steps": 20000,
+  "learning_rate": 5e-06,
+  "temperature": 0.05,
+  "triplet_margin": 0.05,
+  "hard_negative_loss_weight": 0.5,
+  "validate_every_steps": 250,
+  "save_every_steps": 1000
+}

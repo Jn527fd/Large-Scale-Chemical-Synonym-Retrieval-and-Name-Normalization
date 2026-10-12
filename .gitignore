@@ -11,9 +11,10 @@ cache/
 .pytest_cache/
 .ipynb_checkpoints/
 
+
 data/
-results/*
 !results/.gitkeep
+!results/*.md
 
 # Large generated research artifacts
 *.npy

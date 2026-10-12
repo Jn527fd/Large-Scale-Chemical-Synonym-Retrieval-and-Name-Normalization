@@ -1,0 +1,6 @@
+case_group,n_cases,pct_of_test
+exact_top1_success,39568,0.6687963761134493
+top1_failure_or_gold_not_in_top10,8890,0.15026283318966246
+gold_exact_in_top10_not_top1,8182,0.13829589439345538
+identity_only_top1_success,1999,0.033788009397765495
+gold_identity_in_top10_not_top1,524,0.008856886905667393

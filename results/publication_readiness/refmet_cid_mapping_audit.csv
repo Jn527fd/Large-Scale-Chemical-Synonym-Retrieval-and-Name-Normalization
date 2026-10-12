@@ -1,0 +1,7 @@
+refmet_mapped_to_cid_bool,refmet_mapping_method,n_labels,n_query_pairs
+True,exact,22441,140808
+True,compact_key,10258,28029
+True,strip_instrument_suffix,375,694
+True,remove_quotes,2,4
+True,punctuation_spaced,1,1
+False,,35911,126276

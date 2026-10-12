@@ -1,0 +1,9 @@
+{
+  "embedding_cache_dir": "/content/chem_synonymizer_cache/semantic/data_80dad5689f48/e5_base_6349edd95561",
+  "query_cache_dir": "/content/chem_synonymizer_cache/semantic/data_80dad5689f48/e5_base_6349edd95561/queries/split_cfe49da6a0f9",
+  "index_cache_dir": "/content/chem_synonymizer_cache/semantic/data_80dad5689f48/e5_base_6349edd95561/indexes/index_eb32f96e38f4",
+  "data_key": "80dad5689f48",
+  "embedding_key": "6349edd95561",
+  "query_key": "cfe49da6a0f9",
+  "index_key": "eb32f96e38f4"
+}

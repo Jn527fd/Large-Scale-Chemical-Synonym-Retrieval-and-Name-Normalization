@@ -1,0 +1,11 @@
+{
+  "best_trained_step": 10500,
+  "validation_metrics": {
+    "n_pairs": 8192,
+    "MRR": 0.10259687608678139,
+    "HitRate@1": 0.0885009765625,
+    "HitRate@5": 0.107421875,
+    "HitRate@10": 0.119140625,
+    "median_rank": 432.0
+  }
+}

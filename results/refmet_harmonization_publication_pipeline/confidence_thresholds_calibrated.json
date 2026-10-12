@@ -1,0 +1,14 @@
+{
+  "mode": "validation_calibrated",
+  "auto_accept_target_precision": 0.9,
+  "fallback_target_hit10": 0.8,
+  "auto_accept_margin_threshold": 0.10225886106491089,
+  "auto_accept_validation_precision": 0.9028603268945022,
+  "auto_accept_validation_coverage": 0.25921586878721253,
+  "pubmed_fallback_margin_threshold": 0.032177788019180295,
+  "pubmed_fallback_validation_hit10": 0.4168144832052257,
+  "pubmed_fallback_validation_coverage": 0.5699956668966956,
+  "retained_refmet_review_validation_hit10": 0.8069717100843472,
+  "retained_refmet_review_validation_coverage": 0.4300043331033044,
+  "validation_rows": 62311
+}

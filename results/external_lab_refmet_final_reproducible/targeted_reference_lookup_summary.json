@@ -1,0 +1,9 @@
+{
+  "reference_csv_available": true,
+  "target_lab_normalized_names": 467549,
+  "reference_rows_read": 114674081,
+  "matched_reference_name_cid_pairs": 114775,
+  "unique_matched_normalized_names": 109086,
+  "ambiguous_matched_normalized_names": 3627,
+  "lookup_path": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/external_lab_refmet_final_reproducible/artifacts/targeted_reference_lookup.csv"
+}

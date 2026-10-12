@@ -369,6 +369,20 @@ python scripts/make_plots.py
 
 Large datasets, embeddings, indexes, checkpoints, and result artifacts are intentionally excluded from Git.
 
+## Results Documentation
+
+The main research writeups live in the `results/` directory:
+
+| File | Contents |
+|---|---|
+| `results/priliminaryResults.md` | Part One internal PubChem/PubMed synonym retrieval benchmarks, pretrained model comparison, SapBERT fine-tuning, bucket diagnostics, and robustness experiments. |
+| `results/results.md` | Part Two corrected external lab `metabolite_name -> refmet_name` evaluation, model comparison, hybrid reranking, confidence curves, ablations, bootstrap confidence intervals, and structured error taxonomy. |
+| `results/plans.md` | One-week consolidation plan and current progress status for paper preparation. |
+| `results/step1_result_integration_notes.md` | Notes for turning all generated results into a coherent paper storyline. |
+| `results/step2_claims_evidence_map.md` | Defensible claims, supporting metrics, limitations, and future evidence needed. |
+
+The current strongest external-lab system is the contrastive fine-tuned SapBERT encoder plus the hybrid semantic-lexical reranker. On the held-out corrected RefMet test split, it achieves exact MRR 0.7296, exact Hit@1 66.88%, exact Hit@10 83.66%, and identity-aware Hit@1 70.26%. Bootstrap and ablation analyses are included in `results/results.md`.
+
 ## Repository Structure
 
 ```text

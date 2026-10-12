@@ -1,0 +1,13 @@
+{
+  "total_csv_rows_seen": 114674081,
+  "quality_filtered_rows": 110002380,
+  "chunk_dedup_rows_inserted": 110000585,
+  "unique_training_cid_name_pairs": 110000585,
+  "trainable_cids_after_filter": 17140782,
+  "sampled_name_rows": 47716494,
+  "train_groups": 16798011,
+  "validation_groups": 50000,
+  "names_per_cid": 4,
+  "use_hard_negative_batching": true,
+  "elapsed_sec": 1159.480596267
+}

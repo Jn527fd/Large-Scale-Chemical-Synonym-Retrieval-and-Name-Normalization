@@ -1,0 +1,6 @@
+{
+  "loaded_from_cache": true,
+  "restored_from_shared_artifacts": true,
+  "unique_surface_rows": 114366981,
+  "corpus_parquet_path": "/mnt/local-scratch/chem_synonymizer/sapbert_contrastive_refmet_v4_final/artifacts/unique_surface_corpus.parquet"
+}

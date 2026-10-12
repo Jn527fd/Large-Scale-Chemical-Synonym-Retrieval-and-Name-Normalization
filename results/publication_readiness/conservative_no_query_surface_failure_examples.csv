@@ -1,0 +1,501 @@
+query_id,metabolite_name,refmet_name,top1_refmet_name,metabolite_normalized,refmet_normalized,top1_refmet_normalized,embedding_exact_rank,reranker_exact_rank,reranker_identity_rank,top1_exact_correct,top1_identity_correct,top1_identity_reason,confidence_margin,conservative_exclusion_reason,original_top1_compact_equals_query_surface
+55487,CYTIDINE 5`-DIPHOSPHOCHOLINE,CDP-choline,Cytidine 5'-diphosphocholine,cytidine 5`-diphosphocholine,cdp-choline,cytidine 5'-diphosphocholine,2.0,3.0,1.0,False,True,same_pubchem_cid,0.309674859046936,kept,True
+55526,CYTIDINE 5'-DIPHOSPHOCHOLINE (M+H)+,CDP-choline,Cytidine 5'-diphosphocholine,cytidine 5'-diphosphocholine (m+h)+,cdp-choline,cytidine 5'-diphosphocholine,2.0,3.0,1.0,False,True,same_pubchem_cid,0.2500784397125244,kept,False
+53981,conduritol B epoxide,"1,2-Anhydro-myo-inositol",Conduritol epoxide,conduritol b epoxide,"1,2-anhydro-myo-inositol",conduritol epoxide,,,,False,False,,0.2356576323509216,kept,False
+11063,2-oleoyl-sn-glycero-3-phosphocholine,LPC 0:0/18:1(9Z),sn-Glycero-3-phosphocholine,2-oleoyl-sn-glycero-3-phosphocholine,lpc 0:0/18:1(9z),sn-glycero-3-phosphocholine,,,,False,False,,0.2108111381530761,kept,False
+24003,alpha-linolenyl carnitine/gamma-linolenyl carnitine,CAR 18:3,gamma-Linolenyl carnitine,alpha-linolenyl carnitine/gamma-linolenyl carnitine,car 18:3,gamma-linolenyl carnitine,26.0,28.0,28.0,False,False,,0.2036504745483398,kept,False
+53582,Cmp-2-Aminoethylphosphonate,CMPciliatine,CMP-2-trimethylaminoethylphosphonate,cmp-2-aminoethylphosphonate,cmpciliatine,cmp-2-trimethylaminoethylphosphonate,35.0,96.0,96.0,False,False,,0.2020205855369568,kept,False
+31701,Capryloylglycine(None),NA-Gly 8:0,Capryloylglycine,capryloylglycine(none),na-gly 8:0,capryloylglycine,,,,False,False,,0.1918303966522216,kept,False
+113074,margaroylglycine isomer,NA-Gly 17:0,Margaroylglycine,margaroylglycine isomer,na-gly 17:0,margaroylglycine,234.0,192.0,192.0,False,False,,0.1838757395744323,kept,False
+69985,DL-Vanillylmandelic acid,D-Serine,Vanillylmandelic acid,dl-vanillylmandelic acid,d-serine,vanillylmandelic acid,,,,False,False,,0.182264506816864,kept,False
+121751,N'-Formylkynurenine,N-Formyl-L-kynurenine,N-Formylkynurenine,n'-formylkynurenine,n-formyl-l-kynurenine,n-formylkynurenine,3.0,3.0,3.0,False,False,,0.1814883947372436,kept,True
+55504,CYTIDINE 5'-DIPHOSPHOCHOLINE (CAS# 987-78-0); (M+HCOO)-,CDP-choline,Cytidine 5'-diphosphocholine,cytidine 5'-diphosphocholine (cas# 987-78-0); (m+hcoo)-,cdp-choline,cytidine 5'-diphosphocholine,2.0,2.0,1.0,False,True,same_pubchem_cid,0.1813858151435852,kept,False
+118279,N6-(delta2-Isopentenyl)-adenine_1,N6-Isopentenyladenine,N6-(delta2-Isopentenyl)-adenine,n6-(delta2-isopentenyl)-adenine_1,n6-isopentenyladenine,n6-(delta2-isopentenyl)-adenine,3.0,3.0,1.0,False,True,same_pubchem_cid,0.1787396073341369,kept,False
+55103,Cys-Gly (oxidized),Cys-Gly,"CYS-GLY, oxidized",cys-gly (oxidized),cys-gly,"cys-gly, oxidized",3.0,2.0,2.0,False,False,,0.1780015230178833,kept,True
+94546,Iminodiacetic acid TOT,Iminodiacetate,Iminodiacetic acid,iminodiacetic acid tot,iminodiacetate,iminodiacetic acid,2.0,4.0,4.0,False,False,,0.1711344122886657,kept,False
+3441,"1,4-Butanediamine",Putrescine,"1,3-Butanediamine","1,4-butanediamine",putrescine,"1,3-butanediamine",189.0,176.0,176.0,False,False,,0.169377326965332,kept,False
+99592,L-Glutamic gamma-semialdehyde,Glutamic acid 5-semialdehyde,L-Glutamic-gamma-semialdehyde,l-glutamic gamma-semialdehyde,glutamic acid 5-semialdehyde,l-glutamic-gamma-semialdehyde,3.0,3.0,2.0,False,False,,0.1663379669189453,kept,True
+55338,cysteine-glutathione disulfide C1N0,S-Glutathionyl-cysteine,Cysteine-glutathione disulfide,cysteine-glutathione disulfide c1n0,s-glutathionyl-cysteine,cysteine-glutathione disulfide,3.0,3.0,1.0,False,True,same_pubchem_cid,0.165522813796997,kept,False
+3293,"1,2-Dioctadecanoyl-sn-glycero-3-phospho-(1'-myo-inositol)",PI 18:0/18:0,6-O-(1-O-Stearoyl-sn-glycero-3-phosphono)-1D-myo-inositol,"1,2-dioctadecanoyl-sn-glycero-3-phospho-(1'-myo-inositol)",pi 18:0/18:0,6-o-(1-o-stearoyl-sn-glycero-3-phosphono)-1d-myo-inositol,,,,False,False,,0.163441002368927,kept,False
+290170,TRANS-2-DODECENOYLCARNITINE (M-e),CAR 12:1,trans-2-Tetradecenoylcarnitine,trans-2-dodecenoylcarnitine (m-e),car 12:1,trans-2-tetradecenoylcarnitine,11.0,46.0,46.0,False,False,,0.1629677414894104,kept,False
+68858,Dihydro-beta-ionone,"4-(2,6,6-Trimethyl-1-cyclohexen-1-yl)-2-butanone",beta-Ionone,dihydro-beta-ionone,"4-(2,6,6-trimethyl-1-cyclohexen-1-yl)-2-butanone",beta-ionone,198.0,182.0,182.0,False,False,,0.1604518890380859,kept,False
+27403,Atrazine desethyl,"6-Chloro-N-(1-methylethyl)-1,3,5-triazine-2,4-diamine",Atrazine,atrazine desethyl,"6-chloro-n-(1-methylethyl)-1,3,5-triazine-2,4-diamine",atrazine,,,,False,False,,0.160444438457489,kept,False
+3308,"1,2-Dipalmitoleoyl-sn-glycero-3-phosphocholine(None)",PC 16:1/16:1,sn-Glycero-3-phosphocholine,"1,2-dipalmitoleoyl-sn-glycero-3-phosphocholine(none)",pc 16:1/16:1,sn-glycero-3-phosphocholine,,,,False,False,,0.1570203304290771,kept,False
+118275,N6-(DELTA2-ISOPENTENYL)-ADENINE (M+Na)+,N6-Isopentenyladenine,N6-(delta2-Isopentenyl)-adenine,n6-(delta2-isopentenyl)-adenine (m+na)+,n6-isopentenyladenine,n6-(delta2-isopentenyl)-adenine,3.0,3.0,1.0,False,True,same_pubchem_cid,0.1566914319992065,kept,False
+290034,TMP_neg,dTMP,TMP,tmp_neg,dtmp,tmp,3.0,2.0,2.0,False,False,,0.1563063859939575,kept,False
+209997,Pidolic acid_2,Pyroglutamic acid,Pidolic acid,pidolic acid_2,pyroglutamic acid,pidolic acid,,,1.0,False,True,same_pubchem_cid,0.1561799645423889,kept,False
+120937,N-alpha-acetylarginine,Pelargonidin,N-Acetylarginine,n-alpha-acetylarginine,pelargonidin,n-acetylarginine,,,,False,False,,0.1556952595710754,kept,False
+123169,N-Palmitoyl-L-histidine,NA-His 16:0,N-Palmitoyl histidine,n-palmitoyl-l-histidine,na-his 16:0,n-palmitoyl histidine,4.0,21.0,21.0,False,False,,0.1550923585891723,kept,False
+131178,palmitoyl-threonine,NA-Thr 16:0,N-Palmitoyl threonine,palmitoyl-threonine,na-thr 16:0,n-palmitoyl threonine,9.0,35.0,35.0,False,False,,0.1538294553756714,kept,False
+3302,"1,2-dioleoyl-sn-glycero-3-phosphatidylcholine",PC 18:1/18:1,sn-Glycero-3-phosphocholine,"1,2-dioleoyl-sn-glycero-3-phosphatidylcholine",pc 18:1/18:1,sn-glycero-3-phosphocholine,,,,False,False,,0.1471482515335083,kept,False
+12060,"3,7-Dimethyl-2Z,6-octadienyl acetate",Geranyl acetate,"3,7-Dimethyl-2E,6-octadienyl acetate","3,7-dimethyl-2z,6-octadienyl acetate",geranyl acetate,"3,7-dimethyl-2e,6-octadienyl acetate",2.0,5.0,1.0,False,True,same_pubchem_cid,0.1462675929069519,kept,False
+14485,3-Sulfodeoxycholic acid_RT9,Deoxycholic acid 3-sulfate,3-Sulfodeoxycholic acid,3-sulfodeoxycholic acid_rt9,deoxycholic acid 3-sulfate,3-sulfodeoxycholic acid,7.0,5.0,1.0,False,True,same_pubchem_cid,0.1429117321968078,kept,False
+114879,Mevalonic acid-5P,5-Phosphomevalonic acid,Mevalonic acid,mevalonic acid-5p,5-phosphomevalonic acid,mevalonic acid,22.0,5.0,4.0,False,False,,0.1428961157798767,kept,False
+55643,Cytidine monophosphate N-acetylneuraminic acid-13C3,CMP-N-acetylneuraminic acid,Cytidine monophosphate N-acetylneuraminic acid,cytidine monophosphate n-acetylneuraminic acid-13c3,cmp-n-acetylneuraminic acid,cytidine monophosphate n-acetylneuraminic acid,2.0,2.0,1.0,False,True,same_pubchem_cid,0.1428762674331665,kept,False
+55655,Cytidine monophosphate N-acetylneuraminic acid-13C9,CMP-N-acetylneuraminic acid,Cytidine monophosphate N-acetylneuraminic acid,cytidine monophosphate n-acetylneuraminic acid-13c9,cmp-n-acetylneuraminic acid,cytidine monophosphate n-acetylneuraminic acid,2.0,2.0,1.0,False,True,same_pubchem_cid,0.142867624759674,kept,False
+131042,palmitoyl phenylalanine,NA-Phe 16:0,N-Palmitoyl phenylalanine,palmitoyl phenylalanine,na-phe 16:0,n-palmitoyl phenylalanine,23.0,86.0,86.0,False,False,,0.1423360705375671,kept,False
+55653,Cytidine monophosphate N-acetylneuraminic acid-13C8,CMP-N-acetylneuraminic acid,Cytidine monophosphate N-acetylneuraminic acid,cytidine monophosphate n-acetylneuraminic acid-13c8,cmp-n-acetylneuraminic acid,cytidine monophosphate n-acetylneuraminic acid,2.0,2.0,1.0,False,True,same_pubchem_cid,0.1416091918945312,kept,False
+293268,Undecanoylglycine,NA-Gly 11:0,N-Undecanoylglycine,undecanoylglycine,na-gly 11:0,n-undecanoylglycine,,,,False,False,,0.1414688229560852,kept,False
+295729,Y (Pseudouridine),Tyrosine,Pseudouridine,y (pseudouridine),tyrosine,pseudouridine,,,,False,False,,0.1414285898208618,kept,False
+81754,glutamylcysteine,Glu-Cys,gamma-Glutamylcysteine,glutamylcysteine,glu-cys,gamma-glutamylcysteine,2.0,17.0,17.0,False,False,,0.140229046344757,kept,False
+55633,Cytidine monophosphate N-acetylneuraminic acid-13C16,CMP-N-acetylneuraminic acid,Cytidine monophosphate N-acetylneuraminic acid,cytidine monophosphate n-acetylneuraminic acid-13c16,cmp-n-acetylneuraminic acid,cytidine monophosphate n-acetylneuraminic acid,2.0,2.0,1.0,False,True,same_pubchem_cid,0.1398794651031494,kept,False
+122256,Nicotinic acid adenine dinucleotide phosphate (NAADP),NAADP,Nicotinic acid adenine dinucleotide,nicotinic acid adenine dinucleotide phosphate (naadp),naadp,nicotinic acid adenine dinucleotide,2.0,7.0,7.0,False,False,,0.1391125321388244,kept,False
+143726,PC 44:4 (18:2(2E.4E)/26:2(5E.9Z)) [M+Na]+,PC 44:4,"PC 18:2(2E,4E)/26:2(5E,9Z)*",pc 44:4 (18:2(2e.4e)/26:2(5e.9z)) [m+na]+,pc 44:4,"pc 18:2(2e,4e)/26:2(5e,9z)*",,,,False,False,,0.1390725374221801,kept,False
+94540,iminodiacetate (IDA),Iminodiacetic acid,Iminodiacetate,iminodiacetate (ida),iminodiacetic acid,iminodiacetate,2.0,2.0,2.0,False,False,,0.1386950612068176,kept,False
+123171,N-palmitoyl-l-threonine,NA-Thr 16:0,N-Palmitoyl threonine,n-palmitoyl-l-threonine,na-thr 16:0,n-palmitoyl threonine,19.0,56.0,56.0,False,False,,0.1384925842285156,kept,False
+70475,docosahexaenoyl ethanolamide,Docosahexenoyl-EA,Docosatetraenoyl Ethanolamide,docosahexaenoyl ethanolamide,docosahexenoyl-ea,docosatetraenoyl ethanolamide,2.0,2.0,2.0,False,False,,0.1383158564567566,kept,False
+13869,"3-Methyladipic acid""",3-Methyl-adipic acid,3-Methyladipic acid,"3-methyladipic acid""",3-methyl-adipic acid,3-methyladipic acid,6.0,2.0,1.0,False,True,same_pubchem_cid,0.1370775699615478,kept,True
+114668,Methylpyrogallol sulfate 2,3-Methoxycatechol sulfate,2-Methylpyrogallol sulfate,methylpyrogallol sulfate 2,3-methoxycatechol sulfate,2-methylpyrogallol sulfate,23.0,22.0,22.0,False,False,,0.1369470357894897,kept,False
+114667,Methylpyrogallol sulfate 2,1-Methylpyrogallol 3-sulfate,2-Methylpyrogallol sulfate,methylpyrogallol sulfate 2,1-methylpyrogallol 3-sulfate,2-methylpyrogallol sulfate,2.0,2.0,2.0,False,False,,0.1369470357894897,kept,False
+14484,3-Sulfodeoxycholic acid_RT2,Deoxycholic acid 3-sulfate,3-Sulfodeoxycholic acid,3-sulfodeoxycholic acid_rt2,deoxycholic acid 3-sulfate,3-sulfodeoxycholic acid,8.0,7.0,1.0,False,True,same_pubchem_cid,0.1363602876663208,kept,False
+118054,N-[2-(4-hydroxyphenyl)ethyl]acetamide,N-Acetyltyramine,N-(2-Hydroxyphenyl)Acetamide,n-[2-(4-hydroxyphenyl)ethyl]acetamide,n-acetyltyramine,n-(2-hydroxyphenyl)acetamide,89.0,114.0,114.0,False,False,,0.1356695294380188,kept,False
+294600,valerylglycine (C5),NA-Gly 5:0,Valerylglycine,valerylglycine (c5),na-gly 5:0,valerylglycine,,,,False,False,,0.135253369808197,kept,False
+88907,Hexanoylglycine-TMS,NA-Gly 6:0,Hexanoylglycine,hexanoylglycine-tms,na-gly 6:0,hexanoylglycine,,,,False,False,,0.1342113018035888,kept,False
+123370,N-Undecanoylglycine_1,NA-Gly 11:0,N-Undecanoylglycine,n-undecanoylglycine_1,na-gly 11:0,n-undecanoylglycine,50.0,96.0,96.0,False,False,,0.1331264972686767,kept,False
+75427,FA(7:0),Heptylic acid,FA 7:0;O*,fa(7:0),heptylic acid,fa 7:0;o*,,,,False,False,,0.1328287720680236,kept,False
+12074,3.DEHYDROSHIKIMATE,3-Dehydroshikimic acid,Dehydroshikimate,3.dehydroshikimate,3-dehydroshikimic acid,dehydroshikimate,2.0,2.0,2.0,False,False,,0.1325325965881347,kept,False
+142252,PC 40:7 (20:3(5Z.8Z.11Z)/20:4(5E.8E.11E.14E)) [M+Na]+,PC 40:7,"PC 20:3(5Z,8Z,11Z)/20:4(5E,8E,11E,14E)*",pc 40:7 (20:3(5z.8z.11z)/20:4(5e.8e.11e.14e)) [m+na]+,pc 40:7,"pc 20:3(5z,8z,11z)/20:4(5e,8e,11e,14e)*",73.0,4.0,4.0,False,False,,0.1323762536048889,kept,False
+253841,tetradecenoylcarnitine isomer 1,CAR 14:1,trans-2-Tetradecenoylcarnitine,tetradecenoylcarnitine isomer 1,car 14:1,trans-2-tetradecenoylcarnitine,57.0,41.0,41.0,False,False,,0.1320374608039856,kept,False
+85256,guanosine monophosphate_M+1,GMP,Guanosine 3'-monophosphate,guanosine monophosphate_m+1,gmp,guanosine 3'-monophosphate,3.0,32.0,32.0,False,False,,0.1318984031677246,kept,False
+123365,N-Undecanoylglycine 2,NA-Gly 11:0,N-Undecanoylglycine,n-undecanoylglycine 2,na-gly 11:0,n-undecanoylglycine,126.0,152.0,152.0,False,False,,0.1309517621994018,kept,False
+4080,10-Formyltetrahydrofolic acid,N10-Formyl-THF,10-Formyldihydrofolic acid,10-formyltetrahydrofolic acid,n10-formyl-thf,10-formyldihydrofolic acid,3.0,13.0,13.0,False,False,,0.130873441696167,kept,False
+7176,1-Palmitoyl-sn-glycero-3-phosphoethanolamine,LPE 16:0/0:0,sn-Glycero-3-phosphoethanolamine,1-palmitoyl-sn-glycero-3-phosphoethanolamine,lpe 16:0/0:0,sn-glycero-3-phosphoethanolamine,,,,False,False,,0.1301872134208679,kept,False
+85143,guanosine 2'-monophosphate,2'-GMP,Guanosine 3'-monophosphate,guanosine 2'-monophosphate,2'-gmp,guanosine 3'-monophosphate,2.0,5.0,5.0,False,False,,0.1296920180320739,kept,False
+68836,"Dihydro-3-hydroxy-4,4-dimethyl-2(3H)-Furanone",Pantolactone,"3-Hydroxy-4,5-dimethyl-2(5H)-furanone","dihydro-3-hydroxy-4,4-dimethyl-2(3h)-furanone",pantolactone,"3-hydroxy-4,5-dimethyl-2(5h)-furanone",,,,False,False,,0.129006028175354,kept,False
+3322,"1,2-dipentadecanoyl-sn-glycero-3-phosphoethanolamine",PE 15:0/15:0,sn-Glycero-3-phosphoethanolamine,"1,2-dipentadecanoyl-sn-glycero-3-phosphoethanolamine",pe 15:0/15:0,sn-glycero-3-phosphoethanolamine,,,,False,False,,0.1281732320785522,kept,False
+45607,cholesteryl ester 22:6;,CE 22:6,Sitosterol Ester 22:6,cholesteryl ester 22:6;,ce 22:6,sitosterol ester 22:6,6.0,3.0,3.0,False,False,,0.128142237663269,kept,False
+100107,Linoleoylglycine,"NA-Gly 18:2(9Z,12Z)",N-linoleoylglycine,linoleoylglycine,"na-gly 18:2(9z,12z)",n-linoleoylglycine,64.0,88.0,88.0,False,False,,0.1264628171920776,kept,False
+55508,cytidine 5'-diphosphocholine (CDP-choline),CDP-choline,Cytidine 5'-diphosphocholine,cytidine 5'-diphosphocholine (cdp-choline),cdp-choline,cytidine 5'-diphosphocholine,2.0,2.0,1.0,False,True,same_pubchem_cid,0.1263352036476135,kept,False
+15775,4-Methoxybenzoate,p-Anisic acid,Methyl 4-methoxybenzoate,4-methoxybenzoate,p-anisic acid,methyl 4-methoxybenzoate,10.0,138.0,138.0,False,False,,0.1251353025436401,kept,False
+16637,5-aminoimidazole ribonucleotide,AIR,Aminoimidazole ribonucleotide,5-aminoimidazole ribonucleotide,air,aminoimidazole ribonucleotide,,,,False,False,,0.124550461769104,kept,False
+293768,Uridine diphosphategalactose*[M+NH4]+,UDP-galactose,Uridine diphosphategalactose,uridine diphosphategalactose*[m+nh4]+,udp-galactose,uridine diphosphategalactose,3.0,3.0,1.0,False,True,same_pubchem_cid,0.1237083077430725,kept,False
+6103,1-arachidonoyl-sn-glycero-3-phosphocholine,LPC 20:4/0:0,sn-Glycero-3-phosphocholine,1-arachidonoyl-sn-glycero-3-phosphocholine,lpc 20:4/0:0,sn-glycero-3-phosphocholine,,,,False,False,,0.1233212947845459,kept,False
+88906,Hexanoylglycine-2TMS,NA-Gly 6:0,Hexanoylglycine,hexanoylglycine-2tms,na-gly 6:0,hexanoylglycine,,,,False,False,,0.1232171058654785,kept,False
+241896,Sum-TriHOME,"9,12,13-TriHOME",TriHOME,sum-trihome,"9,12,13-trihome",trihome,3.0,2.0,2.0,False,False,,0.1231650710105896,kept,False
+74404,FA 6:0,Caproic acid,FA 6:0;O*,fa 6:0,caproic acid,fa 6:0;o*,,,,False,False,,0.1224387884140014,kept,False
+100104,LINOLEOYLGLYCEROPHOSPHOCHOLINE,LPC 18:2,sn-Glycero-3-phosphocholine,linoleoylglycerophosphocholine,lpc 18:2,sn-glycero-3-phosphocholine,,,,False,False,,0.1211773157119751,kept,False
+21811,Adenosine-5'-diphosphate,ADP,"Adenosine 3',5'-diphosphate",adenosine-5'-diphosphate,adp,"adenosine 3',5'-diphosphate",3.0,52.0,52.0,False,False,,0.1211444735527038,kept,False
+85192,Guanosine cyclic monophosphate,"3',5' cyclic GMP",Guanosine 3'-monophosphate,guanosine cyclic monophosphate,"3',5' cyclic gmp",guanosine 3'-monophosphate,2.0,3.0,3.0,False,False,,0.1206839084625244,kept,False
+7146,1-palmitoylglycerol,MG 16:0/0:0/0:0,1-Palmitoyl-galactosylglycerol,1-palmitoylglycerol,mg 16:0/0:0/0:0,1-palmitoyl-galactosylglycerol,,,,False,False,,0.1187798976898193,kept,False
+85193,Guanosine cyclic monophosphate*,"3',5' cyclic GMP",Guanosine 3'-monophosphate,guanosine cyclic monophosphate*,"3',5' cyclic gmp",guanosine 3'-monophosphate,2.0,3.0,3.0,False,False,,0.1185853481292724,kept,False
+74157,FA 28:0;,Montanic acid,FA 28:0;O*,fa 28:0;,montanic acid,fa 28:0;o*,,,,False,False,,0.1183525919914245,kept,False
+113393,Menaquinone 6,Vitamin K2,Menaquinone-9,menaquinone 6,vitamin k2,menaquinone-9,9.0,28.0,8.0,False,False,,0.118046760559082,kept,False
+72591,ethyl maltol sulfate,2-Ethyl-3-hydroxy-4H-pyran-4-one,Maltol sulfate,ethyl maltol sulfate,2-ethyl-3-hydroxy-4h-pyran-4-one,maltol sulfate,,,,False,False,,0.1179714798927307,kept,False
+74516,Fa(12:1+1o),Dodecenoic acid,FA 12:1;O*,fa(12:1+1o),dodecenoic acid,fa 12:1;o*,,,,False,False,,0.1177548766136169,kept,False
+214266,PON-PC,PC 16:0/9:0(CHO),POV-PC,pon-pc,pc 16:0/9:0(cho),pov-pc,,,,False,False,,0.1173366904258728,kept,False
+16143,4-trimethylammoniobutanoate+,3-Dehydroxycarnitine,4-Trimethylammoniobutanal,4-trimethylammoniobutanoate+,3-dehydroxycarnitine,4-trimethylammoniobutanal,,,,False,False,,0.1160141825675964,kept,False
+122869,Nomega-Acetylhistamine,N-Acetylglutamine,N-Acetylhistamine,nomega-acetylhistamine,n-acetylglutamine,n-acetylhistamine,20.0,9.0,9.0,False,False,,0.1151664853096008,kept,False
+74139,FA 26:5;,Hexacosapentaenoic acid,FA 26:5;O*,fa 26:5;,hexacosapentaenoic acid,fa 26:5;o*,,,,False,False,,0.1150370836257934,kept,False
+117571,N(2)-acetyl-ornithine,N-Acetylornithine,N(5)-Acetyl-ornithine,n(2)-acetyl-ornithine,n-acetylornithine,n(5)-acetyl-ornithine,19.0,2.0,2.0,False,False,,0.1146949529647827,kept,False
+9862,2-Ethylhexyl phthalate_2,Monoethylhexyl phthalic acid,Bis(2-ethylhexyl)phthalate,2-ethylhexyl phthalate_2,monoethylhexyl phthalic acid,bis(2-ethylhexyl)phthalate,14.0,27.0,27.0,False,False,,0.1128322482109069,kept,False
+118273,N6-(DELTA2-ISOPENTENYL)-ADENINE (CAS# 2365-40-4); (M-H)-,N6-Isopentenyladenine,N6-(delta2-Isopentenyl)-adenine,n6-(delta2-isopentenyl)-adenine (cas# 2365-40-4); (m-h)-,n6-isopentenyladenine,n6-(delta2-isopentenyl)-adenine,3.0,3.0,1.0,False,True,same_pubchem_cid,0.1123374104499816,kept,False
+227233,ribitol (likely),Xylitol,Ribitol,ribitol (likely),xylitol,ribitol,22.0,22.0,1.0,False,True,same_pubchem_cid,0.111611008644104,kept,False
+121079,N-arachidonoylglycine,"NA-Gly 20:4(5Z,8Z,11Z,14Z)",N-Arachidonoyl glycine,n-arachidonoylglycine,"na-gly 20:4(5z,8z,11z,14z)",n-arachidonoyl glycine,23.0,102.0,102.0,False,False,,0.1112757921218872,kept,True
+69555,Diuron-desdimethyl,"3,4-Dichlorophenylurea",Diuron,diuron-desdimethyl,"3,4-dichlorophenylurea",diuron,,,,False,False,,0.1112744212150573,kept,False
+21508,Adenosine 5-diphosphate (ADP),ADP,"Adenosine 3',5'-diphosphate",adenosine 5-diphosphate (adp),adp,"adenosine 3',5'-diphosphate",2.0,20.0,20.0,False,False,,0.1112642884254455,kept,False
+71759,EPA EA,Eicosapentenoyl-EA,EPA,epa ea,eicosapentenoyl-ea,epa,3.0,3.0,3.0,False,False,,0.1110467314720153,kept,False
+1734,(Methylthio)pyrazine,Methylthiopyrazine,2-(Methylthio)pyrazine,(methylthio)pyrazine,methylthiopyrazine,2-(methylthio)pyrazine,2.0,2.0,1.0,False,True,same_pubchem_cid,0.1110132932662963,kept,False
+78429,gamma-d-glutamylglycine,D-gamma-Glu-Gly,gamma-Glutamylglycine,gamma-d-glutamylglycine,d-gamma-glu-gly,gamma-glutamylglycine,7.0,16.0,16.0,False,False,,0.1105400323867797,kept,False
+13694,3-Methoxy-4-hydroxyphenylglycol,Vanylglycol,3-Methoxy-4-hydroxyphenylglycolaldehyde,3-methoxy-4-hydroxyphenylglycol,vanylglycol,3-methoxy-4-hydroxyphenylglycolaldehyde,28.0,78.0,78.0,False,False,,0.110445499420166,kept,False
+55902,D-(+)-Pyroglutamic Acid (1),5-Oxo-D-proline,Pyroglutamic acid,d-(+)-pyroglutamic acid (1),5-oxo-d-proline,pyroglutamic acid,24.0,183.0,183.0,False,False,,0.1102222204208374,kept,False
+118271,N6-(DELTA2-ISOPENTENYL)-ADENINE (CAS# 2365-40-4); (M+H)+,N6-Isopentenyladenine,N6-(delta2-Isopentenyl)-adenine,n6-(delta2-isopentenyl)-adenine (cas# 2365-40-4); (m+h)+,n6-isopentenyladenine,n6-(delta2-isopentenyl)-adenine,3.0,3.0,1.0,False,True,same_pubchem_cid,0.1100332140922546,kept,False
+173172,PE 38:4 (18:0/20:4(5E.8E.11E.14E)) [M-H]-,PE 38:4,"PE 18:0/20:4(5E,8E,11E,14E)*",pe 38:4 (18:0/20:4(5e.8e.11e.14e)) [m-h]-,pe 38:4,"pe 18:0/20:4(5e,8e,11e,14e)*",,,,False,False,,0.1099182963371276,kept,False
+195687,PG 38:4 (18:0/20:4(5E.8E.11E.14E)) [M-H]-,PG 38:4,"PG 18:0/20:4(5E,8E,11E,14E)*",pg 38:4 (18:0/20:4(5e.8e.11e.14e)) [m-h]-,pg 38:4,"pg 18:0/20:4(5e,8e,11e,14e)*",9.0,7.0,7.0,False,False,,0.1096823811531066,kept,False
+94972,INDOXYL-BETA-GLUCURONIDE,Inodxyl glucuronide,Indoxyl glucuronide,indoxyl-beta-glucuronide,inodxyl glucuronide,indoxyl glucuronide,3.0,3.0,1.0,False,True,same_pubchem_cid,0.1095547676086425,kept,False
+215540,ProPheArg,Pro-Phe-Arg,Propham,prophearg,pro-phe-arg,propham,,,,False,False,,0.1095431447029113,kept,False
+58183,D-Citronellol,beta-Citronellol,Citronellol,d-citronellol,beta-citronellol,citronellol,1.0,2.0,1.0,False,True,same_pubchem_cid,0.1093442440032959,kept,False
+17604,"5-Tricosyl-1,3-benzenediol",5-Tricosylresorcinol,"5-Heneicosyl-1,3-benzenediol","5-tricosyl-1,3-benzenediol",5-tricosylresorcinol,"5-heneicosyl-1,3-benzenediol",1.0,2.0,2.0,False,False,,0.1088735461235046,kept,False
+4744,13C Adonitol,Ribitol,Adonitol,13c adonitol,ribitol,adonitol,,,1.0,False,True,same_pubchem_cid,0.1086140871047973,kept,False
+210518,PIP(26:2),PI P-26:2,PIP 26:2*,pip(26:2),pi p-26:2,pip 26:2*,,,1.0,False,True,strong_alias,0.1081727147102356,kept,True
+253840,tetradecenoylcarnitine C14:1,CAR 14:1,trans-2-Tetradecenoylcarnitine,tetradecenoylcarnitine c14:1,car 14:1,trans-2-tetradecenoylcarnitine,8.0,2.0,2.0,False,False,,0.1079245805740356,kept,False
+23755,alpha-glutamylvaline,Glu-Val,gamma-Glutamylvaline,alpha-glutamylvaline,glu-val,gamma-glutamylvaline,17.0,44.0,44.0,False,False,,0.1078953146934509,kept,False
+94545,Iminodiacetic acid (3TMS),Iminodiacetate,Iminodiacetic acid,iminodiacetic acid (3tms),iminodiacetate,iminodiacetic acid,58.0,27.0,27.0,False,False,,0.1077821254730224,kept,False
+21513,Adenosine 5'-Diphosphate?ADP?,ADP,"Adenosine 3',5'-diphosphate",adenosine 5'-diphosphate?adp?,adp,"adenosine 3',5'-diphosphate",2.0,15.0,15.0,False,False,,0.1074764728546142,kept,False
+55493,Cytidine 5-diphosphate (CDP),CDP,Cytidine 5'-diphosphocholine,cytidine 5-diphosphate (cdp),cdp,cytidine 5'-diphosphocholine,5.0,20.0,20.0,False,False,,0.1072871685028076,kept,False
+215525,Propenoic acid C3:1,Pyruvaldehyde,Propenoic acid,propenoic acid c3:1,pyruvaldehyde,propenoic acid,,,,False,False,,0.1070849299430847,kept,False
+3504,"1,6-anhydro-glucose",Glucosan,"3,6-Anhydro-glucose","1,6-anhydro-glucose",glucosan,"3,6-anhydro-glucose",46.0,44.0,44.0,False,False,,0.1070191264152526,kept,False
+85294,GUANOSINE_5'-MONOPHOSPHATE,GMP,Guanosine 3'-monophosphate,guanosine_5'-monophosphate,gmp,guanosine 3'-monophosphate,3.0,50.0,50.0,False,False,,0.106912076473236,kept,False
+9424,2-arachidonyl-sn-glycero-3-phosphoethanolamine,"LPE 0:0/20:4(5Z,8Z,11Z,14Z)",sn-Glycero-3-phosphoethanolamine,2-arachidonyl-sn-glycero-3-phosphoethanolamine,"lpe 0:0/20:4(5z,8z,11z,14z)",sn-glycero-3-phosphoethanolamine,,,,False,False,,0.1065180301666259,kept,False
+74451,FA oxo(9:0) oxo-nonanoic acid,Oxononanoic acid,9-Oxo-nonanoic acid,fa oxo(9:0) oxo-nonanoic acid,oxononanoic acid,9-oxo-nonanoic acid,,,,False,False,,0.1063215136528015,kept,False
+79332,GlcCer 34:1,GlcCer 14:1;O2/20:0,GlcCer 34:1;O2,glccer 34:1,glccer 14:1;o2/20:0,glccer 34:1;o2,97.0,35.0,21.0,False,False,,0.1055579185485839,kept,False
+20790,Acetylglutamine_13C1,N-Acetylglutamic acid,N-Acetylglutamine,acetylglutamine_13c1,n-acetylglutamic acid,n-acetylglutamine,7.0,2.0,2.0,False,False,,0.1053943037986755,kept,False
+210564,PIP(34:1),PI P-34:1,PIP 34:1*,pip(34:1),pi p-34:1,pip 34:1*,,,1.0,False,True,strong_alias,0.1051992177963256,kept,True
+23673,alpha-Asarone*,trans-Isoasarone,gamma-Asarone,alpha-asarone*,trans-isoasarone,gamma-asarone,3.0,25.0,25.0,False,False,,0.1047799587249755,kept,False
+16937,"5-hydroxy-2-(4-hydroxyphenyl)-7-methoxy-2,3-dihydrochromen-4-one_2",Sakuranetin,"7-Hydroxy-2-(4-hydroxyphenyl)-2,3-dihydrochromen-4-one","5-hydroxy-2-(4-hydroxyphenyl)-7-methoxy-2,3-dihydrochromen-4-one_2",sakuranetin,"7-hydroxy-2-(4-hydroxyphenyl)-2,3-dihydrochromen-4-one",60.0,109.0,109.0,False,False,,0.104454219341278,kept,False
+55492,Cytidine 5'-diphosphate (CDP),CDP,Cytidine 5'-diphosphocholine,cytidine 5'-diphosphate (cdp),cdp,cytidine 5'-diphosphocholine,5.0,21.0,21.0,False,False,,0.1041998863220214,kept,False
+85237,Guanosine monophosphate (GMP)_1,GMP,Guanosine 3'-monophosphate,guanosine monophosphate (gmp)_1,gmp,guanosine 3'-monophosphate,3.0,4.0,4.0,False,False,,0.1036819815635681,kept,False
+207797,PI(20:5_18:0),PI 18:0_20:5,PI 20:5/18:0,pi(20:5_18:0),pi 18:0_20:5,pi 20:5/18:0,8.0,3.0,2.0,False,False,,0.1036686897277832,kept,True
+13739,3-Methoxytyrosine*,3-O-Methyl-DOPA,Methoxytyrosine,3-methoxytyrosine*,3-o-methyl-dopa,methoxytyrosine,3.0,8.0,8.0,False,False,,0.1035313606262207,kept,False
+16940,5-Hydroxy-2-methylpyridine,6-Methyl-3-hydroxypyridine,3-Hydroxy-2-methylpyridine,5-hydroxy-2-methylpyridine,6-methyl-3-hydroxypyridine,3-hydroxy-2-methylpyridine,2.0,8.0,8.0,False,False,,0.1034333109855651,kept,False
+20792,Acetylglutamine_13C3,N-Acetylglutamic acid,N-Acetylglutamine,acetylglutamine_13c3,n-acetylglutamic acid,n-acetylglutamine,11.0,2.0,2.0,False,False,,0.103406548500061,kept,False
+85754,Heptanoylglycine,NA-Gly 7:0,N-Heptanoylglycine,heptanoylglycine,na-gly 7:0,n-heptanoylglycine,119.0,166.0,166.0,False,False,,0.1032336354255676,kept,False
+142930,PC 42:2 (16:1(7Z)/26:1(5Z)) [M+Na]+,PC 42:2,PC 16:1(7Z)/26:1(5Z)*,pc 42:2 (16:1(7z)/26:1(5z)) [m+na]+,pc 42:2,pc 16:1(7z)/26:1(5z)*,,,,False,False,,0.1031858921051025,kept,False
+20796,Acetylglutamine_13C7,N-Acetylglutamic acid,N-Acetylglutamine,acetylglutamine_13c7,n-acetylglutamic acid,n-acetylglutamine,12.0,2.0,2.0,False,False,,0.1030066013336181,kept,False
+24024,alpha-Methylstyrene +5.387,Prop-1-En-2-ylbenzene,4-Methylstyrene,alpha-methylstyrene +5.387,prop-1-en-2-ylbenzene,4-methylstyrene,21.0,58.0,58.0,False,False,,0.1025341749191284,kept,False
+4779,13C G (Guanosine),Glycine,Guanosine,13c g (guanosine),glycine,guanosine,,,,False,False,,0.102349579334259,kept,False
+15884,4-methylnonanoylcarnitine,CAR 9:0;4Me,4-Oxopentanoylcarnitine,4-methylnonanoylcarnitine,car 9:0;4me,4-oxopentanoylcarnitine,24.0,158.0,158.0,False,False,,0.1019667387008667,kept,False
+14424,3-Propylmalate,3-Propylmalic acid,Propylmalate,3-propylmalate,3-propylmalic acid,propylmalate,2.0,2.0,2.0,False,False,,0.1019259691238403,kept,False
+1770,(R)-2-Hydroxy-3-phenylpropionic acid,L-3-Phenyllactic acid,3-Hydroxy-3-phenylpropionic acid,(r)-2-hydroxy-3-phenylpropionic acid,l-3-phenyllactic acid,3-hydroxy-3-phenylpropionic acid,3.0,15.0,15.0,False,False,,0.1015815734863281,kept,False
+9861,2-Ethylhexyl phthalate_1,Monoethylhexyl phthalic acid,Bis(2-ethylhexyl)phthalate,2-ethylhexyl phthalate_1,monoethylhexyl phthalic acid,bis(2-ethylhexyl)phthalate,13.0,24.0,24.0,False,False,,0.101414680480957,kept,False
+45591,Cholesteryl ester 18:2,CE 18:2,Sitosterol Ester 18:2,cholesteryl ester 18:2,ce 18:2,sitosterol ester 18:2,88.0,3.0,3.0,False,False,,0.1012115478515625,kept,False
+94992,Inosin,IDP,Inosine,inosin,idp,inosine,73.0,135.0,135.0,False,False,,0.1010921597480773,kept,False
+2062,"(Z)-2-Butene-1,2,3-tricarboxylic acid",cis-2-Methylaconitate,"1,2,3-Propanetricarboxylic acid","(z)-2-butene-1,2,3-tricarboxylic acid",cis-2-methylaconitate,"1,2,3-propanetricarboxylic acid",,,,False,False,,0.1008597016334533,kept,False
+293659,Uridine 5'-diphospho-N-acetylglucosamine*,UDP-N-acetylglucosamine,Uridine 5'-Diphospho-N-acetylgalactosamine,uridine 5'-diphospho-n-acetylglucosamine*,udp-n-acetylglucosamine,uridine 5'-diphospho-n-acetylgalactosamine,2.0,2.0,2.0,False,False,,0.1008596420288086,kept,False
+118772,N-Acetyl-D-glucosamine_2,N-Acetylglucosamine,N-Acetyl-D-glucosamine,n-acetyl-d-glucosamine_2,n-acetylglucosamine,n-acetyl-d-glucosamine,2.0,4.0,4.0,False,False,,0.1008203625679016,kept,False
+290365,trans-petroselinic acid,Petroselaidic acid,Petroselinic acid,trans-petroselinic acid,petroselaidic acid,petroselinic acid,2.0,2.0,2.0,False,False,,0.1007986068725586,kept,False
+31689,capryloyl glycine,NA-Gly 8:0,Capryloylglycine,capryloyl glycine,na-gly 8:0,capryloylglycine,,,,False,False,,0.100669264793396,kept,True
+82076,glutathione disulfide-posi,Oxidized glutathione,Cysteine-glutathione disulfide,glutathione disulfide-posi,oxidized glutathione,cysteine-glutathione disulfide,3.0,5.0,5.0,False,False,,0.1000871658325195,kept,False
+6962,1-OLEOYL-RAC-GLYCEROL (M+H)+,MG 18:1,1-Palmitoyl-galactosylglycerol,1-oleoyl-rac-glycerol (m+h)+,mg 18:1,1-palmitoyl-galactosylglycerol,,,,False,False,,0.0991968512535095,kept,False
+99105,leucine+isoleucine_m+0,Leucine,Leucine/Isoleucine,leucine+isoleucine_m+0,leucine,leucine/isoleucine,5.0,3.0,3.0,False,False,,0.0990006923675537,kept,False
+9864,2-Ethylhexyl phthalate_4,Monoethylhexyl phthalic acid,Bis(2-ethylhexyl)phthalate,2-ethylhexyl phthalate_4,monoethylhexyl phthalic acid,bis(2-ethylhexyl)phthalate,11.0,21.0,21.0,False,False,,0.0983623266220092,kept,False
+28057,beta-Alanyl-L-lysine;,beta-Ala-Lys,beta-Alanyl-L-arginine,beta-alanyl-l-lysine;,beta-ala-lys,beta-alanyl-l-arginine,1.0,4.0,4.0,False,False,,0.0981630086898803,kept,False
+69391,Dinoprostone,PGE2,Unoprostone,dinoprostone,pge2,unoprostone,6.0,17.0,17.0,False,False,,0.0980228185653686,kept,False
+29223,Bromo-tryptophan,Bromotryptophan,5-Bromo-tryptophan,bromo-tryptophan,bromotryptophan,5-bromo-tryptophan,2.0,2.0,2.0,False,False,,0.0976043939590454,kept,False
+2407,?-Terpineol,(S)-alpha-Terpineol,Terpineol,?-terpineol,(s)-alpha-terpineol,terpineol,4.0,4.0,4.0,False,False,,0.0975748896598815,kept,True
+55513,cytidine 5'-diphosphocholine (CDP-choline)_13C11,CDP-choline,Cytidine 5'-diphosphocholine,cytidine 5'-diphosphocholine (cdp-choline)_13c11,cdp-choline,cytidine 5'-diphosphocholine,1.0,2.0,1.0,False,True,same_pubchem_cid,0.0972839593887329,kept,False
+564,"N,N,N-trimethyl-5-aminovalerate",delta-Valerobetaine,"N,N-Dimethyl-5-aminovaleric acid","n,n,n-trimethyl-5-aminovalerate",delta-valerobetaine,"n,n-dimethyl-5-aminovaleric acid",,,,False,False,,0.0970589518547058,kept,False
+94820,Indole-3-ethanol_2,Tryptophanol,Indole-3-carbinol,indole-3-ethanol_2,tryptophanol,indole-3-carbinol,8.0,30.0,30.0,False,False,,0.0969452261924743,kept,False
+186021,PE(40:6) +O2,PE 40:6,PE 40:6;O2,pe(40:6) +o2,pe 40:6,pe 40:6;o2,15.0,2.0,2.0,False,False,,0.0969355702400207,kept,True
+119651,N-Acetylproline_R2,N-Acetyl-proline,N-Acetylproline,n-acetylproline_r2,n-acetyl-proline,n-acetylproline,2.0,2.0,1.0,False,True,strong_alias,0.0968844890594482,kept,False
+73724,FA 20:1n-7,Paullinic acid,FA 20:7*,fa 20:1n-7,paullinic acid,fa 20:7*,,,,False,False,,0.0966800451278686,kept,False
+45599,Cholesteryl ester 20:4,CE 20:4,Sitosterol Ester 20:4,cholesteryl ester 20:4,ce 20:4,sitosterol ester 20:4,6.0,5.0,5.0,False,False,,0.0965563654899597,kept,False
+75353,FA(26:5),Hexacosapentaenoic acid,FA 26:5;O*,fa(26:5),hexacosapentaenoic acid,fa 26:5;o*,,,,False,False,,0.096473753452301,kept,False
+114277,Methyl Caprate,Methyl decanoate,Methyl caprylate,methyl caprate,methyl decanoate,methyl caprylate,7.0,2.0,2.0,False,False,,0.0963988304138183,kept,False
+290197,trans-3-indoleacrylate,Indoleacrylic acid,trans-3-Indoleacrylic acid,trans-3-indoleacrylate,indoleacrylic acid,trans-3-indoleacrylic acid,4.0,7.0,7.0,False,False,,0.096345841884613,kept,False
+74096,FA 24:6[M-H]-,Tetracosahexaenoic acid,FA 24:6;O*,fa 24:6[m-h]-,tetracosahexaenoic acid,fa 24:6;o*,,,,False,False,,0.0962584018707275,kept,False
+77180,Formylkynurenine_R1,N-Formyl-L-kynurenine,N-Formylkynurenine,formylkynurenine_r1,n-formyl-l-kynurenine,n-formylkynurenine,2.0,2.0,2.0,False,False,,0.0957227349281311,kept,False
+9403,2-Arachidonoyl-1-stearoyl-sn-glycero-3-phosphoethanolamine,"PE 18:0/20:4(5Z,8Z,11Z,14Z)",Glycerophospho-N-arachidonoyl ethanolamine,2-arachidonoyl-1-stearoyl-sn-glycero-3-phosphoethanolamine,"pe 18:0/20:4(5z,8z,11z,14z)",glycerophospho-n-arachidonoyl ethanolamine,88.0,234.0,231.0,False,False,,0.0954988002777099,kept,False
+19214,9Z-Eicosenoic acid,cis-Gadoleic acid,Eicosenoic acid,9z-eicosenoic acid,cis-gadoleic acid,eicosenoic acid,64.0,229.0,229.0,False,False,,0.0952744483947753,kept,False
+4403,11Z-Eicosenoic acid,cis-Gondoic acid,Eicosenoic acid,11z-eicosenoic acid,cis-gondoic acid,eicosenoic acid,28.0,180.0,180.0,False,False,,0.095233678817749,kept,False
+82725,Glycerol 3-phosphate_C13-label-2,sn-Glycero-3-phosphate,2-(alpha-D-Galactosyl)-sn-glycerol 3-phosphate,glycerol 3-phosphate_c13-label-2,sn-glycero-3-phosphate,2-(alpha-d-galactosyl)-sn-glycerol 3-phosphate,,,,False,False,,0.0950961709022522,kept,False
+85170,Guanosine 5-diphosphate,GDP,"Guanosine 3',5'-bis(diphosphate)",guanosine 5-diphosphate,gdp,"guanosine 3',5'-bis(diphosphate)",4.0,57.0,57.0,False,False,,0.094784677028656,kept,False
+18426,7-hydroxy-2-oxindole-3-acetate glucoside,7-Methylthioheptyl-desulfoglucosinolate,2-Oxindole-3-acetate,7-hydroxy-2-oxindole-3-acetate glucoside,7-methylthioheptyl-desulfoglucosinolate,2-oxindole-3-acetate,,,,False,False,,0.0947014093399047,kept,False
+45600,cholesteryl ester 20:4;,CE 20:4,Sitosterol Ester 20:4,cholesteryl ester 20:4;,ce 20:4,sitosterol ester 20:4,7.0,6.0,6.0,False,False,,0.0945798158645629,kept,False
+241873,Sulfuric acid -2.122,TG 16:0_18:1_18:1,Sulfuric acid,sulfuric acid -2.122,tg 16:0_18:1_18:1,sulfuric acid,,,,False,False,,0.094471275806427,kept,False
+24021,alpha-Methylstyrene +1.095,Prop-1-En-2-ylbenzene,4-Methylstyrene,alpha-methylstyrene +1.095,prop-1-en-2-ylbenzene,4-methylstyrene,5.0,19.0,19.0,False,False,,0.0944447517395019,kept,False
+227007,raspberry ketone,4-(4-Hydroxyphenyl)-2-butanone,Michler's Ketone,raspberry ketone,4-(4-hydroxyphenyl)-2-butanone,michler's ketone,,,,False,False,,0.0943389534950256,kept,False
+68124,DHA-EA,Docosahexenoyl-EA,DHA,dha-ea,docosahexenoyl-ea,dha,,,,False,False,,0.0942019820213317,kept,False
+68860,dihydrobiopterin,4a-Carbinolamine tetrahydrobiopterin,"7,8-Dihydrobiopterin",dihydrobiopterin,4a-carbinolamine tetrahydrobiopterin,"7,8-dihydrobiopterin",8.0,7.0,7.0,False,False,,0.0940643548965454,kept,False
+82000,Glutathione disulfide 13C20,Oxidized glutathione,Cysteine-glutathione disulfide,glutathione disulfide 13c20,oxidized glutathione,cysteine-glutathione disulfide,27.0,5.0,5.0,False,False,,0.0935719609260559,kept,False
+81777,Glutamylphenylalanine (isomer of 1503),Glu-Phe,gamma-Glutamylphenylalanine,glutamylphenylalanine (isomer of 1503),glu-phe,gamma-glutamylphenylalanine,2.0,6.0,6.0,False,False,,0.0934928655624389,kept,False
+289185,thiocyanate,Thiocyanic acid,Benzyl thiocyanate,thiocyanate,thiocyanic acid,benzyl thiocyanate,14.0,5.0,5.0,False,False,,0.0934857130050659,kept,False
+15416,4-hydroxy-3-methoxybenzoic acid,Vanillic acid,3-Hydroxy-4-methoxybenzoic acid,4-hydroxy-3-methoxybenzoic acid,vanillic acid,3-hydroxy-4-methoxybenzoic acid,22.0,119.0,119.0,False,False,,0.092970073223114,kept,False
+82029,Glutathione disulfide_13C16,Oxidized glutathione,Cysteine-glutathione disulfide,glutathione disulfide_13c16,oxidized glutathione,cysteine-glutathione disulfide,20.0,5.0,5.0,False,False,,0.0927562117576599,kept,False
+228522,Sedoheptulose_1,Glucoheptulose,Sedoheptulose,sedoheptulose_1,glucoheptulose,sedoheptulose,3.0,4.0,4.0,False,False,,0.0926266908645629,kept,False
+82031,Glutathione disulfide_13C18,Oxidized glutathione,Cysteine-glutathione disulfide,glutathione disulfide_13c18,oxidized glutathione,cysteine-glutathione disulfide,16.0,5.0,5.0,False,False,,0.0922116041183471,kept,False
+82022,glutathione disulfide_13C1,Oxidized glutathione,Cysteine-glutathione disulfide,glutathione disulfide_13c1,oxidized glutathione,cysteine-glutathione disulfide,8.0,6.0,6.0,False,False,,0.092095136642456,kept,False
+4837,13C Pyruvate,Pyruvic acid,Methyl pyruvate,13c pyruvate,pyruvic acid,methyl pyruvate,14.0,2.0,2.0,False,False,,0.0920038223266601,kept,False
+113978,methionine S-oxide_Neg_ExRate3,Methionine sulfoxide,Methionine (S)-S-oxide,methionine s-oxide_neg_exrate3,methionine sulfoxide,methionine (s)-s-oxide,2.0,2.0,2.0,False,False,,0.0918924808502197,kept,False
+19088,9-hydroxyoctadecanoic acid,9-Hydroxy stearic acid,Hydroxyoctadecanoic acid,9-hydroxyoctadecanoic acid,9-hydroxy stearic acid,hydroxyoctadecanoic acid,1.0,4.0,4.0,False,False,,0.0914765000343322,kept,False
+82039,Glutathione disulfide_13C7,Oxidized glutathione,Cysteine-glutathione disulfide,glutathione disulfide_13c7,oxidized glutathione,cysteine-glutathione disulfide,15.0,6.0,6.0,False,False,,0.0913724303245544,kept,False
+221403,PS(20:5_18:0),PS 18:0_20:5,PS 20:5/18:0*,ps(20:5_18:0),ps 18:0_20:5,ps 20:5/18:0*,2.0,2.0,2.0,False,False,,0.0913608074188232,kept,True
+74093,FA 24:6,Tetracosahexaenoic acid,FA 24:6;O*,fa 24:6,tetracosahexaenoic acid,fa 24:6;o*,,,,False,False,,0.0913237333297729,kept,False
+82036,glutathione disulfide_13C4,Oxidized glutathione,Cysteine-glutathione disulfide,glutathione disulfide_13c4,oxidized glutathione,cysteine-glutathione disulfide,12.0,6.0,6.0,False,False,,0.09099942445755,kept,False
+71855,Epicatechin 5-O-beta-D-glucopyranoside-3-benzoate,Epicatechin 5-glucoside 3-benzoate,Epicatechin 5-O-beta-D-glucoside-3-benzoate,epicatechin 5-o-beta-d-glucopyranoside-3-benzoate,epicatechin 5-glucoside 3-benzoate,epicatechin 5-o-beta-d-glucoside-3-benzoate,2.0,2.0,2.0,False,False,,0.0908946990966796,kept,False
+295490,Xanthosine 5'-phosphate(XMP),XMP,Xanthosine 5-triphosphate,xanthosine 5'-phosphate(xmp),xmp,xanthosine 5-triphosphate,2.0,56.0,56.0,False,False,,0.0908272266387939,kept,False
+99294,Leukotriene f4,LTF4,N-Acetyl-leukotriene E4,leukotriene f4,ltf4,n-acetyl-leukotriene e4,53.0,30.0,30.0,False,False,,0.090818166732788,kept,False
+76896,Flavin Mononucleotide-13C15,FMN,Nicotinic acid mononucleotide,flavin mononucleotide-13c15,fmn,nicotinic acid mononucleotide,1.0,3.0,3.0,False,False,,0.0906473994255065,kept,False
+96731,kyotorphin-2,Tyr-Arg,Endomorphin-2,kyotorphin-2,tyr-arg,endomorphin-2,,,,False,False,,0.0903897881507873,kept,False
+75318,FA(25:1)-H,Pentacosenoic acid,FA 25:1;O*,fa(25:1)-h,pentacosenoic acid,fa 25:1;o*,,,,False,False,,0.0903823375701904,kept,False
+10995,2-Naphthylamine_1,2-Aminonaphthalene,1-Naphthylamine,2-naphthylamine_1,2-aminonaphthalene,1-naphthylamine,3.0,4.0,4.0,False,False,,0.0900377035140991,kept,False
+293930,Uridine-5-diphosphoacetylgalactosamine*,UDP-N-acetylgalactosamine,Uridine 5'-Diphospho-N-acetylgalactosamine,uridine-5-diphosphoacetylgalactosamine*,udp-n-acetylgalactosamine,uridine 5'-diphospho-n-acetylgalactosamine,2.0,3.0,1.0,False,True,same_pubchem_cid,0.08999764919281,kept,False
+20482,Acetyl proline_C12 PARENT,N-Acetylproline,N-Acetyl-proline,acetyl proline_c12 parent,n-acetylproline,n-acetyl-proline,2.0,2.0,1.0,False,True,strong_alias,0.0899006128311157,kept,False
+16221,5-(hydroxymethyl)-2-Furancarboxylicacid,Sumiki's acid,5-Hydroxymethyl-2-furancarboxaldehyde,5-(hydroxymethyl)-2-furancarboxylicacid,sumiki's acid,5-hydroxymethyl-2-furancarboxaldehyde,,,,False,False,,0.089803397655487,kept,False
+76889,Flavin Mononucleotide-13C0,FMN,Nicotinic acid mononucleotide,flavin mononucleotide-13c0,fmn,nicotinic acid mononucleotide,1.0,3.0,3.0,False,False,,0.0896291732788086,kept,False
+113976,methionine S-oxide_Neg_ExRate1,Methionine sulfoxide,Methionine (S)-S-oxide,methionine s-oxide_neg_exrate1,methionine sulfoxide,methionine (s)-s-oxide,2.0,2.0,2.0,False,False,,0.0895584821701049,kept,False
+76891,Flavin Mononucleotide-13C10,FMN,Nicotinic acid mononucleotide,flavin mononucleotide-13c10,fmn,nicotinic acid mononucleotide,1.0,3.0,3.0,False,False,,0.0890985131263732,kept,False
+92292,Hippureic acid,2-Methylhippuric acid,Hippuric acid,hippureic acid,2-methylhippuric acid,hippuric acid,76.0,25.0,25.0,False,False,,0.0890937447547912,kept,False
+120962,N-alpha-acetyl-l-ornithine,N-Acetylornithine,N(5)-Acetyl-ornithine,n-alpha-acetyl-l-ornithine,n-acetylornithine,n(5)-acetyl-ornithine,27.0,2.0,2.0,False,False,,0.089063823223114,kept,False
+124356,Oleoyl-glycerol,MG 18:1,Glycerol,oleoyl-glycerol,mg 18:1,glycerol,,,,False,False,,0.0889552235603332,kept,False
+291189,Trisaccharide,Hexose,Hexose trisaccharide,trisaccharide,hexose,hexose trisaccharide,13.0,42.0,42.0,False,False,,0.0888975858688354,kept,False
+82002,Glutathione disulfide 13C7,Oxidized glutathione,Cysteine-glutathione disulfide,glutathione disulfide 13c7,oxidized glutathione,cysteine-glutathione disulfide,27.0,5.0,5.0,False,False,,0.0888745188713073,kept,False
+119434,N-Acetyl-L-Tryptophan*,N-Acetyltryptophan,N-Acetyl-tryptophan,n-acetyl-l-tryptophan*,n-acetyltryptophan,n-acetyl-tryptophan,3.0,3.0,1.0,False,True,strong_alias,0.0888155698776245,kept,False
+85165,Guanosine 5'-diphosphate M+3,GDP,"Guanosine 3',5'-bis(diphosphate)",guanosine 5'-diphosphate m+3,gdp,"guanosine 3',5'-bis(diphosphate)",4.0,32.0,32.0,False,False,,0.0888108611106872,kept,False
+5143,13-OxoODE_RT1,13-Oxo-ODE,13-OxoODE,13-oxoode_rt1,13-oxo-ode,13-oxoode,2.0,2.0,1.0,False,True,same_pubchem_cid,0.0888093709945678,kept,False
+82001,Glutathione disulfide 13C3,Oxidized glutathione,Cysteine-glutathione disulfide,glutathione disulfide 13c3,oxidized glutathione,cysteine-glutathione disulfide,15.0,5.0,5.0,False,False,,0.0887537598609924,kept,False
+106,"1,6-anhydro- -D-glucose",Glucosan,"3,6-Anhydro-glucose","1,6-anhydro- -d-glucose",glucosan,"3,6-anhydro-glucose",60.0,58.0,58.0,False,False,,0.0884817838668823,kept,False
+76914,Flavine-adenine dinucleotide,FAD,Nicotinic acid adenine dinucleotide,flavine-adenine dinucleotide,fad,nicotinic acid adenine dinucleotide,5.0,9.0,9.0,False,False,,0.0884792208671569,kept,False
+14599,4-(Aminomethyl)-5-(hydroxymethyl)-2-methylpyridin-3-ol,Pyridoxamine,4-Amino-5-hydroxymethyl-2-methylpyrimidine,4-(aminomethyl)-5-(hydroxymethyl)-2-methylpyridin-3-ol,pyridoxamine,4-amino-5-hydroxymethyl-2-methylpyrimidine,44.0,123.0,123.0,False,False,,0.0878714323043823,kept,False
+119649,N-ACETYLPROLINE_peak2,N-Acetyl-proline,N-Acetylproline,n-acetylproline_peak2,n-acetyl-proline,n-acetylproline,2.0,2.0,1.0,False,True,strong_alias,0.087847352027893,kept,False
+226529,Q9NQX5,Protein,CNQX,q9nqx5,protein,cnqx,,,,False,False,,0.0877767205238342,kept,False
+85162,Guanosine 5'-diphosphate M+0,GDP,"Guanosine 3',5'-bis(diphosphate)",guanosine 5'-diphosphate m+0,gdp,"guanosine 3',5'-bis(diphosphate)",2.0,41.0,41.0,False,False,,0.0877541899681091,kept,False
+239090,Sodium cholate,Cholic acid,Methyl cholate,sodium cholate,cholic acid,methyl cholate,1.0,2.0,2.0,False,False,,0.0877522826194763,kept,False
+76906,Flavin Mononucleotide-13C9,FMN,Nicotinic acid mononucleotide,flavin mononucleotide-13c9,fmn,nicotinic acid mononucleotide,1.0,3.0,3.0,False,False,,0.0877447128295898,kept,False
+82062,Glutathione Disulfide_R2,Oxidized glutathione,Cysteine-glutathione disulfide,glutathione disulfide_r2,oxidized glutathione,cysteine-glutathione disulfide,2.0,3.0,3.0,False,False,,0.0876064300537109,kept,False
+99293,Leukotriene F4 -9.235,LTF4,N-Acetyl-leukotriene E4,leukotriene f4 -9.235,ltf4,n-acetyl-leukotriene e4,64.0,47.0,47.0,False,False,,0.087295651435852,kept,False
+23149,alanine-alanine,Ala-Ala,Alanine,alanine-alanine,ala-ala,alanine,5.0,9.0,9.0,False,False,,0.0872495770454406,kept,False
+181743,PE(20:4-19:0),PE 19:0_20:4,PE 20:4/19:0,pe(20:4-19:0),pe 19:0_20:4,pe 20:4/19:0,10.0,4.0,4.0,False,False,,0.0870732069015502,kept,True
+253810,TETRADECANOYLCARNITINE (M+H),CAR 14:0,trans-2-Tetradecenoylcarnitine,tetradecanoylcarnitine (m+h),car 14:0,trans-2-tetradecenoylcarnitine,81.0,88.0,88.0,False,False,,0.0870251059532165,kept,False
+21803,"Adenosine-3',5'-cyclicmonophosphate","3',5' cyclic AMP","Adenosine 3',5'-diphosphate","adenosine-3',5'-cyclicmonophosphate","3',5' cyclic amp","adenosine 3',5'-diphosphate",1.0,2.0,2.0,False,False,,0.0869961977005004,kept,False
+152370,PC(21:3_16:0),PC 16:0_21:3,PC 21:3/16:0*,pc(21:3_16:0),pc 16:0_21:3,pc 21:3/16:0*,4.0,2.0,2.0,False,False,,0.0868245363235473,kept,True
+177466,PE(0:0/22:6),LPE 0:0/22:6,PE 0:0/22:6*,pe(0:0/22:6),lpe 0:0/22:6,pe 0:0/22:6*,,,,False,False,,0.0867455005645752,kept,True
+119764,N-Acetyltryptophan_Neg_ExRate0,N-Acetyl-tryptophan,N-Acetyltryptophan,n-acetyltryptophan_neg_exrate0,n-acetyl-tryptophan,n-acetyltryptophan,3.0,2.0,1.0,False,True,strong_alias,0.0866226553916931,kept,False
+12047,"3,7,4'-Trihydroxyflavone",Resokaempferol,"7,3',4'-Trihydroxyflavone","3,7,4'-trihydroxyflavone",resokaempferol,"7,3',4'-trihydroxyflavone",,,,False,False,,0.0865380764007568,kept,False
+17900,6-Hydroxy-3-oxo-alpha-ionone-13C0[+Na]+,(6S)-Dehydrovomifoliol,3-Hydroxy-alpha-ionone,6-hydroxy-3-oxo-alpha-ionone-13c0[+na]+,(6s)-dehydrovomifoliol,3-hydroxy-alpha-ionone,,,,False,False,,0.0864847302436828,kept,False
+198331,PG(22:4_18:2),PG 18:2_22:4,PG 22:4/18:2,pg(22:4_18:2),pg 18:2_22:4,pg 22:4/18:2,1.0,2.0,2.0,False,False,,0.0862287878990173,kept,True
+16224,5-(hydroxymethyl)-2-Furancarboxylicacid+5.7976537,Sumiki's acid,5-Hydroxymethyl-2-furancarboxaldehyde,5-(hydroxymethyl)-2-furancarboxylicacid+5.7976537,sumiki's acid,5-hydroxymethyl-2-furancarboxaldehyde,,,,False,False,,0.0861335396766662,kept,False
+75001,FA(19:3),Nonadecatrienoic acid,FA 19:3;O2,fa(19:3),nonadecatrienoic acid,fa 19:3;o2,,,,False,False,,0.0861303806304931,kept,False
+217060,PS 20:4_18:0,PS 18:0_20:4,PS 20:4/18:0,ps 20:4_18:0,ps 18:0_20:4,ps 20:4/18:0,1.0,3.0,3.0,False,False,,0.086124300956726,kept,True
+171680,PE 35:3 (17:1(9Z)/18:2(2E.4E)) [M-H]-,PE 35:3,"PE 17:1(9Z)/18:2(2E,4E)*",pe 35:3 (17:1(9z)/18:2(2e.4e)) [m-h]-,pe 35:3,"pe 17:1(9z)/18:2(2e,4e)*",,,,False,False,,0.0859801173210144,kept,False
+152708,PC(22:5_14:1),PC 14:1_22:5,PC 22:5/14:1,pc(22:5_14:1),pc 14:1_22:5,pc 22:5/14:1,2.0,2.0,2.0,False,False,,0.0859789252281189,kept,True
+100129,Linoleyl-carnitine; LC-tDDA; CE20,CAR 18:2,gamma-Linolenyl carnitine,linoleyl-carnitine; lc-tdda; ce20,car 18:2,gamma-linolenyl carnitine,100.0,44.0,44.0,False,False,,0.0857203006744384,kept,False
+152054,PC(20:4_14:0),PC 14:0_20:4,PC 20:4/14:0,pc(20:4_14:0),pc 14:0_20:4,pc 20:4/14:0,6.0,5.0,5.0,False,False,,0.0855575799942016,kept,True
+120585,NAE 15:0_4,Pentadecanoyl-EA,NAE 15:4,nae 15:0_4,pentadecanoyl-ea,nae 15:4,57.0,250.0,250.0,False,False,,0.08536297082901,kept,False
+74765,FA(17:2),Heptadecadienoic acid,FA 17:2;O2*,fa(17:2),heptadecadienoic acid,fa 17:2;o2*,,,,False,False,,0.0853416323661804,kept,False
+123152,N-palmitoyl serine2,NA-Ser 16:0,N-Palmitoyl serine,n-palmitoyl serine2,na-ser 16:0,n-palmitoyl serine,22.0,52.0,52.0,False,False,,0.0852439999580383,kept,False
+235155,SM d47:4,SM 47:4;O2,SM D47:5,sm d47:4,sm 47:4;o2,sm d47:5,177.0,4.0,4.0,False,False,,0.0851471424102783,kept,False
+241313,Succinyl coenzyme A (Succinyl-CoA),Sulfosalicylic acid,Succinyl-CoA,succinyl coenzyme a (succinyl-coa),sulfosalicylic acid,succinyl-coa,,,,False,False,,0.0850621461868286,kept,False
+119775,N-Acetyltryptophan_Neg_ExRate7,N-Acetyl-tryptophan,N-Acetyltryptophan,n-acetyltryptophan_neg_exrate7,n-acetyl-tryptophan,n-acetyltryptophan,3.0,2.0,1.0,False,True,strong_alias,0.0849068164825439,kept,False
+186667,PE(42:6) +O3,PE 42:6,PE 42:6;O3,pe(42:6) +o3,pe 42:6,pe 42:6;o3,33.0,2.0,2.0,False,False,,0.0847740173339843,kept,True
+182216,PE(22:5_18:2),PE 18:2_22:5,PE 22:5/18:2,pe(22:5_18:2),pe 18:2_22:5,pe 22:5/18:2,1.0,2.0,2.0,False,False,,0.0847514271736145,kept,True
+68614,Diethyl 2-methyl-3-oxosuccinate-13C0[+H]+,4-Heptenal diethyl acetal,"Diethyl (2S,3R)-2-methyl-3-hydroxysuccinate",diethyl 2-methyl-3-oxosuccinate-13c0[+h]+,4-heptenal diethyl acetal,"diethyl (2s,3r)-2-methyl-3-hydroxysuccinate",,,,False,False,,0.0844465494155883,kept,False
+100076,linoleoyl carnitine c18:2 isomer,CAR 18:2,gamma-Linolenyl carnitine,linoleoyl carnitine c18:2 isomer,car 18:2,gamma-linolenyl carnitine,2.0,2.0,2.0,False,False,,0.0844197273254394,kept,False
+100074,linolenylcarnitine,CAR 18:3,gamma-Linolenyl carnitine,linolenylcarnitine,car 18:3,gamma-linolenyl carnitine,,,,False,False,,0.0843965411186218,kept,False
+118260,N5-acetyl-N5-hydroxy-L-ornithine,"2,6-Diaminopimelic acid",N(5)-Acetyl-ornithine,n5-acetyl-n5-hydroxy-l-ornithine,"2,6-diaminopimelic acid",n(5)-acetyl-ornithine,,,171.0,False,False,,0.0843058228492736,kept,False
+292373,ubiquinone 25,Coenzyme Q5,Ubiquinone-1,ubiquinone 25,coenzyme q5,ubiquinone-1,18.0,52.0,1.0,False,True,same_pubchem_cid,0.0842877030372619,kept,False
+119773,N-Acetyltryptophan_Neg_ExRate5,N-Acetyl-tryptophan,N-Acetyltryptophan,n-acetyltryptophan_neg_exrate5,n-acetyl-tryptophan,n-acetyltryptophan,3.0,2.0,1.0,False,True,strong_alias,0.0841904878616333,kept,False
+207155,PI(18:1_14:1),PI 14:1_18:1,PI 18:1/14:1,pi(18:1_14:1),pi 14:1_18:1,pi 18:1/14:1,12.0,2.0,2.0,False,False,,0.0841777920722961,kept,True
+12646,3beta -Ursodeoxycholic acid,Isoursodeoxycholic acid,Ursodeoxycholic acid,3beta -ursodeoxycholic acid,isoursodeoxycholic acid,ursodeoxycholic acid,5.0,3.0,3.0,False,False,,0.0841677784919738,kept,False
+457,"cis-11,14-Eicosadienoic acid-2","11Z,14Z-Eicosadienoic acid","11,14-Eicosadienoic acid","cis-11,14-eicosadienoic acid-2","11z,14z-eicosadienoic acid","11,14-eicosadienoic acid",2.0,5.0,1.0,False,True,strong_alias,0.0839772224426269,kept,False
+152238,PC(20:5_18:2),PC 18:2_20:5,PC 20:5/18:2,pc(20:5_18:2),pc 18:2_20:5,pc 20:5/18:2,12.0,5.0,5.0,False,False,,0.0839332342147827,kept,True
+253816,Tetradecanoylcarnitine_96,CAR 14:0,trans-2-Tetradecenoylcarnitine,tetradecanoylcarnitine_96,car 14:0,trans-2-tetradecenoylcarnitine,72.0,84.0,84.0,False,False,,0.0838938355445861,kept,False
+13477,3-hydroxypalmitoleoylcarnitine_RT1,CAR 16:1;OH,3-Hydroxypalmitoyl-CoA,3-hydroxypalmitoleoylcarnitine_rt1,car 16:1;oh,3-hydroxypalmitoyl-coa,,,,False,False,,0.0838779807090759,kept,False
+74517,FA(12:2),Dodecadienoic acid,FA 12:2;O2*,fa(12:2),dodecadienoic acid,fa 12:2;o2*,,,,False,False,,0.0838311314582824,kept,False
+23751,alpha-glutamylleucine*,Glu-Leu,gamma-Glutamylleucine,alpha-glutamylleucine*,glu-leu,gamma-glutamylleucine,9.0,37.0,37.0,False,False,,0.0836645364761352,kept,False
+74499,FA(12:1) 13C0 [+H],Dodecenoic acid,FA 12:1;O*,fa(12:1) 13c0 [+h],dodecenoic acid,fa 12:1;o*,,,,False,False,,0.083482027053833,kept,False
+76888,flavin mononucleotide,FMN,Nicotinic acid mononucleotide,flavin mononucleotide,fmn,nicotinic acid mononucleotide,1.0,3.0,3.0,False,False,,0.0834598541259765,kept,False
+149414,PC(18:0_10:0),PC 10:0_18:0,PC 18:0/10:0*,pc(18:0_10:0),pc 10:0_18:0,pc 18:0/10:0*,6.0,3.0,2.0,False,False,,0.0834372043609619,kept,True
+75568,FAD (Flavin adenine dinucleotide),FAD,Nicotinic acid adenine dinucleotide,fad (flavin adenine dinucleotide),fad,nicotinic acid adenine dinucleotide,2.0,3.0,3.0,False,False,,0.0833427906036377,kept,False
+119768,N-Acetyltryptophan_Neg_ExRate12,N-Acetyl-tryptophan,N-Acetyltryptophan,n-acetyltryptophan_neg_exrate12,n-acetyl-tryptophan,n-acetyltryptophan,3.0,2.0,1.0,False,True,strong_alias,0.0831684470176696,kept,False
+8920,2-ACETAMIDO-3-(4-HYDROXY-3-METHOXYPHENYL)PROPANOIC ACID,N-Acetylvanilalanine,2-Hydroxy-2-(4-Hydroxy-3-Methoxyphenyl)Acetic acid,2-acetamido-3-(4-hydroxy-3-methoxyphenyl)propanoic acid,n-acetylvanilalanine,2-hydroxy-2-(4-hydroxy-3-methoxyphenyl)acetic acid,87.0,164.0,164.0,False,False,,0.0830720067024231,kept,False
+101643,LPC 0:0_22:6,LPC 22:6,LPC 0:0/22:6,lpc 0:0_22:6,lpc 22:6,lpc 0:0/22:6,3.0,4.0,2.0,False,False,,0.0830316543579101,kept,True
+122866,N-Oleyl-Leucine,NA-Leu 18:1(9Z),N-Oleoyl leucine,n-oleyl-leucine,na-leu 18:1(9z),n-oleoyl leucine,191.0,204.0,204.0,False,False,,0.0830108523368835,kept,False
+99461,LF,Leu-Phe,LTF4,lf,leu-phe,ltf4,,,,False,False,,0.0830076932907104,kept,False
+28041,BETA-ALANINE|SARCOSINE,Sarcosine,Alanine/Sarcosine,beta-alanine|sarcosine,sarcosine,alanine/sarcosine,2.0,3.0,3.0,False,False,,0.0829985737800598,kept,False
+280876,TG(36:5_22:6)+H,TG 22:6_36:5*,TG 36:5_22:6*,tg(36:5_22:6)+h,tg 22:6_36:5*,tg 36:5_22:6*,2.0,3.0,3.0,False,False,,0.0825055241584777,kept,False
+1233,(1-Ribosylimidazole)-4-acetate-13C0[+Na]+,Imidazoleacetic acid riboside,1-(5-Phosphoribosyl)imidazole-4-acetate,(1-ribosylimidazole)-4-acetate-13c0[+na]+,imidazoleacetic acid riboside,1-(5-phosphoribosyl)imidazole-4-acetate,3.0,4.0,4.0,False,False,,0.0824886560440063,kept,False
+295514,Xanthosine-5-phosphate M+1,XMP,Xanthosine 5-triphosphate,xanthosine-5-phosphate m+1,xmp,xanthosine 5-triphosphate,51.0,179.0,179.0,False,False,,0.0824617147445678,kept,False
+221867,PS(25:0_18:1),PS 18:1_25:0,PS 25:0/18:1,ps(25:0_18:1),ps 18:1_25:0,ps 25:0/18:1,3.0,3.0,3.0,False,False,,0.082434594631195,kept,True
+72537,ethyl 9Z-hexadecenoate_RT2,Ethyl palmitoleate,Ethyl 9-hexadecenoate,ethyl 9z-hexadecenoate_rt2,ethyl palmitoleate,ethyl 9-hexadecenoate,3.0,6.0,6.0,False,False,,0.0823721885681152,kept,False
+3503,"1,6-Anhydro-B-Glucose",Glucosan,"3,6-Anhydro-glucose","1,6-anhydro-b-glucose",glucosan,"3,6-anhydro-glucose",70.0,55.0,55.0,False,False,,0.0822490453720092,kept,False
+16646,5-Aminoimidazole-4-carboxamide ribotide_M+0,AICAR,5-Aminoimidazole-4-carboxamide,5-aminoimidazole-4-carboxamide ribotide_m+0,aicar,5-aminoimidazole-4-carboxamide,13.0,42.0,42.0,False,False,,0.0822281241416931,kept,False
+221817,PS(24:0_20:4),PS 20:4_24:0,PS 24:0/20:4,ps(24:0_20:4),ps 20:4_24:0,ps 24:0/20:4,2.0,3.0,3.0,False,False,,0.082217276096344,kept,True
+70519,Docosapentaenoic acid (22n-3)_161,DPA,Docosapentaenoic acid (22n-6),docosapentaenoic acid (22n-3)_161,dpa,docosapentaenoic acid (22n-6),,,,False,False,,0.0821754336357116,kept,False
+101642,LPC 0:0_20:4,LPC 20:4,LPC 0:0/20:4,lpc 0:0_20:4,lpc 20:4,lpc 0:0/20:4,3.0,4.0,4.0,False,False,,0.0819941759109497,kept,True
+146236,PC(0:0/14:0)_B,LPC 0:0/14:0,PC 0:0/14:0*,pc(0:0/14:0)_b,lpc 0:0/14:0,pc 0:0/14:0*,,,1.0,False,True,same_pubchem_cid,0.0819838643074035,kept,False
+54031,Conjugated linoleic acids (CLA),"10E,12Z-Octadecadienoic acid",Linoleic acid,conjugated linoleic acids (cla),"10e,12z-octadecadienoic acid",linoleic acid,8.0,17.0,17.0,False,False,,0.081888198852539,kept,False
+13874,3-Methyladipic acid-2TMS,3-Methyl-adipic acid,3-Methyladipic acid,3-methyladipic acid-2tms,3-methyl-adipic acid,3-methyladipic acid,57.0,2.0,1.0,False,True,same_pubchem_cid,0.0817269682884216,kept,False
+201832,Phenylacetylglycine dimethylamide +1.0666667,Ralgin,Phenylacetylglycine,phenylacetylglycine dimethylamide +1.0666667,ralgin,phenylacetylglycine,,,,False,False,,0.081544816493988,kept,False
+92284,HIPPURATE (M-H)-,Hippuric acid,Methyl hippurate,hippurate (m-h)-,hippuric acid,methyl hippurate,2.0,2.0,2.0,False,False,,0.0813259482383728,kept,False
+29859,C14 Ceramide,Cer 18:1;O2/14:0,C14 Sphingosine,c14 ceramide,cer 18:1;o2/14:0,c14 sphingosine,,,76.0,False,False,,0.0808731317520141,kept,False
+82020,glutathione disulfide_1,Oxidized glutathione,Cysteine-glutathione disulfide,glutathione disulfide_1,oxidized glutathione,cysteine-glutathione disulfide,2.0,3.0,3.0,False,False,,0.0808519124984741,kept,False
+16652,5-Aminoimidazole-4-carboxamide ribotide_M+6,AICAR,5-Aminoimidazole-4-carboxamide,5-aminoimidazole-4-carboxamide ribotide_m+6,aicar,5-aminoimidazole-4-carboxamide,13.0,41.0,41.0,False,False,,0.0808253288269043,kept,False
+121241,N-carbamoylaspartate,N-Carbamoylaspartic acid,Carbamoylaspartate,n-carbamoylaspartate,n-carbamoylaspartic acid,carbamoylaspartate,2.0,2.0,1.0,False,True,same_pubchem_cid,0.0807790160179138,kept,False
+17080,5-hydroxymethyl-2-furoic acid,Sumiki's acid,5-Hydroxy-2-furoic acid,5-hydroxymethyl-2-furoic acid,sumiki's acid,5-hydroxy-2-furoic acid,,,,False,False,,0.080747365951538,kept,False
+181740,PE(20:4-18:0),PE 18:0_20:4,PE 20:4/18:0,pe(20:4-18:0),pe 18:0_20:4,pe 20:4/18:0,10.0,4.0,4.0,False,False,,0.0804683566093444,kept,True
+181738,PE(20:4-16:0),PE 16:0_20:4,PE 20:4/16:0,pe(20:4-16:0),pe 16:0_20:4,pe 20:4/16:0,4.0,4.0,4.0,False,False,,0.0804164409637451,kept,True
+292369,Ubiquinone (Q2),Coenzyme Q2,Ubiquinone-1,ubiquinone (q2),coenzyme q2,ubiquinone-1,9.0,7.0,7.0,False,False,,0.0804051160812377,kept,False
+95690,Isofagomine (+),Afegostat,Fagomine,isofagomine (+),afegostat,fagomine,,,,False,False,,0.0803558826446533,kept,False
+293656,uridine 5'-diphospho-N-acetylglucosamine sodium salt,UDP-N-acetylglucosamine,Uridine 5'-Diphospho-N-acetylgalactosamine,uridine 5'-diphospho-n-acetylglucosamine sodium salt,udp-n-acetylglucosamine,uridine 5'-diphospho-n-acetylgalactosamine,1.0,2.0,2.0,False,False,,0.0803002715110778,kept,False
+76908,Flavin??adenine??dinucleotide,FAD,Nicotinic acid adenine dinucleotide,flavin??adenine??dinucleotide,fad,nicotinic acid adenine dinucleotide,4.0,9.0,9.0,False,False,,0.0802561044692993,kept,False
+253820,Tetradeca-trienoylcarnitine (C14:3),CAR 14:3,trans-2-Tetradecenoylcarnitine,tetradeca-trienoylcarnitine (c14:3),car 14:3,trans-2-tetradecenoylcarnitine,15.0,3.0,3.0,False,False,,0.0801523327827453,kept,False
+120828,NAE 24:1_2,Nervonoyl-EA,NAE 24:2,nae 24:1_2,nervonoyl-ea,nae 24:2,,,,False,False,,0.0798895359039306,kept,False
+76338,Fatty Acid C18:3 ?-Linoleic acid,alpha-Linolenic acid,Linoleic acid,fatty acid c18:3 ?-linoleic acid,alpha-linolenic acid,linoleic acid,23.0,5.0,5.0,False,False,,0.0798007249832153,kept,False
+120629,NAE 17:0_2,Margaroyl-EA,NAE 17:2,nae 17:0_2,margaroyl-ea,nae 17:2,,,,False,False,,0.0797966122627258,kept,False
+108373,L-Valine/Methyl 4-Aminobutyrate,Valine,Methyl 4-aminobutanoate,l-valine/methyl 4-aminobutyrate,valine,methyl 4-aminobutanoate,7.0,7.0,7.0,False,False,,0.0796987414360046,kept,False
+119364,N-Acetyl-L-leucine_Neg_ExRate6,N-Acetylleucine,N-Acetyl-leucyl-leucine,n-acetyl-l-leucine_neg_exrate6,n-acetylleucine,n-acetyl-leucyl-leucine,2.0,2.0,2.0,False,False,,0.0796579122543335,kept,False
+240835,Stearoylglycerophosphoserine,LPS 18:0,N-palmitoyl-O-phosphocholineserine,stearoylglycerophosphoserine,lps 18:0,n-palmitoyl-o-phosphocholineserine,,,,False,False,,0.079616904258728,kept,False
+152055,PC(20:4_14:1),PC 14:1_20:4,PC 20:4/14:1*,pc(20:4_14:1),pc 14:1_20:4,pc 20:4/14:1*,7.0,3.0,3.0,False,False,,0.0796076655387878,kept,True
+4363,11-Hydroxyoctadecanoic acid,11-Hydroxystearic acid,Hydroxyoctadecanoic acid,11-hydroxyoctadecanoic acid,11-hydroxystearic acid,hydroxyoctadecanoic acid,3.0,2.0,2.0,False,False,,0.0795621275901794,kept,False
+69430,dioctylphtalate-1,Bis(2-ethylhexyl)phthalate,Dioctyl phthalate,dioctylphtalate-1,bis(2-ethylhexyl)phthalate,dioctyl phthalate,172.0,45.0,45.0,False,False,,0.0795554518699646,kept,False
+122462,N-Linoleoyl Leucine,"NA-Leu 18:2(9Z,12Z)",N-Oleoyl leucine,n-linoleoyl leucine,"na-leu 18:2(9z,12z)",n-oleoyl leucine,7.0,71.0,71.0,False,False,,0.0795159935951232,kept,False
+15822,4-METHYL-2-OXOVALERIC_ACID,Ketoleucine,3-Methyl-2-oxovaleric acid,4-methyl-2-oxovaleric_acid,ketoleucine,3-methyl-2-oxovaleric acid,,,,False,False,,0.0794371366500854,kept,False
+152230,PC(20:5_16:1),PC 16:1_20:5,PC 20:5/16:1*,pc(20:5_16:1),pc 16:1_20:5,pc 20:5/16:1*,4.0,3.0,3.0,False,False,,0.0792608857154846,kept,True
+256875,TG 20:2_34:2,TG 54:4_20:2,TG 20:2_34:0*,tg 20:2_34:2,tg 54:4_20:2,tg 20:2_34:0*,61.0,59.0,22.0,False,False,,0.0791756510734558,kept,False
+73334,FA 17:2_2,Heptadecadienoic acid,FA 17:2;O2*,fa 17:2_2,heptadecadienoic acid,fa 17:2;o2*,,,,False,False,,0.0791359543800354,kept,False
+124505,O-methoxycatechol-O-sulphate,Guaiacol sulfate,3-Methoxycatechol sulfate,o-methoxycatechol-o-sulphate,guaiacol sulfate,3-methoxycatechol sulfate,2.0,36.0,36.0,False,False,,0.0790461301803588,kept,False
+73034,FA 13:1[M-H]-,Tridecenoic acid,FA 13:1;O*,fa 13:1[m-h]-,tridecenoic acid,fa 13:1;o*,,,,False,False,,0.078859269618988,kept,False
+127978,PA(16:1_14:0),PA 14:0_16:1,PA 16:1/14:0*,pa(16:1_14:0),pa 14:0_16:1,pa 16:1/14:0*,2.0,3.0,3.0,False,False,,0.0787967443466186,kept,True
+82017,Glutathione disulfide M+4,Oxidized glutathione,Cysteine-glutathione disulfide,glutathione disulfide m+4,oxidized glutathione,cysteine-glutathione disulfide,2.0,4.0,4.0,False,False,,0.0786537528038024,kept,False
+239149,Sophoraflavanone B,8-Prenylnaringenin,Sophoraflavanone G,sophoraflavanone b,8-prenylnaringenin,sophoraflavanone g,,,,False,False,,0.0785898566246032,kept,False
+177762,PE(14:0_3:0),PE 3:0_14:0,PE 14:0/3:0*,pe(14:0_3:0),pe 3:0_14:0,pe 14:0/3:0*,1.0,2.0,2.0,False,False,,0.0783331394195556,kept,True
+152817,PC(22:6_18:2),PC 18:2_22:6,PC 22:6/18:2,pc(22:6_18:2),pc 18:2_22:6,pc 22:6/18:2,5.0,6.0,2.0,False,False,,0.0783086419105529,kept,True
+151441,PC(20:0_10:0)+H,PC 10:0_20:0,PC 20:0/10:0*,pc(20:0_10:0)+h,pc 10:0_20:0,pc 20:0/10:0*,12.0,7.0,3.0,False,False,,0.0781348347663879,kept,False
+197731,PG(18:2_18:2)_4,PG 18:2/18:2,PG 18:2_18:4,pg(18:2_18:2)_4,pg 18:2/18:2,pg 18:2_18:4,104.0,2.0,2.0,False,False,,0.078088104724884,kept,False
+215136,Pro-Hyp (4),Pro-hydroxyPro,Gly-Pro-Hyp,pro-hyp (4),pro-hydroxypro,gly-pro-hyp,9.0,5.0,5.0,False,False,,0.0780760049819946,kept,False
+79129,Geranyl formate_2,"3,7-Dimethyl-2E,6-octadienyl formate",Neryl formate,geranyl formate_2,"3,7-dimethyl-2e,6-octadienyl formate",neryl formate,2.0,6.0,6.0,False,False,,0.0780499577522277,kept,False
+181841,PE(20:5_18:3),PE 18:3_20:5,PE 20:5/18:3*,pe(20:5_18:3),pe 18:3_20:5,pe 20:5/18:3*,4.0,5.0,5.0,False,False,,0.0780054926872253,kept,True
+82047,Glutathione Disulfide_C13-label-19,Oxidized glutathione,Cysteine-glutathione disulfide,glutathione disulfide_c13-label-19,oxidized glutathione,cysteine-glutathione disulfide,20.0,7.0,7.0,False,False,,0.0778758525848388,kept,False
+50595,CL 84:17 (FA 16:0),CL 84:17,CL 84:17*,cl 84:17 (fa 16:0),cl 84:17,cl 84:17*,,,1.0,False,True,strong_alias,0.0778470635414123,kept,False
+55933,D.MANNOSAMINE,2-Amino-2-deoxy-D-mannose,Glycolyl-D-mannosamine,d.mannosamine,2-amino-2-deoxy-d-mannose,glycolyl-d-mannosamine,3.0,5.0,5.0,False,False,,0.0778269171714782,kept,False
+121753,N'-Formylkynurenine-13C0[+Na]+,N-Formyl-L-kynurenine,N-Formylkynurenine,n'-formylkynurenine-13c0[+na]+,n-formyl-l-kynurenine,n-formylkynurenine,2.0,2.0,2.0,False,False,,0.0775331854820251,kept,False
+69886,DL-Mevalonic acid lactone,Mevalolactone,Mevalonic acid,dl-mevalonic acid lactone,mevalolactone,mevalonic acid,2.0,3.0,3.0,False,False,,0.0771503448486328,kept,False
+236678,SM(42:3)-13C18[+H]+,SM 42:3;O2,SM 42:3;O3,sm(42:3)-13c18[+h]+,sm 42:3;o2,sm 42:3;o3,,,,False,False,,0.0771341919898986,kept,False
+146251,PC(0:0/18:1),LPC 0:0/18:1,PC 0:0/18:1*,pc(0:0/18:1),lpc 0:0/18:1,pc 0:0/18:1*,,,1.0,False,True,same_pubchem_cid,0.0771053433418273,kept,True
+146235,PC(0:0/14:0)_A,LPC 0:0/14:0,PC 0:0/14:0*,pc(0:0/14:0)_a,lpc 0:0/14:0,pc 0:0/14:0*,,,1.0,False,True,same_pubchem_cid,0.0769535899162292,kept,False
+9151,"2-Amino-4,6-dihydroxypyrimidine_RT2",3-Aminobutyric acid,2-Amino-4-hydroxypyrimidine,"2-amino-4,6-dihydroxypyrimidine_rt2",3-aminobutyric acid,2-amino-4-hydroxypyrimidine,,,,False,False,,0.0769360661506652,kept,False
+460,"cis-4,7,10,13,16-Docosapentaenoic acid",Docosapentaenoic acid (22n-6),"4,7,10,13,16-Docosapentaenoic acid","cis-4,7,10,13,16-docosapentaenoic acid",docosapentaenoic acid (22n-6),"4,7,10,13,16-docosapentaenoic acid",21.0,10.0,10.0,False,False,,0.0769277811050415,kept,False
+153851,PC(30:1_16:0)_2,PC 16:0_30:1,PC 30:1/16:0,pc(30:1_16:0)_2,pc 16:0_30:1,pc 30:1/16:0,1.0,2.0,2.0,False,False,,0.0767128467559814,kept,False
+140528,PC 38:6 (18:1(11Z)/20:5(5Z.8Z.11Z.14Z.17Z)) [M+Na]+,PC 38:6,"PC 18:1(11Z)/20:5(5Z,8Z,11Z,14Z,17Z)",pc 38:6 (18:1(11z)/20:5(5z.8z.11z.14z.17z)) [m+na]+,pc 38:6,"pc 18:1(11z)/20:5(5z,8z,11z,14z,17z)",,,,False,False,,0.0765251517295837,kept,False
+182304,PE(22:6_20:1),PE 20:1_22:6,PE 22:6/20:1,pe(22:6_20:1),pe 20:1_22:6,pe 22:6/20:1,1.0,2.0,2.0,False,False,,0.0764902234077453,kept,True
+19495,AC(16:1)-OH,CAR 16:1,CAR 16:1;OH,ac(16:1)-oh,car 16:1,car 16:1;oh,23.0,6.0,6.0,False,False,,0.0764284133911132,kept,False
+1685,(E)-4-(Trimethylammonio)but-2-enoate,Crotonic acid betaine,4-Trimethylammoniobutanal,(e)-4-(trimethylammonio)but-2-enoate,crotonic acid betaine,4-trimethylammoniobutanal,48.0,112.0,112.0,False,False,,0.0763447880744934,kept,False
+82004,Glutathione disulfide C13-label-1,Oxidized glutathione,Cysteine-glutathione disulfide,glutathione disulfide c13-label-1,oxidized glutathione,cysteine-glutathione disulfide,13.0,7.0,7.0,False,False,,0.0762827396392822,kept,False
+119359,N-Acetyl-L-leucine_Neg_ExRate1,N-Acetylleucine,N-Acetyl-leucyl-leucine,n-acetyl-l-leucine_neg_exrate1,n-acetylleucine,n-acetyl-leucyl-leucine,2.0,2.0,2.0,False,False,,0.0760117769241333,kept,False
+82059,glutathione disulfide_neg,Oxidized glutathione,Cysteine-glutathione disulfide,glutathione disulfide_neg,oxidized glutathione,cysteine-glutathione disulfide,2.0,3.0,3.0,False,False,,0.0759617686271667,kept,False
+293750,Uridine diphosphate glucose-13C9,UDP-glucose,Uridine diphosphategalactose,uridine diphosphate glucose-13c9,udp-glucose,uridine diphosphategalactose,3.0,2.0,2.0,False,False,,0.075937807559967,kept,False
+290285,trans-caffeic acid,"3,4-Dihydroxy-trans-cinnamic acid",Caffeic acid,trans-caffeic acid,"3,4-dihydroxy-trans-cinnamic acid",caffeic acid,16.0,13.0,13.0,False,False,,0.0758385062217712,kept,False
+180811,PE(18:4_16:0),PE 16:0_18:4,PE 18:4/16:0*,pe(18:4_16:0),pe 16:0_18:4,pe 18:4/16:0*,1.0,2.0,2.0,False,False,,0.0758371353149414,kept,True
+293748,Uridine diphosphate glucose-13C7,UDP-glucose,Uridine diphosphategalactose,uridine diphosphate glucose-13c7,udp-glucose,uridine diphosphategalactose,3.0,3.0,3.0,False,False,,0.0755881071090698,kept,False
+74512,FA(12:1)-13C3[+H]+,Dodecenoic acid,FA 12:1;O*,fa(12:1)-13c3[+h]+,dodecenoic acid,fa 12:1;o*,,,,False,False,,0.0755316019058227,kept,False
+71484,Eicosanoids_18-HEPE_,18R-HEPE,18-HEPE,eicosanoids_18-hepe_,18r-hepe,18-hepe,3.0,3.0,3.0,False,False,,0.0752733945846557,kept,False
+100549,LLL_Glutamic acid_R4,Glutamic acid,Glutamic acid/Glutamine,lll_glutamic acid_r4,glutamic acid,glutamic acid/glutamine,,,,False,False,,0.0752164721488952,kept,False
+68612,Diethyl 2-methyl-3-oxosuccinate_3,4-Heptenal diethyl acetal,"Diethyl (2S,3R)-2-methyl-3-hydroxysuccinate",diethyl 2-methyl-3-oxosuccinate_3,4-heptenal diethyl acetal,"diethyl (2s,3r)-2-methyl-3-hydroxysuccinate",,,,False,False,,0.0750344395637512,kept,False
+170345,PE 24:0_18:2,PE 18:2_24:0,PE 24:0/18:2,pe 24:0_18:2,pe 18:2_24:0,pe 24:0/18:2,2.0,4.0,4.0,False,False,,0.0749373435974121,kept,True
+194449,PG 22:4 (FA 18:2),PG 22:4,PG 22:4/18:2,pg 22:4 (fa 18:2),pg 22:4,pg 22:4/18:2,58.0,4.0,4.0,False,False,,0.074815034866333,kept,False
+2022,(S)-Leucic acid,2-Hydroxyisocaproic acid,D-Leucic acid,(s)-leucic acid,2-hydroxyisocaproic acid,d-leucic acid,,,2.0,False,False,,0.0747889876365661,kept,False
+70771,D-ORNITHINE C00515,Ornithine,D-Ornithine,d-ornithine c00515,ornithine,d-ornithine,2.0,2.0,2.0,False,False,,0.0746703147888183,kept,False
+101335,lovastatin hydroxy acid,Mevinolinic acid,Lovastatin,lovastatin hydroxy acid,mevinolinic acid,lovastatin,4.0,3.0,3.0,False,False,,0.0745980739593505,kept,False
+76930,Flavonol,3-Hydroxyflavone,Dihydro-flavonol,flavonol,3-hydroxyflavone,dihydro-flavonol,5.0,6.0,6.0,False,False,,0.0745583772659301,kept,False
+182268,PE(22:6/0:0),LPE 22:6/0:0,PE 22:6/0:0*,pe(22:6/0:0),lpe 22:6/0:0,pe 22:6/0:0*,,,,False,False,,0.0745494365692138,kept,True
+82015,Glutathione disulfide M+2,Oxidized glutathione,Cysteine-glutathione disulfide,glutathione disulfide m+2,oxidized glutathione,cysteine-glutathione disulfide,2.0,3.0,3.0,False,False,,0.0745201110839843,kept,False
+293931,Uridine-5-diphosphoacetylgalactosamine_[M-H]-_LFTYTUAZOPRMMI-NESSUJCYSA-N,UDP-N-acetylgalactosamine,Uridine 5'-Diphospho-N-acetylgalactosamine,uridine-5-diphosphoacetylgalactosamine_[m-h]-_lftytuazoprmmi-nessujcysa-n,udp-n-acetylgalactosamine,uridine 5'-diphospho-n-acetylgalactosamine,2.0,2.0,1.0,False,True,same_pubchem_cid,0.0744737386703491,kept,False
+21838,adenosine-monophosphate_M+2,AMP,Adenosine 2'-phosphate,adenosine-monophosphate_m+2,amp,adenosine 2'-phosphate,5.0,40.0,40.0,False,False,,0.0744276642799377,kept,False
+3325,"1,2-Distearoyl-sn-glycero-3-phospho-L-serine",PS 18:0/18:0,sn-Glycero-3-phosphoserine,"1,2-distearoyl-sn-glycero-3-phospho-l-serine",ps 18:0/18:0,sn-glycero-3-phosphoserine,,,,False,False,,0.0743995308876037,kept,False
+207696,PI(20:3_16:0)+NH4,PI 16:0_20:3,PI 20:3/16:0,pi(20:3_16:0)+nh4,pi 16:0_20:3,pi 20:3/16:0,16.0,3.0,2.0,False,False,,0.0743259191513061,kept,False
+207748,PI(20:4_18:1),PI 18:1_20:4,PI 20:4/18:1,pi(20:4_18:1),pi 18:1_20:4,pi 20:4/18:1,14.0,4.0,2.0,False,False,,0.0742605328559875,kept,True
+119352,N-Acetyl-L-leucine_1,N-Acetylleucine,N-Acetyl-leucyl-leucine,n-acetyl-l-leucine_1,n-acetylleucine,n-acetyl-leucyl-leucine,3.0,2.0,2.0,False,False,,0.0742163658142089,kept,False
+82052,Glutathione Disulfide_C13-label-6,Oxidized glutathione,Cysteine-glutathione disulfide,glutathione disulfide_c13-label-6,oxidized glutathione,cysteine-glutathione disulfide,11.0,6.0,6.0,False,False,,0.0741177201271057,kept,False
+146242,PC(0:0/16:0)_B,LPC 0:0/16:0,PC 0:0/16:0*,pc(0:0/16:0)_b,lpc 0:0/16:0,pc 0:0/16:0*,,,1.0,False,True,same_pubchem_cid,0.0741175413131713,kept,False
+7221,1-phenylethylamine,1-Phenylethanamine,Phenylethylamine,1-phenylethylamine,1-phenylethanamine,phenylethylamine,2.0,2.0,2.0,False,False,,0.074023425579071,kept,False
+112620,maleate,Maleic acid,Dimethyl maleate,maleate,maleic acid,dimethyl maleate,3.0,4.0,4.0,False,False,,0.073928952217102,kept,False
+73111,FA 15:2[M-H]-,Pentadecadienoic acid,FA 15:2;O*,fa 15:2[m-h]-,pentadecadienoic acid,fa 15:2;o*,,,,False,False,,0.0738939046859741,kept,False
+71511,eicosapentaenoyl ethanolamide,Eicosapentenoyl-EA,Docosatetraenoyl Ethanolamide,eicosapentaenoyl ethanolamide,eicosapentenoyl-ea,docosatetraenoyl ethanolamide,6.0,3.0,3.0,False,False,,0.0738887786865234,kept,False
+82014,Glutathione disulfide M+1,Oxidized glutathione,Cysteine-glutathione disulfide,glutathione disulfide m+1,oxidized glutathione,cysteine-glutathione disulfide,2.0,3.0,3.0,False,False,,0.0738469362258911,kept,False
+93245,Hydrogen carbonate,Carbonic acid,Propylene carbonate,hydrogen carbonate,carbonic acid,propylene carbonate,1.0,2.0,2.0,False,False,,0.0737566351890564,kept,False
+10579,2-Ketogluconic acid,2-Dehydro-D-gluconic acid,5-Ketogluconic acid,2-ketogluconic acid,2-dehydro-d-gluconic acid,5-ketogluconic acid,3.0,6.0,6.0,False,False,,0.0737547278404235,kept,False
+74156,FA 28:0; (montanic acid),Montanic acid,FA 28:0;O*,fa 28:0; (montanic acid),montanic acid,fa 28:0;o*,,,,False,False,,0.0737058520317077,kept,False
+202763,phosphocholine M0,Choline phosphate,sn-Glycero-3-phosphocholine,phosphocholine m0,choline phosphate,sn-glycero-3-phosphocholine,3.0,4.0,4.0,False,False,,0.0736891031265258,kept,False
+82049,Glutathione Disulfide_C13-label-3,Oxidized glutathione,Cysteine-glutathione disulfide,glutathione disulfide_c13-label-3,oxidized glutathione,cysteine-glutathione disulfide,10.0,7.0,7.0,False,False,,0.0736785531044006,kept,False
+26004,Ascorbic acid_3,Vitamin C,Ascorbic acid 3-sulfate,ascorbic acid_3,vitamin c,ascorbic acid 3-sulfate,1.0,176.0,176.0,False,False,,0.0735582709312439,kept,False
+53717,CoA(16:0),Palmitoyl-CoA,CoA 16:4*,coa(16:0),palmitoyl-coa,coa 16:4*,12.0,38.0,38.0,False,False,,0.0735529661178588,kept,False
+8825,24-dihydro Lanosterol,"24,25-Dihydrolanosterol",Dihydro-lanosterol,24-dihydro lanosterol,"24,25-dihydrolanosterol",dihydro-lanosterol,1.0,2.0,2.0,False,False,,0.0734064579010009,kept,False
+88830,"Hexanedioic acid, dioctyl ester",Dioctyl hexanedioate,2Z-Butenedioic acid  dioctyl ester,"hexanedioic acid, dioctyl ester",dioctyl hexanedioate,2z-butenedioic acid dioctyl ester,1.0,2.0,2.0,False,False,,0.0733670592308044,kept,False
+293738,Uridine diphosphate glucose-13C11,UDP-glucose,Uridine diphosphategalactose,uridine diphosphate glucose-13c11,udp-glucose,uridine diphosphategalactose,2.0,3.0,3.0,False,False,,0.0733253955841064,kept,False
+76873,flavin adenine dinucleotide (FAD)_13C3,FAD,Nicotinic acid adenine dinucleotide,flavin adenine dinucleotide (fad)_13c3,fad,nicotinic acid adenine dinucleotide,3.0,5.0,5.0,False,False,,0.0733006596565246,kept,False
+17873,6-DEOXY-L-GALACTOSE_2,D-Fucose,2-Deoxy-galactose,6-deoxy-l-galactose_2,d-fucose,2-deoxy-galactose,19.0,190.0,190.0,False,False,,0.0729713439941406,kept,False
+93569,Hydroxyphenylpyruvate-13C1[+QDA adduct]+,Hydroxyphenylpyruvic acid,3-Dimethylallyl-4-hydroxyphenylpyruvate,hydroxyphenylpyruvate-13c1[+qda adduct]+,hydroxyphenylpyruvic acid,3-dimethylallyl-4-hydroxyphenylpyruvate,,,,False,False,,0.0728989243507385,kept,False
+85147,GUANOSINE 3-5-CYCLIC MONOPHOSPHATE,"3',5' cyclic GMP",Guanosine 3'-monophosphate,guanosine 3-5-cyclic monophosphate,"3',5' cyclic gmp",guanosine 3'-monophosphate,1.0,2.0,2.0,False,False,,0.0728189349174499,kept,False
+82019,glutathione disulfide,Oxidized glutathione,Cysteine-glutathione disulfide,glutathione disulfide,oxidized glutathione,cysteine-glutathione disulfide,2.0,3.0,3.0,False,False,,0.0726074576377868,kept,False
+19043,9E-tetradecenoic acid,Myristelaidic acid,Tetradecenoic acid,9e-tetradecenoic acid,myristelaidic acid,tetradecenoic acid,117.0,170.0,170.0,False,False,,0.0725264549255371,kept,False
+133713,PC 20:3_18:0,PC 18:0_20:3,PC 20:3/18:0,pc 20:3_18:0,pc 18:0_20:3,pc 20:3/18:0,4.0,6.0,6.0,False,False,,0.0724484920501709,kept,True
+118527,N-acetyl-9-O-acetylneuraminic acid,"N,9-O-Diacetylneuraminic acid",N-Acetyl-9-O-lactoylneuraminic acid,n-acetyl-9-o-acetylneuraminic acid,"n,9-o-diacetylneuraminic acid",n-acetyl-9-o-lactoylneuraminic acid,7.0,3.0,3.0,False,False,,0.0723289847373962,kept,False
+7215,1-phenyl-3-methyl-5-pyrazolone,Edaravone,3-Methyl-1-phenyl-1H-pyrazol-5-amine,1-phenyl-3-methyl-5-pyrazolone,edaravone,3-methyl-1-phenyl-1h-pyrazol-5-amine,,,,False,False,,0.0722720623016357,kept,False
+180686,PE(18:3/0:0),LPE 18:3/0:0,PE 18:3/0:0*,pe(18:3/0:0),lpe 18:3/0:0,pe 18:3/0:0*,,,,False,False,,0.0722653865814209,kept,True
+153429,PC(28:1_18:1)+HCOO,PC 18:1_28:1,PC 28:1/18:1,pc(28:1_18:1)+hcoo,pc 18:1_28:1,pc 28:1/18:1,28.0,2.0,2.0,False,False,,0.0722430944442749,kept,False
+293767,Uridine diphosphategalactose(UDP-galactose),UDP-galactose,Uridine diphosphategalactose,uridine diphosphategalactose(udp-galactose),udp-galactose,uridine diphosphategalactose,1.0,2.0,1.0,False,True,same_pubchem_cid,0.072100818157196,kept,False
+76413,Fendiline hydrochloride,Fendiline,Dimefline hydrochloride,fendiline hydrochloride,fendiline,dimefline hydrochloride,2.0,2.0,2.0,False,False,,0.0720852613449096,kept,False
+207931,PI(22:5_18:0),PI 18:0_22:5,PI 22:5/18:0,pi(22:5_18:0),pi 18:0_22:5,pi 22:5/18:0,4.0,3.0,2.0,False,False,,0.0720772743225097,kept,True
+6941,1-oleoylglycerophosphocholine,LPC 18:1/0:0,sn-Glycero-3-phosphocholine,1-oleoylglycerophosphocholine,lpc 18:1/0:0,sn-glycero-3-phosphocholine,,,9.0,False,False,,0.0720651149749755,kept,False
+73678,FA 19:5[M-H]-,Nonadecapentaenoic acid,FA 19:5;O2*,fa 19:5[m-h]-,nonadecapentaenoic acid,fa 19:5;o2*,,,,False,False,,0.0719901323318481,kept,False
+152644,PC(22:4_16:0),PC 16:0_22:4,PC 22:4/16:0,pc(22:4_16:0),pc 16:0_22:4,pc 22:4/16:0,2.0,5.0,2.0,False,False,,0.0718923807144165,kept,True
+293672,uridine 5'diphospho-N-acetylglucosamine_13C3,UDP-N-acetylglucosamine,Uridine 5'-Diphospho-N-acetylgalactosamine,uridine 5'diphospho-n-acetylglucosamine_13c3,udp-n-acetylglucosamine,uridine 5'-diphospho-n-acetylgalactosamine,1.0,2.0,2.0,False,False,,0.071804940700531,kept,False
+295520,xanthosine-5-phosphate,XMP,Xanthosine 5-triphosphate,xanthosine-5-phosphate,xmp,xanthosine 5-triphosphate,64.0,190.0,190.0,False,False,,0.0717763304710388,kept,False
+155044,PC(34:0)-13C11+15N0[M+Na],PC 34:0,PC 34:0/11:1,pc(34:0)-13c11+15n0[m+na],pc 34:0,pc 34:0/11:1,,,,False,False,,0.0716327428817749,kept,False
+198372,PG(22:5_18:2)-H,PG 18:2_22:5,PG 22:5/18:2,pg(22:5_18:2)-h,pg 18:2_22:5,pg 22:5/18:2,1.0,2.0,2.0,False,False,,0.0715990662574768,kept,False
+137891,PC 36:0+AcO (FA 16:0),PC 36:0,PC 36:0/16:0,pc 36:0+aco (fa 16:0),pc 36:0,pc 36:0/16:0,29.0,2.0,2.0,False,False,,0.0714532732963562,kept,False
+190266,PE.18.0.16.0.,PE 16:0_18:0,PE 18:0/16:0,pe.18.0.16.0.,pe 16:0_18:0,pe 18:0/16:0,,,2.0,False,False,,0.0714330673217773,kept,True
+293742,Uridine diphosphate glucose-13C15,UDP-glucose,Uridine diphosphategalactose,uridine diphosphate glucose-13c15,udp-glucose,uridine diphosphategalactose,2.0,2.0,2.0,False,False,,0.0713391304016113,kept,False
+140347,PC 38:5 (18:1(11E)/20:4(5E.8E.11E.14E)) [M+Na]+,PC 38:5,"PC 18:1(11E)/20:4(5E,8E,11E,14E)*",pc 38:5 (18:1(11e)/20:4(5e.8e.11e.14e)) [m+na]+,pc 38:5,"pc 18:1(11e)/20:4(5e,8e,11e,14e)*",31.0,14.0,14.0,False,False,,0.0709607601165771,kept,False
+221645,PS(22:3_18:0)+H,PS 18:0_22:3,PS 22:3/18:0,ps(22:3_18:0)+h,ps 18:0_22:3,ps 22:3/18:0,18.0,4.0,3.0,False,False,,0.070933997631073,kept,False
+75411,FA(4:0),Butyric acid,FA 4:0;O*,fa(4:0),butyric acid,fa 4:0;o*,,,,False,False,,0.0709189176559448,kept,False
+53719,CoA(16:2),Hexadecatrienoyl-CoA,CoA 16:4*,coa(16:2),hexadecatrienoyl-coa,coa 16:4*,13.0,46.0,46.0,False,False,,0.0707371830940246,kept,False
+74505,FA(12:1)-13C0[+K]+,Dodecenoic acid,FA 12:1;O*,fa(12:1)-13c0[+k]+,dodecenoic acid,fa 12:1;o*,,,,False,False,,0.0707099437713623,kept,False
+176582,PE O-40:6; or PE O-40:7;,PE P-40:5 or PE O-40:6,PE P-40:6 or PE O-40:7,pe o-40:6; or pe o-40:7;,pe p-40:5 or pe o-40:6,pe p-40:6 or pe o-40:7,4.0,3.0,3.0,False,False,,0.0706108212471008,kept,False
+11052,2-Oleoylglycerophosphocholine,LPC 18:1,sn-Glycero-3-phosphocholine,2-oleoylglycerophosphocholine,lpc 18:1,sn-glycero-3-phosphocholine,,,209.0,False,False,,0.0705904960632324,kept,False
+124709,Orientin,Luteolin 8-C-glucoside,Isoorientin,orientin,luteolin 8-c-glucoside,isoorientin,43.0,201.0,201.0,False,False,,0.0705744624137878,kept,False
+293665,uridine 5'diphospho-N-acetylglucosamine_13C12,UDP-N-acetylglucosamine,Uridine 5'-Diphospho-N-acetylgalactosamine,uridine 5'diphospho-n-acetylglucosamine_13c12,udp-n-acetylglucosamine,uridine 5'-diphospho-n-acetylgalactosamine,1.0,2.0,2.0,False,False,,0.0705688595771789,kept,False
+81737,Glutaminyltryptophan,Gln-Trp,gamma-Glutamyltryptophan,glutaminyltryptophan,gln-trp,gamma-glutamyltryptophan,4.0,6.0,6.0,False,False,,0.0705558061599731,kept,False
+95481,Isobutyrylcarnitine_R2,CAR 3:0;2Me,Isocaproylcarnitine,isobutyrylcarnitine_r2,car 3:0;2me,isocaproylcarnitine,231.0,195.0,195.0,False,False,,0.0705354213714599,kept,False
+253772,TETRADECADIENOYLCARNITINE (*) (CAS# 000-00-0); M+,CAR 14:2,trans-2-Tetradecenoylcarnitine,tetradecadienoylcarnitine (*) (cas# 000-00-0); m+,car 14:2,trans-2-tetradecenoylcarnitine,164.0,160.0,160.0,False,False,,0.070439338684082,kept,False
+293720,Uridine diphosphate glucose_C13-label-1,UDP-glucose,Uridine diphosphategalactose,uridine diphosphate glucose_c13-label-1,udp-glucose,uridine diphosphategalactose,2.0,2.0,2.0,False,False,,0.0704166889190673,kept,False
+8925,2-Acetamidooctanoic acid,N-Acetyl-2-aminooctanoic acid,2-Acetamidobutanoic acid,2-acetamidooctanoic acid,n-acetyl-2-aminooctanoic acid,2-acetamidobutanoic acid,9.0,2.0,2.0,False,False,,0.0703532099723815,kept,False
+256032,TG 17:0_36:4,TG 53:4_17:0,TG 17:0_36:2*,tg 17:0_36:4,tg 53:4_17:0,tg 17:0_36:2*,91.0,19.0,19.0,False,False,,0.0702061653137207,kept,False
+76878,flavin adenine dinucleotide (FAD)_13C8,FAD,Nicotinic acid adenine dinucleotide,flavin adenine dinucleotide (fad)_13c8,fad,nicotinic acid adenine dinucleotide,3.0,4.0,4.0,False,False,,0.0700111389160156,kept,False
+293675,uridine 5'diphospho-N-acetylglucosamine_13C6,UDP-N-acetylglucosamine,Uridine 5'-Diphospho-N-acetylgalactosamine,uridine 5'diphospho-n-acetylglucosamine_13c6,udp-n-acetylglucosamine,uridine 5'-diphospho-n-acetylgalactosamine,1.0,2.0,2.0,False,False,,0.0699893832206726,kept,False
+46653,CITRIC|ISOCITRIC ACID,Isocitric acid,Citric acid/Isocitric acid,citric|isocitric acid,isocitric acid,citric acid/isocitric acid,2.0,2.0,2.0,False,False,,0.0699634552001953,kept,False
+3327,"1,2-Ethanediol",Ethylene glycol,"1,2-Propanediol","1,2-ethanediol",ethylene glycol,"1,2-propanediol",2.0,11.0,11.0,False,False,,0.0698382854461669,kept,False
+219092,PS 44:6 (22:1(13Z)/22:5(4Z.7Z.10Z.13Z.16Z)) [M-H]-,PS 44:6,"PC 22:1(13Z)/22:5(4Z,7Z,10Z,13Z,16Z)*",ps 44:6 (22:1(13z)/22:5(4z.7z.10z.13z.16z)) [m-h]-,ps 44:6,"pc 22:1(13z)/22:5(4z,7z,10z,13z,16z)*",,,,False,False,,0.069822072982788,kept,False
+293722,Uridine diphosphate glucose_C13-label-11,UDP-glucose,Uridine diphosphategalactose,uridine diphosphate glucose_c13-label-11,udp-glucose,uridine diphosphategalactose,2.0,2.0,2.0,False,False,,0.069707453250885,kept,False
+235772,SM(35:1)-13C6[M+H],SM 35:1;O2,SM 35:1;O3,sm(35:1)-13c6[m+h],sm 35:1;o2,sm 35:1;o3,,,,False,False,,0.0696687698364257,kept,False
+7337,1-Stearoyl-2-oleoyl-sn-glycero-3-phosphoethanolamine,PE 18:0/18:1(9Z),Glycerophospho-N-oleoyl ethanolamine,1-stearoyl-2-oleoyl-sn-glycero-3-phosphoethanolamine,pe 18:0/18:1(9z),glycerophospho-n-oleoyl ethanolamine,,,175.0,False,False,,0.0696386098861694,kept,False
+1812,(R)-3-Hydroxyhexadecanoic acid,3R-Hydroxypalmitic acid,3-Hydroxyhexadecanoic acid,(r)-3-hydroxyhexadecanoic acid,3r-hydroxypalmitic acid,3-hydroxyhexadecanoic acid,25.0,73.0,73.0,False,False,,0.0696182250976562,kept,False
+10801,2-Methylbutyrylcarnitine.2,CAR 4:0;2Me,2-Methylbutyrylglycine,2-methylbutyrylcarnitine.2,car 4:0;2me,2-methylbutyrylglycine,,,,False,False,,0.0693926215171814,kept,False
+107803,LPS(22:6)&gt;LPS(22:6/0:0)_and_LPS(0:0/22:6),LPS 22:6,LPS 22:6/0:0,lps(22:6)&gt;lps(22:6/0:0)_and_lps(0:0/22:6),lps 22:6,lps 22:6/0:0,3.0,2.0,2.0,False,False,,0.0693775415420532,kept,False
+24022,alpha-Methylstyrene +10.137751,Prop-1-En-2-ylbenzene,4-Methylstyrene,alpha-methylstyrene +10.137751,prop-1-en-2-ylbenzene,4-methylstyrene,88.0,77.0,77.0,False,False,,0.0693716406822204,kept,False
+5699,17R-Resolvin D1 (17R-RVD1),17S-HDHA,Resolvin D1,17r-resolvin d1 (17r-rvd1),17s-hdha,resolvin d1,,,,False,False,,0.0692695379257202,kept,False
+68617,Diethyl 2-methyl-3-oxosuccinate-13C1[+QDA adduct]+,4-Heptenal diethyl acetal,"Diethyl (2S,3R)-2-methyl-3-hydroxysuccinate",diethyl 2-methyl-3-oxosuccinate-13c1[+qda adduct]+,4-heptenal diethyl acetal,"diethyl (2s,3r)-2-methyl-3-hydroxysuccinate",,,,False,False,,0.0692641139030456,kept,False
+235434,SM(33:1)-13C14[M+Na],SM 33:1;O2,SM 33:1;O3,sm(33:1)-13c14[m+na],sm 33:1;o2,sm 33:1;o3,,,,False,False,,0.0692636370658874,kept,False
+236674,SM(42:3)-13C15[M+Na],SM 42:3;O2,SM 42:3;O3,sm(42:3)-13c15[m+na],sm 42:3;o2,sm 42:3;o3,,,,False,False,,0.0691248774528503,kept,False
+236685,SM(42:3)-13C26[M+Na],SM 42:3;O2,SM 42:3;O3,sm(42:3)-13c26[m+na],sm 42:3;o2,sm 42:3;o3,,,,False,False,,0.0691146850585937,kept,False
+123334,N-tau-Methylhistidine,3-Methylhistidine,N-Methylhistidine,n-tau-methylhistidine,3-methylhistidine,n-methylhistidine,4.0,4.0,4.0,False,False,,0.0690639615058898,kept,False
+23171,Alanyl-alanine,Ala-Ala,D-Alanyl-D-Alanine,alanyl-alanine,ala-ala,d-alanyl-d-alanine,3.0,5.0,5.0,False,False,,0.0688903331756591,kept,False
+4480,128.PC(O-40:6),PC P-40:5 or PC O-40:6,PC O-40:6,128.pc(o-40:6),pc p-40:5 or pc o-40:6,pc o-40:6,199.0,33.0,33.0,False,False,,0.0688651800155639,kept,False
+121287,N-Carbamoyl-ß-Alanine,Ureidopropionic acid,N-Carbamoylalanine,n-carbamoyl-ß-alanine,ureidopropionic acid,n-carbamoylalanine,42.0,177.0,177.0,False,False,,0.0688369274139404,kept,True
+119761,N-acetyl-tryptophan*,N-Acetyltryptophan,N-Acetyl-tryptophan,n-acetyl-tryptophan*,n-acetyltryptophan,n-acetyl-tryptophan,3.0,3.0,1.0,False,True,strong_alias,0.0688194036483764,kept,True
+76869,flavin adenine dinucleotide (FAD)_13C24,FAD,Nicotinic acid adenine dinucleotide,flavin adenine dinucleotide (fad)_13c24,fad,nicotinic acid adenine dinucleotide,3.0,3.0,3.0,False,False,,0.0687674880027771,kept,False
+76877,flavin adenine dinucleotide (FAD)_13C7,FAD,Nicotinic acid adenine dinucleotide,flavin adenine dinucleotide (fad)_13c7,fad,nicotinic acid adenine dinucleotide,3.0,4.0,4.0,False,False,,0.0687522292137146,kept,False
+221333,PS(20:4_16:0),PS 16:0_20:4,PS 20:4/16:0*,ps(20:4_16:0),ps 16:0_20:4,ps 20:4/16:0*,4.0,5.0,2.0,False,False,,0.0686850547790527,kept,True
+22335,AG,MG 20:4,ApG,ag,mg 20:4,apg,,,,False,False,,0.068652331829071,kept,False
+72590,Ethyl malonate,Ethylmalonic acid,Diethyl malonate,ethyl malonate,ethylmalonic acid,diethyl malonate,2.0,13.0,13.0,False,False,,0.0686081051826477,kept,False
+30072,C16Sulfatide,SHexCer 18:1;O2/16:0,Psychosine sulfate,c16sulfatide,shexcer 18:1;o2/16:0,psychosine sulfate,,,,False,False,,0.0684205889701843,kept,False
+25737,Arginyl-Methionine,Arg-Met,Methionine,arginyl-methionine,arg-met,methionine,1.0,2.0,2.0,False,False,,0.0683978199958801,kept,False
+240945,Strictosidine,3alpha-(S)-strictosidine,Strictosidine aglycone,strictosidine,3alpha-(s)-strictosidine,strictosidine aglycone,2.0,2.0,2.0,False,False,,0.0683087110519409,kept,False
+90581,HexCer(34:1)-13C8[+H]+,HexCer 34:1;O2,HexCer 34:1;O3,hexcer(34:1)-13c8[+h]+,hexcer 34:1;o2,hexcer 34:1;o3,,,,False,False,,0.0683024525642395,kept,False
+71937,Epothilone A-13C17[+QDA adduct+Na]+,Epothilone A,Epothilone D,epothilone a-13c17[+qda adduct+na]+,epothilone a,epothilone d,,,,False,False,,0.0681983232498169,kept,False
+225755,Pyruvate-13C2,Pyruvic acid,Methyl pyruvate,pyruvate-13c2,pyruvic acid,methyl pyruvate,11.0,2.0,2.0,False,False,,0.0681314468383789,kept,False
+12517,3-Amino-2-methylpropanoic acid,3-Aminoisobutanoic acid,2-Amino-3-methylbutanoic acid,3-amino-2-methylpropanoic acid,3-aminoisobutanoic acid,2-amino-3-methylbutanoic acid,2.0,6.0,6.0,False,False,,0.0681237578392028,kept,False
+221756,PS(22:6_16:0),PS 16:0_22:6,PS 22:6/16:0,ps(22:6_16:0),ps 16:0_22:6,ps 22:6/16:0,4.0,5.0,2.0,False,False,,0.0680997371673584,kept,True
+90576,HexCer(34:1)-13C15[+H]+,HexCer 34:1;O2,HexCer 34:1;O3,hexcer(34:1)-13c15[+h]+,hexcer 34:1;o2,hexcer 34:1;o3,,,,False,False,,0.0680944919586181,kept,False
+225759,pyruvate-13C3,Pyruvic acid,Methyl pyruvate,pyruvate-13c3,pyruvic acid,methyl pyruvate,9.0,2.0,2.0,False,False,,0.0680791735649108,kept,False
+96084,isoribose,D-Ribopyranose,Ribose,isoribose,d-ribopyranose,ribose,5.0,6.0,1.0,False,True,same_pubchem_cid,0.0679534673690795,kept,False
+152802,PC(22:6_14:0)+H,PC 14:0_22:6,PC 22:6/14:0,pc(22:6_14:0)+h,pc 14:0_22:6,pc 22:6/14:0,12.0,4.0,3.0,False,False,,0.0679446458816528,kept,False
+170259,PE 22:2 (FA 14:0),PE 22:2,PE 22:2/14:0,pe 22:2 (fa 14:0),pe 22:2,pe 22:2/14:0,181.0,9.0,9.0,False,False,,0.0679048895835876,kept,False
+123290,N-Stearoylglycine,NA-Gly 18:0,N-Stearoyl glycine,n-stearoylglycine,na-gly 18:0,n-stearoyl glycine,13.0,45.0,45.0,False,False,,0.0678315758705139,kept,True
+13734,3-METHOXYTYROSINE (CAS# 4214-13-5); (M-H)-,3-O-Methyl-DOPA,Methoxytyrosine,3-methoxytyrosine (cas# 4214-13-5); (m-h)-,3-o-methyl-dopa,methoxytyrosine,3.0,4.0,4.0,False,False,,0.0678023695945739,kept,False
+294956,valylthreonine,Val-Thr,Allothreonine,valylthreonine,val-thr,allothreonine,6.0,5.0,5.0,False,False,,0.0677077770233154,kept,False
+137892,PC 36:0+AcO (FA 16:0)A,PC 36:0,PC 36:0/16:0,pc 36:0+aco (fa 16:0)a,pc 36:0,pc 36:0/16:0,65.0,2.0,2.0,False,False,,0.0677023530006408,kept,False
+74526,FA(13:1)-13C0[+K]+,Tridecenoic acid,FA 13:1;O*,fa(13:1)-13c0[+k]+,tridecenoic acid,fa 13:1;o*,,,,False,False,,0.0676658153533935,kept,False
+293725,Uridine diphosphate glucose_C13-label-14,UDP-glucose,Uridine diphosphategalactose,uridine diphosphate glucose_c13-label-14,udp-glucose,uridine diphosphategalactose,1.0,2.0,2.0,False,False,,0.0675861239433288,kept,False
+221869,PS(25:0_18:1)-H,PS 18:1_25:0,PS 25:0/18:1,ps(25:0_18:1)-h,ps 18:1_25:0,ps 25:0/18:1,3.0,3.0,3.0,False,False,,0.0672414302825927,kept,False
+118944,N-acetyl-glucosamine,N-Acetylglucosamine,N-Acetyl-D-glucosamine,n-acetyl-glucosamine,n-acetylglucosamine,n-acetyl-d-glucosamine,2.0,2.0,2.0,False,False,,0.06710946559906,kept,False
+154474,PC(32:1_20:4)-CH3,PC 20:4_32:1,PC 32:1/20:4*,pc(32:1_20:4)-ch3,pc 20:4_32:1,pc 32:1/20:4*,2.0,2.0,2.0,False,False,,0.0670716762542724,kept,False
+91337,HexCer(44:3)-13C23[M+H],HexCer 44:3;O2,HexCer 44:3;O3,hexcer(44:3)-13c23[m+h],hexcer 44:3;o2,hexcer 44:3;o3,,,,False,False,,0.0670520067214965,kept,False
+180813,PE(18:4_16:0)-H,PE 16:0_18:4,PE 18:4/16:0*,pe(18:4_16:0)-h,pe 16:0_18:4,pe 18:4/16:0*,6.0,2.0,2.0,False,False,,0.0670291185379028,kept,False
+92286,hippurate_1,Hippuric acid,Methyl hippurate,hippurate_1,hippuric acid,methyl hippurate,1.0,2.0,2.0,False,False,,0.0666372179985046,kept,False
+240769,Stearic_acid_C13-label-5,Stearic acid,13-Hydroxy stearic acid,stearic_acid_c13-label-5,stearic acid,13-hydroxy stearic acid,,,,False,False,,0.0665610432624816,kept,False
+7469,2-(3'-Methylthio)propylmalic acid_3,2-(3-Methylthiopropyl)malic acid,3-(3-Methylthio)propylmalic acid,2-(3'-methylthio)propylmalic acid_3,2-(3-methylthiopropyl)malic acid,3-(3-methylthio)propylmalic acid,2.0,2.0,2.0,False,False,,0.0665571093559265,kept,False
+2302,?-Hydroxybutyric acid,3-Hydroxybutyric acid,Hydroxybutyric acid,?-hydroxybutyric acid,3-hydroxybutyric acid,hydroxybutyric acid,4.0,2.0,2.0,False,False,,0.0665446519851684,kept,True
+179305,PE(18:0_17:0),PE 17:0_18:0,PE 18:0/17:0,pe(18:0_17:0),pe 17:0_18:0,pe 18:0/17:0,1.0,4.0,4.0,False,False,,0.0665265917778015,kept,True
+244223,TAG 60:9/22:6,TG 60:9,TG 60:9_22:6,tag 60:9/22:6,tg 60:9,tg 60:9_22:6,80.0,19.0,19.0,False,False,,0.0663312673568725,kept,False
+29616,butyrylglycine (C4),NA-Gly 4:0,N-Butyrylglycine,butyrylglycine (c4),na-gly 4:0,n-butyrylglycine,,,,False,False,,0.0662575960159301,kept,False
+1275,"(24R)-1alpha,24,25-trihydroxyvitaminD2/(24R)-1alpha,24,25-trihydroxyergocalciferol","(24R)-1alpha,24,25-Trihydroxyvitamin D2","1alpha,25-dihydroxyvitamin D2 / 1alpha,,25-dihydroxyergocalciferol","(24r)-1alpha,24,25-trihydroxyvitamind2/(24r)-1alpha,24,25-trihydroxyergocalciferol","(24r)-1alpha,24,25-trihydroxyvitamin d2","1alpha,25-dihydroxyvitamin d2 / 1alpha,,25-dihydroxyergocalciferol",2.0,2.0,2.0,False,False,,0.0662335157394409,kept,False
+172703,PE 37:4 (17:1(9Z)/20:3(8Z.11Z.14Z)) [M-H]-,PE 37:4,"PE 17:1(9Z)/20:3(8Z,11Z,14Z)*",pe 37:4 (17:1(9z)/20:3(8z.11z.14z)) [m-h]-,pe 37:4,"pe 17:1(9z)/20:3(8z,11z,14z)*",,,,False,False,,0.0661513209342956,kept,False
+152800,PC(22:6_13:0),PC 13:0_22:6,PC 22:6/13:0,pc(22:6_13:0),pc 13:0_22:6,pc 22:6/13:0,5.0,4.0,4.0,False,False,,0.0660873055458068,kept,True
+13501,3-Hydroxyphenylalanine_Neg_ExRate9,meta-Tyrosine,2-Hydroxyphenylalanine,3-hydroxyphenylalanine_neg_exrate9,meta-tyrosine,2-hydroxyphenylalanine,13.0,66.0,66.0,False,False,,0.0659410953521728,kept,False
+190283,PE.18.1.18.1.,PE 18:1/18:1,WE 18:1,pe.18.1.18.1.,pe 18:1/18:1,we 18:1,,,,False,False,,0.0659325718879699,kept,False
+13493,3-Hydroxyphenylalanine_Neg_ExRate1,meta-Tyrosine,2-Hydroxyphenylalanine,3-hydroxyphenylalanine_neg_exrate1,meta-tyrosine,2-hydroxyphenylalanine,15.0,75.0,75.0,False,False,,0.0659214854240417,kept,False
+263036,TG 56:9 [NL-22:6],TG 56:9,TG 56:9_22:6,tg 56:9 [nl-22:6],tg 56:9,tg 56:9_22:6,61.0,9.0,9.0,False,False,,0.0659214258193969,kept,False
+295661,xylenesulfonate,"2,5-Dimethylbenzenesulfonic acid","2,4-Xylenesulfonic acid",xylenesulfonate,"2,5-dimethylbenzenesulfonic acid","2,4-xylenesulfonic acid",16.0,23.0,23.0,False,False,,0.0658966302871704,kept,False
+6392,1H-Indole-3-ethanamine,Tryptamine,1H-Indole-3-acetamide,1h-indole-3-ethanamine,tryptamine,1h-indole-3-acetamide,6.0,30.0,30.0,False,False,,0.0657864809036254,kept,False
+290224,trans-4-hydroxy-L-proline 1,trans-4-Hydroxyproline,4-Hydroxy-L-proline,trans-4-hydroxy-l-proline 1,trans-4-hydroxyproline,4-hydroxy-l-proline,6.0,4.0,1.0,False,True,same_pubchem_cid,0.0657735466957092,kept,False
+180448,PE(18:2_18:1),PE 18:1_18:2,PE 18:2/18:1,pe(18:2_18:1),pe 18:1_18:2,pe 18:2/18:1,1.0,6.0,6.0,False,False,,0.065769612789154,kept,True
+152061,PC(20:4_15:1),PC 15:1_20:4,PC 20:4/15:1,pc(20:4_15:1),pc 15:1_20:4,pc 20:4/15:1,5.0,4.0,4.0,False,False,,0.0657305717468261,kept,True
+6469,1-Isothiocyanato-8-(methylsulfinyl)-octane,gamma-Aminobutyric acid,1-Isothiocyanato-7-(methylsulfinyl)heptane,1-isothiocyanato-8-(methylsulfinyl)-octane,gamma-aminobutyric acid,1-isothiocyanato-7-(methylsulfinyl)heptane,,,,False,False,,0.0656734704971313,kept,False
+85177,guanosine 5'-monophosphate (5'-GMP),GMP,Guanosine 3'-monophosphate,guanosine 5'-monophosphate (5'-gmp),gmp,guanosine 3'-monophosphate,4.0,11.0,11.0,False,False,,0.0656684041023254,kept,False
+153204,PC(26:0_18:1)_NEG1739,PC 18:1_26:0,PC (26:0/18:1)*,pc(26:0_18:1)_neg1739,pc 18:1_26:0,pc (26:0/18:1)*,9.0,3.0,3.0,False,False,,0.065617024898529,kept,False
+203383,PI (18:2_18:0),PI 18:0_18:2,PI 18:2/18:0,pi (18:2_18:0),pi 18:0_18:2,pi 18:2/18:0,11.0,4.0,4.0,False,False,,0.0656141638755798,kept,True
+73823,FA 20:4n-6,Arachidonic acid,FA 20:6,fa 20:4n-6,arachidonic acid,fa 20:6,,,,False,False,,0.0655049085617065,kept,False
+236742,SM(43:1)-13C22[M+H],SM 43:1;O2,SM 43:1;O3,sm(43:1)-13c22[m+h],sm 43:1;o2,sm 43:1;o3,,,,False,False,,0.0654465556144714,kept,False
+119340,N-ACETYL-L-LEUCINE (CAS# 1188-21-2); (M+NA)+,N-Acetylleucine,N-Acetyl-leucyl-leucine,n-acetyl-l-leucine (cas# 1188-21-2); (m+na)+,n-acetylleucine,n-acetyl-leucyl-leucine,7.0,2.0,2.0,False,False,,0.0654031634330749,kept,False
+236750,SM(43:1)-13C7[M+H],SM 43:1;O2,SM 43:1;O3,sm(43:1)-13c7[m+h],sm 43:1;o2,sm 43:1;o3,,,,False,False,,0.0653994083404541,kept,False

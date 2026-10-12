@@ -1,0 +1,10 @@
+{
+  "run_name": "sapbert_full_114m_hard_negative_V3",
+  "start_model_source": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/sapbert_contrastive/artifacts/model",
+  "best_model_dir": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/sapbert_full_114m_hard_negative_V3/artifacts/model_best",
+  "last_model_dir": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/sapbert_full_114m_hard_negative_V3/artifacts/model_last",
+  "best_step": 0,
+  "best_validation_MRR": 0.10363153538354958,
+  "max_train_steps": 20000,
+  "elapsed_sec": 3363.6850049690006
+}

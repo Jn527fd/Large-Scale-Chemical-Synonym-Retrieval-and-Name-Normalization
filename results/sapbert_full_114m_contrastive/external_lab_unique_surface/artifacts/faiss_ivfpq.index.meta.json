@@ -1,0 +1,11 @@
+{
+  "index_type": "ivfpq",
+  "n": 114366981,
+  "d": 768,
+  "nlist": 16384,
+  "train_size": 3000000,
+  "m_pq": 96,
+  "nbits": 8,
+  "seed": 0,
+  "run_key": "external_lab_unique_surface_sapbert_contrastive"
+}

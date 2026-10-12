@@ -1,0 +1,9 @@
+{
+  "file_name": "lab_query_embeddings.npy",
+  "original_size": 332992640,
+  "chunk_size": 2147483648,
+  "n_chunks": 1,
+  "mode": "reverse_destructive_move",
+  "completed": true,
+  "chunks": {}
+}

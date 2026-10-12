@@ -1,0 +1,9 @@
+{
+  "start_model_source": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/sapbert_contrastive/artifacts/model",
+  "n_mining_rows": 500000,
+  "max_length": 96,
+  "pooling": "cls",
+  "mining_search_k": 128,
+  "hard_negatives_per_anchor": 3,
+  "seed": 0
+}

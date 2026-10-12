@@ -1,0 +1,14 @@
+{
+  "n_queries": 295812,
+  "n_targets": 68988,
+  "k_retrieve": 256,
+  "query_shape": [
+    295812,
+    768
+  ],
+  "target_shape": [
+    68988,
+    768
+  ],
+  "run_name": "external_lab_refmet_final_reproducible"
+}

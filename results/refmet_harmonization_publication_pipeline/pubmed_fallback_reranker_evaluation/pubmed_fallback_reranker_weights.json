@@ -1,0 +1,11 @@
+{
+  "embedding_score_norm": 0.5427253636373808,
+  "rank_prior": 0.007807196752492374,
+  "compact_exact": 0.20082220211017607,
+  "sequence_ratio": 0.3367886686980698,
+  "char3_jaccard": 0.24519402588704775,
+  "token_jaccard": 0.3112344261020717,
+  "lipid_signature_match": 0.09679330251118023,
+  "lipid_class_match": 0.017795331119747262,
+  "stereo_mismatch": -0.005371928333713055
+}

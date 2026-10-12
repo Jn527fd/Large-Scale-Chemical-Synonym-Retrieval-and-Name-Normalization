@@ -1,0 +1,26 @@
+{
+  "run_name": "sapbert_full_114m_contrastive_V2",
+  "start_model": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/sapbert_contrastive/artifacts/model",
+  "best_model_dir": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/sapbert_full_114m_contrastive_V2/artifacts/model_best",
+  "best_trained_model_dir": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/sapbert_full_114m_contrastive_V2/artifacts/model_best_trained",
+  "last_model_dir": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/sapbert_full_114m_contrastive_V2/artifacts/model_last",
+  "best_step": 0,
+  "best_validation_MRR": 0.10363153538354958,
+  "best_trained_step": 10500,
+  "best_trained_validation_MRR": 0.10259687608678139,
+  "group_stats": {
+    "total_csv_rows_seen": 114674081,
+    "quality_filtered_rows": 110002380,
+    "chunk_dedup_rows_inserted": 110000585,
+    "unique_training_cid_name_pairs": 110000585,
+    "trainable_cids_after_filter": 17140782,
+    "sampled_name_rows": 47716494,
+    "train_groups": 16798011,
+    "validation_groups": 50000,
+    "names_per_cid": 4,
+    "use_hard_negative_batching": true,
+    "elapsed_sec": 1159.480596267
+  },
+  "max_train_steps": 20000,
+  "elapsed_sec": 1625.7672614190005
+}

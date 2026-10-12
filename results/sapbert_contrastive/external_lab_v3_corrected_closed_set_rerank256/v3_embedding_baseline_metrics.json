@@ -1,0 +1,32 @@
+{
+  "train": {
+    "embedding_MRR": 0.4653742783150081,
+    "embedding_HitRate@1": 0.38658605982409977,
+    "embedding_HitRate@5": 0.5489472468406137,
+    "embedding_HitRate@10": 0.6151323758923188,
+    "embedding_HitRate@25": 0.7040402959089962,
+    "embedding_HitRate@50": 0.7659941291474869,
+    "embedding_HitRate@100": 0.8202459898471437,
+    "embedding_HitRate@256": 0.8847915621989216
+  },
+  "val": {
+    "embedding_MRR": 0.46544591069469915,
+    "embedding_HitRate@1": 0.38678543659781617,
+    "embedding_HitRate@5": 0.5487982150704844,
+    "embedding_HitRate@10": 0.6169162638179913,
+    "embedding_HitRate@25": 0.7043203407592712,
+    "embedding_HitRate@50": 0.7667759710625064,
+    "embedding_HitRate@100": 0.821152090869139,
+    "embedding_HitRate@256": 0.8854332172678409
+  },
+  "test": {
+    "embedding_MRR": 0.46680314689843916,
+    "embedding_HitRate@1": 0.3886043642141203,
+    "embedding_HitRate@5": 0.5504453797136724,
+    "embedding_HitRate@10": 0.6156212497675912,
+    "embedding_HitRate@25": 0.7062691209032672,
+    "embedding_HitRate@50": 0.767168669607694,
+    "embedding_HitRate@100": 0.820563527880601,
+    "embedding_HitRate@256": 0.8860098372293495
+  }
+}

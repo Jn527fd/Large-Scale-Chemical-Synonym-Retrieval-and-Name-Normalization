@@ -1,0 +1,16 @@
+{
+  "label": "metabolite queries",
+  "model_name_or_path": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/sapbert_contrastive/artifacts/model",
+  "max_length": 96,
+  "pooling": "cls",
+  "embed_dtype": "float16",
+  "n_texts": 443540,
+  "query_count": 443540,
+  "embedding_path": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/refmet_harmonization_publication_pipeline/artifacts/metabolite_query_embeddings.npy",
+  "shape": [
+    443540,
+    768
+  ],
+  "dtype": "float16",
+  "size_bytes": 681277568
+}

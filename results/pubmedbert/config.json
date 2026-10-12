@@ -1,0 +1,212 @@
+{
+  "project": {
+    "name": "ChemSynonymizer",
+    "results_dir": "results",
+    "cache_dir": "/content/chem_synonymizer_cache",
+    "run_name": null
+  },
+  "data": {
+    "csv_path": "/content/drive/MyDrive/ChemSynonymizer/fixedGood.csv",
+    "cid_col": "cid",
+    "name_col": "name",
+    "normalize_names": true,
+    "filter_empty_names": true,
+    "remove_singletons": true,
+    "limit_rows": null
+  },
+  "eval": {
+    "seed": 0,
+    "eval_frac": 0.25,
+    "k_values": [
+      1,
+      5,
+      10
+    ],
+    "n_examples": 10
+  },
+  "model": {
+    "key": "pubmedbert",
+    "max_length": 96,
+    "batch_size": 24576,
+    "query_batch_size": 16384,
+    "dtype": "float16",
+    "l2_normalize": true
+  },
+  "semantic": {
+    "index_type": "ivf_flat",
+    "faiss_device": "cuda",
+    "search_batch_size": 16384,
+    "nlist": 16384,
+    "nprobe": 256,
+    "train_size": 3000000,
+    "add_batch_size": 250000,
+    "m_pq": 64,
+    "nbits": 8,
+    "use_float16_faiss": true
+  },
+  "lexical": {
+    "analyzer": "char_wb",
+    "ngram_min": 3,
+    "ngram_max": 5,
+    "min_df": 1,
+    "sublinear_tf": true,
+    "batch_size": 512,
+    "edit_distance_rerank": true,
+    "candidate_multiplier": 3,
+    "tfidf_weight": 0.8,
+    "n_jobs": -1
+  },
+  "robustness": {
+    "baseline": "lexical",
+    "corruption_levels": [
+      0.0,
+      0.25,
+      0.5,
+      0.75,
+      1.0
+    ],
+    "operations": [
+      "typo",
+      "swap",
+      "drop_punctuation",
+      "drop_token",
+      "spacing"
+    ]
+  },
+  "finetune": {
+    "split": "surface",
+    "epochs": 1,
+    "steps_per_epoch": 2000,
+    "batch_size": 128,
+    "learning_rate": 2e-05,
+    "weight_decay": 0.01,
+    "warmup_ratio": 0.06,
+    "gradient_accumulation_steps": 1,
+    "max_grad_norm": 1.0,
+    "temperature": 0.05,
+    "margin": 0.2,
+    "mixed_precision": "fp16",
+    "hard_negative_prefix_len": 4
+  },
+  "compute": {
+    "device": "cuda"
+  },
+  "experiments": {
+    "semantic_models": [
+      "e5_base",
+      "e5_large",
+      "bge_base",
+      "biomedbert",
+      "sapbert"
+    ]
+  },
+  "model_presets": {
+    "e5_base": {
+      "model_name": "intfloat/e5-base-v2",
+      "corpus_prefix": "passage: ",
+      "query_prefix": "query: ",
+      "pooling": "mean"
+    },
+    "e5_large": {
+      "model_name": "intfloat/e5-large-v2",
+      "corpus_prefix": "passage: ",
+      "query_prefix": "query: ",
+      "pooling": "mean"
+    },
+    "bge_base": {
+      "model_name": "BAAI/bge-base-en-v1.5",
+      "corpus_prefix": null,
+      "query_prefix": null,
+      "pooling": "cls"
+    },
+    "biomedbert": {
+      "model_name": "microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext",
+      "corpus_prefix": null,
+      "query_prefix": null,
+      "pooling": "mean"
+    },
+    "sapbert": {
+      "model_name": "cambridgeltl/SapBERT-from-PubMedBERT-fulltext",
+      "corpus_prefix": null,
+      "query_prefix": null,
+      "pooling": "cls"
+    },
+    "pubmedbert": {
+      "model_name": "microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext",
+      "corpus_prefix": null,
+      "query_prefix": null,
+      "pooling": "mean"
+    },
+    "biobert": {
+      "model_name": "dmis-lab/biobert-base-cased-v1.2",
+      "corpus_prefix": null,
+      "query_prefix": null,
+      "pooling": "mean"
+    },
+    "chemberta": {
+      "model_name": "DeepChem/ChemBERTa-77M-MTR",
+      "corpus_prefix": null,
+      "query_prefix": null,
+      "pooling": "mean"
+    },
+    "sapbert_contrastive": {
+      "model_name": "results/sapbert_contrastive/artifacts/model",
+      "corpus_prefix": null,
+      "query_prefix": null,
+      "pooling": "cls"
+    },
+    "sapbert_triplet": {
+      "model_name": "results/sapbert_triplet/artifacts/model",
+      "corpus_prefix": null,
+      "query_prefix": null,
+      "pooling": "cls"
+    },
+    "sapbert_contrastive_hard": {
+      "model_name": "results/sapbert_contrastive_hard/artifacts/model",
+      "corpus_prefix": null,
+      "query_prefix": null,
+      "pooling": "cls"
+    },
+    "sapbert_triplet_hard": {
+      "model_name": "results/sapbert_triplet_hard/artifacts/model",
+      "corpus_prefix": null,
+      "query_prefix": null,
+      "pooling": "cls"
+    }
+  },
+  "runtime": {
+    "baseline": "semantic",
+    "run_dir": "results/pubmedbert",
+    "embedding_cache_dir": "/content/chem_synonymizer_cache/semantic/data_80dad5689f48/pubmedbert_42450583df3c",
+    "query_cache_dir": "/content/chem_synonymizer_cache/semantic/data_80dad5689f48/pubmedbert_42450583df3c/queries/split_ca2c512843e3",
+    "index_cache_dir": "/content/chem_synonymizer_cache/semantic/data_80dad5689f48/pubmedbert_42450583df3c/indexes/index_30e5b85674e9",
+    "data_key": "80dad5689f48",
+    "embedding_key": "42450583df3c",
+    "query_key": "ca2c512843e3",
+    "index_key": "30e5b85674e9",
+    "csv": {
+      "path": "/content/drive/MyDrive/ChemSynonymizer/fixedGood.csv",
+      "size": 2006369144,
+      "mtime_ns": 1775171757000000000,
+      "sha1_16": "22e4d750e93ea9cb"
+    },
+    "data": {
+      "n_rows": 14883915,
+      "n_unique_cids": 4259738,
+      "min_cid_size": 2,
+      "max_cid_size": 9288,
+      "mean_cid_size": 17.28321002908173,
+      "median_cid_size": 4.0
+    },
+    "n_queries": 3720979,
+    "model": {
+      "key": "pubmedbert",
+      "model_name": "microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext",
+      "corpus_prefix": null,
+      "query_prefix": null,
+      "pooling": "mean"
+    },
+    "device": "cuda",
+    "faiss_device": "cuda"
+  }
+}

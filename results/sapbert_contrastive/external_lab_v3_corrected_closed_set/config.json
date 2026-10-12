@@ -1,0 +1,19 @@
+{
+  "run_name": "sapbert_contrastive_refmet_v3_closed_set",
+  "task": "closed-set lab-provided refmet_name normalization from metabolite_name",
+  "lab_csv": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/data/allmetnames_062626.csv",
+  "model_dir": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/sapbert_contrastive/artifacts/model",
+  "split": {
+    "seed": 7,
+    "train_frac": 0.6,
+    "val_frac": 0.2,
+    "test_frac": 0.2
+  },
+  "max_length": 96,
+  "pooling": "cls",
+  "embedding_dtype": "float16",
+  "k_retrieve": 256,
+  "rerank_pool_k": 64,
+  "tune_val_sample_size": 15000,
+  "tune_random_weight_trials": 120
+}

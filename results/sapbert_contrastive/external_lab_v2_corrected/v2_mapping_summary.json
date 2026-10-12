@@ -1,0 +1,14 @@
+{
+  "lab_rows_with_both_names_deduped": 295812,
+  "mapped_queries_total": 180683,
+  "unmapped_queries_total": 115129,
+  "mapped_by_method": {
+    "exact": 140808,
+    "compact_key": 36843,
+    "strip_instrument_suffix": 3020,
+    "remove_quotes": 7,
+    "punctuation_spaced": 5
+  },
+  "compact_mapping_enabled": true,
+  "queries_where_metabolite_equals_refmet": 22018
+}

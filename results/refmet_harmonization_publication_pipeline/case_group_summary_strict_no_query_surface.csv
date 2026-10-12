@@ -1,0 +1,14 @@
+split,case_group,n,fraction_within_split
+test,gold_in_top10_not_rank1,10675,0.17131806583107317
+test,gold_in_top256_not_top10,1550,0.024875222673364252
+test,gold_not_retrieved_top256,25072,0.4023687631397346
+test,top1_correct,25014,0.401437948355828
+train,gold_in_top10_not_rank1,32094,0.17168901894281846
+train,gold_in_top256_not_top10,4608,0.024650806982255486
+train,gold_not_retrieved_top256,75033,0.40139409728723435
+train,top1_correct,75196,0.4022660767876917
+unlabeled_or_unmapped,gold_not_retrieved_top256,131987,1.0
+validation,gold_in_top10_not_rank1,10752,0.17255380269936288
+validation,gold_in_top256_not_top10,1515,0.024313524096868933
+validation,gold_not_retrieved_top256,25082,0.40252924844730464
+validation,top1_correct,24962,0.40060342475646354

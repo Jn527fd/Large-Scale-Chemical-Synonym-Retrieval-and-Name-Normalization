@@ -1,0 +1,31 @@
+{
+  "run_name": "external_lab_refmet_model_comparison_reproducible",
+  "task": "final closed-set lab refmet_name prediction from metabolite_name",
+  "lab_csv": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/data/allmetnames_062626.csv",
+  "reference_csv": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/data/CID-Synonym-full.csv",
+  "model_dir": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/sapbert_contrastive/artifacts/model",
+  "split": {
+    "seed": 7,
+    "train_frac": 0.6,
+    "val_frac": 0.2,
+    "test_frac": 0.2
+  },
+  "max_length": 96,
+  "pooling": "cls",
+  "embedding_dtype": "float16",
+  "k_retrieve": 256,
+  "rerank_pool_k": 256,
+  "deterministic_cid_mapping": {
+    "enabled": true,
+    "reference_chunk_size": 2000000,
+    "lab_name_columns": [
+      "metabolite_name",
+      "refmet_name"
+    ]
+  },
+  "identity_aware_scoring": {
+    "exact_label": true,
+    "same_pubchem_cid_when_mapped": true,
+    "strong_alias_match": true
+  }
+}

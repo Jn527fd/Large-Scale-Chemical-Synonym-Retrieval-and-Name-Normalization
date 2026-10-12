@@ -1,0 +1,10 @@
+{
+  "n": 114366981,
+  "d": 768,
+  "source_parquet": "/mnt/local-scratch/chem_synonymizer/sapbert_full_114m_contrastive_external_lab_unique_surface/artifacts/unique_surface_corpus.parquet",
+  "model_name": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/sapbert_full_114m_contrastive/artifacts/model",
+  "pooling": "cls",
+  "max_length": 96,
+  "dtype": "float16",
+  "normalize": true
+}

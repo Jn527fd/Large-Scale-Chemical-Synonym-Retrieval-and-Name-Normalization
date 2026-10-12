@@ -1,0 +1,23 @@
+{
+  "run_name": "sapbert_full_114m_contrastive",
+  "reference_csv_path": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/data/CID-Synonym-full.csv",
+  "base_model_name": "cambridgeltl/SapBERT-from-PubMedBERT-fulltext",
+  "normalization": "NFKC + lowercase + strip + whitespace collapse",
+  "cid_col": "cid",
+  "name_col": "name",
+  "seed": 0,
+  "cpu_threads": 12,
+  "reference_chunksize": 2000000,
+  "names_per_cid": 2,
+  "max_length": 96,
+  "pooling": "cls",
+  "train_batch_pairs": 256,
+  "max_train_steps": 20000,
+  "learning_rate": 2e-05,
+  "weight_decay": 0.01,
+  "warmup_ratio": 0.06,
+  "max_grad_norm": 1.0,
+  "temperature": 0.05,
+  "mixed_precision": "bf16",
+  "model_output_dir": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/sapbert_full_114m_contrastive/artifacts/model"
+}

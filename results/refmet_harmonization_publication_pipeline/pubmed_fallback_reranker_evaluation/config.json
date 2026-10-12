@@ -1,0 +1,13 @@
+{
+  "project_dir": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer",
+  "source_run_name": "refmet_harmonization_publication_pipeline",
+  "output_name": "pubmed_fallback_reranker_evaluation",
+  "pool_k": 256,
+  "top_x": 10,
+  "random_search_trials": 120,
+  "tuning_max_queries": 10000,
+  "random_seed": 7,
+  "chunk_size": 1024,
+  "copy_inputs_to_scratch": true,
+  "force": false
+}

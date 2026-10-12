@@ -1,0 +1,6 @@
+{
+  "loaded_from_cache": true,
+  "source": "targeted_reference_lookup",
+  "unique_surface_rows": 109086,
+  "corpus_parquet_path": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/external_lab_refmet_model_comparison_reproducible/artifacts/targeted_reference_lookup.parquet"
+}

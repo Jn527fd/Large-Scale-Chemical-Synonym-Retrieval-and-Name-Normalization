@@ -1,0 +1,7 @@
+{
+  "status": "failed",
+  "model_key": "biobert",
+  "model_name": "dmis-lab/biobert-base-cased-v1.1",
+  "error_type": "ValueError",
+  "error_message": "Couldn't instantiate the backend tokenizer from one of: \n(1) a `tokenizers` library serialization file, \n(2) a slow tokenizer instance to convert or \n(3) an equivalent slow tokenizer class to instantiate and convert. \nYou need to have sentencepiece or tiktoken installed to convert a slow tokenizer to a fast one."
+}

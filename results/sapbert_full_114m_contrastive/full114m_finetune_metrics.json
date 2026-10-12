@@ -1,0 +1,19 @@
+{
+  "run_name": "sapbert_full_114m_contrastive",
+  "base_model_name": "cambridgeltl/SapBERT-from-PubMedBERT-fulltext",
+  "output_dir": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/sapbert_full_114m_contrastive/artifacts/model",
+  "train_pairs_path": "/mnt/local-scratch/chem_synonymizer/sapbert_full_114m_contrastive/artifacts/train_pairs.parquet",
+  "pair_stats": {
+    "total_csv_rows_seen": 114674081,
+    "chunk_dedup_rows_inserted": 114672214,
+    "unique_cid_name_pairs": 114672214,
+    "trainable_cids": 17372599,
+    "sampled_name_rows": 34745198,
+    "train_pairs": 17372599,
+    "names_per_cid": 2,
+    "elapsed_sec": 654.64073021
+  },
+  "max_train_steps": 20000,
+  "final_running_loss": 3.4264217552410305,
+  "elapsed_sec": 5721.305081183
+}

@@ -1,0 +1,9 @@
+{
+  "embedding_cache_dir": "/content/chem_synonymizer_cache/semantic/data_80dad5689f48/sapbert_4628143cb5fd",
+  "query_cache_dir": "/content/chem_synonymizer_cache/semantic/data_80dad5689f48/sapbert_4628143cb5fd/queries/split_12a516404431",
+  "index_cache_dir": "/content/chem_synonymizer_cache/semantic/data_80dad5689f48/sapbert_4628143cb5fd/indexes/index_cc5500e2a384",
+  "data_key": "80dad5689f48",
+  "embedding_key": "4628143cb5fd",
+  "query_key": "12a516404431",
+  "index_key": "cc5500e2a384"
+}

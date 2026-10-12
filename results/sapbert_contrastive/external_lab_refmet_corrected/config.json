@@ -1,0 +1,29 @@
+{
+  "run_name": "sapbert_contrastive_refmet_corrected",
+  "task": "metabolite_name -> refmet_name corrected external lab evaluation",
+  "lab_csv": {
+    "path": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/data/allmetnames_062626.csv",
+    "exists": true,
+    "size": 16014063,
+    "mtime": 1782752534.0
+  },
+  "reference_csv": {
+    "path": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/data/CID-Synonym-full.csv",
+    "exists": true,
+    "size": 4218338069,
+    "mtime": 1774571103.0
+  },
+  "model_dir": "/content/drive/MyDrive/ChemSynonymizer/chem_synonymizer/results/sapbert_contrastive/artifacts/model",
+  "metabolite_col": "metabolite_name",
+  "refmet_col": "refmet_name",
+  "correct_if": "candidate normalized name equals normalized refmet_name OR candidate CID overlaps mapped refmet_name CID set",
+  "max_length": 96,
+  "pooling": "cls",
+  "embedding_dtype": "float16",
+  "index_type": "ivfpq",
+  "nlist": 16384,
+  "nprobe": 1024,
+  "m_pq": 96,
+  "nbits": 8,
+  "k_retrieve": 256
+}

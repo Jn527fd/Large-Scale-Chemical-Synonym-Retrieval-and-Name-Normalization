@@ -1,0 +1,12 @@
+{
+  "raw_lab_rows": 443540,
+  "rows_with_both_names": 311553,
+  "deduplicated_query_pairs": 295812,
+  "unique_refmet_labels": 68988,
+  "split_counts": {
+    "train": 177487,
+    "test": 59163,
+    "val": 59162
+  },
+  "identical_metabolite_refmet_pairs": 22018
+}

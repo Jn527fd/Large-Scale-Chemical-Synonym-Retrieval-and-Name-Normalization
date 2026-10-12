@@ -1,0 +1,101 @@
+refmet_normalized,refmet_name,n_query_pairs,target_id,refmet_mapping_method,mapped_refmet_names,refmet_candidate_cids,refmet_n_candidate_cids,refmet_mapped_to_cid,refmet_mapped_to_cid_bool
+5-methoxyflavanone,5-Methoxyflavanone,1,2883,exact,5-methoxyflavanone,147795,1,True,True
+tg 15:1_15:1_22:1,TG 15:1_15:1_22:1,1,55608,exact,tg 15:1_15:1_22:1,165212590,1,True,True
+rifampicin,Rifampicin,2,50293,exact,rifampicin,135398735,1,True,True
+lauric acid,Lauric acid,125,22330,exact,lauric acid,3893,1,True,True
+cassiamin c,Cassiamin C,3,5940,exact,cassiamin c,442728,1,True,True
+pe-nme2 16:0/16:0,PE-NMe2 16:0/16:0,3,41394,compact_key,pe-nme2(16:0/16:0),9547021,1,True,True
+bmp 17:1_18:2,BMP 17:1_18:2,1,5197,exact,bmp 17:1_18:2,138254148,1,True,True
+"3,16-dideoxymexicanolide-3alpha-diol","3,16-Dideoxymexicanolide-3alpha-diol",1,1766,exact,"3,16-dideoxymexicanolide-3alpha-diol",73351287,1,True,True
+car 10:1,CAR 10:1,57,5630,exact,car 10:1,89350727,1,True,True
+pe 16:0/14:0,PE 16:0/14:0,1,36901,compact_key,pe(16:0/14:0),446670,1,True,True
+tg 15:1_15:1_16:0,TG 15:1_15:1_16:0,2,55602,exact,tg 15:1_15:1_16:0,138230096,1,True,True
+dehydroemetine,Dehydroemetine,1,12330,exact,dehydroemetine,21022,1,True,True
+mgdg 25:6,MGDG 25:6,1,26064,exact,mgdg 25:6,138207285,1,True,True
+cis-p-coumaric acid,cis-p-Coumaric acid,33,9087,exact,cis-p-coumaric acid,1549106,1,True,True
+ile-ser-asn,Ile-Ser-Asn,1,21618,exact,ile-ser-asn,145456256,1,True,True
+glu-asp-leu,Glu-Asp-Leu,1,18175,exact,glu-asp-leu,444128,1,True,True
+tg 14:0_17:0_20:5,TG 14:0_17:0_20:5,1,54753,exact,tg 14:0_17:0_20:5,138143228,1,True,True
+tg 18:0_22:6_24:1,TG 18:0_22:6_24:1,2,58675,exact,tg 18:0_22:6_24:1,165221117,1,True,True
+ser-ile-arg,Ser-Ile-Arg,1,50594,exact,ser-ile-arg,145457774,1,True,True
+tg 14:0_22:0_22:4,TG 14:0_22:0_22:4,1,54841,exact,tg 14:0_22:0_22:4,138176861,1,True,True
+pe 20:4/22:4,PE 20:4/22:4,2,38279,compact_key,pe 20:4_22:4,138299549,1,True,True
+pi 20:0_22:6,PI 20:0_22:6,3,45320,exact,pi 20:0_22:6,138263720,1,True,True
+tg 8:0_12:0_16:0,TG 8:0_12:0_16:0,7,65154,exact,tg 8:0_12:0_16:0,164363294,1,True,True
+leu-pro-thr,Leu-Pro-Thr,1,22540,exact,leu-pro-thr,71402214,1,True,True
+eicosanoyl-ea,Eicosanoyl-EA,27,16223,exact,eicosanoyl-ea,3787294,1,True,True
+pi 15:0_18:2,PI 15:0_18:2,4,44713,exact,pi 15:0_18:2,138159113,1,True,True
+genistin 6''-o-acetate,Genistin 6''-O-acetate,1,17781,exact,genistin 6''-o-acetate,5315831,1,True,True
+isoeugenol sulfate,Isoeugenol sulfate,1,21916,exact,isoeugenol sulfate,122198202,1,True,True
+"ps 18:3(9z,12z,15z)/16:1(9z)*","PS 18:3(9Z,12Z,15Z)/16:1(9Z)*",1,48522,compact_key,"ps(18:3(9z,12z,15z)/16:1(9z))",52925513,1,True,True
+norethindrone enanthate,Norethindrone enanthate,1,27459,exact,norethindrone enanthate,229295,1,True,True
+pe 14:0_20:4,PE 14:0_20:4,11,36658,exact,pe 14:0_20:4,138212407,1,True,True
+rescinnamine,Rescinnamine,5,50220,exact,rescinnamine,5280954,1,True,True
+norvaline,Norvaline,12,27478,exact,norvaline,65098,1,True,True
+pc 20:1/20:4,PC 20:1/20:4,5,32377,compact_key,pc(20:1_20:4),53478899,1,True,True
+met-phe-asp,Met-Phe-Asp,2,25088,exact,met-phe-asp,145457029,1,True,True
+pi (18:1/20:4)*,PI (18:1/20:4)*,1,44488,compact_key,pi 18:1_20:4,138296016,1,True,True
+"tg 16:0/24:1(15z)/18:4(6z,9z,12z,15z)*","TG 16:0/24:1(15Z)/18:4(6Z,9Z,12Z,15Z)*",1,56254,compact_key,"tg(16:0/24:1(15z)/18:4(6z,9z,12z,15z))",131755311,1,True,True
+pe 16:1_16:2,PE 16:1_16:2,1,37092,exact,pe 16:1_16:2,138259364,1,True,True
+pc 19:1/20:4*,PC 19:1/20:4*,1,32192,compact_key,pc(19:1/20:4),24778794,1,True,True
+pe o-17:1/18:1,PE O-17:1/18:1,11,39498,compact_key,pe o-17:1_18:1,164430205,1,True,True
+borneol,Borneol,2,5382,exact,borneol,64685,1,True,True
+"alpha,beta-didehydrotryptophan","alpha,beta-Didehydrotryptophan",1,3860,exact,"alpha,beta-didehydrotryptophan",5280990,1,True,True
+thr-tyr-lys,Thr-Tyr-Lys,1,67671,exact,thr-tyr-lys,7408615,1,True,True
+pg 17:0/22:6*,PG 17:0/22:6*,1,42380,compact_key,pg 17:0_22:6,138310018,1,True,True
+hbmp 18:1_18:1_18:2,HBMP 18:1_18:1_18:2,1,19063,exact,hbmp 18:1_18:1_18:2,138231076,1,True,True
+pc 18:3_20:1,PC 18:3_20:1,7,31989,compact_key,pc(18:3_20:1),52922799,1,True,True
+"pg 20:3(8z,11z,14z)/20:4(5z,8z,11z,14z)*","PG 20:3(8Z,11Z,14Z)/20:4(5Z,8Z,11Z,14Z)*",1,42881,compact_key,"pg(20:3(8z,11z,14z)/20:4(5z,8z,11z,14z))",52926877,1,True,True
+leu-phe,Leu-Phe,7,22517,exact,leu-phe,6992310,1,True,True
+"tg 16:1(9z)/18:1(11z)/20:3(5z,8z,11z)*","TG 16:1(9Z)/18:1(11Z)/20:3(5Z,8Z,11Z)*",1,56882,compact_key,"tg(16:1(9z)/18:1(11z)/20:3(5z,8z,11z))",131759437,1,True,True
+"tg 18:0/22:4(7z,10z,13z,16z)/18:0*","TG 18:0/22:4(7Z,10Z,13Z,16Z)/18:0*",1,58383,compact_key,"tg(18:0/22:4(7z,10z,13z,16z)/18:0)",131756239,1,True,True
+tg 16:0_16:0_17:0,TG 16:0_16:0_17:0,22,56280,exact,tg 16:0_16:0_17:0,138266786,1,True,True
+arginine phosphate,Arginine phosphate,5,4377,exact,arginine phosphate,92150,1,True,True
+tg 18:0_20:2_21:0,TG 18:0_20:2_21:0,1,58605,exact,tg 18:0_20:2_21:0,138256077,1,True,True
+tg 16:0/22:3/22:6*,TG 16:0/22:3/22:6*,1,56207,compact_key,tg(16:0_22:3_22:6),9545860,1,True,True
+2-oxo-4-methylthiobutanoic acid,2-Oxo-4-methylthiobutanoic acid,16,1554,exact,2-oxo-4-methylthiobutanoic acid,473,1,True,True
+tetramethylpyrazine,Tetramethylpyrazine,9,53295,exact,tetramethylpyrazine,14296,1,True,True
+dg 16:0_22:4,DG 16:0_22:4,13,12907,exact,dg 16:0_22:4,138208842,1,True,True
+oleyl behenate,Oleyl behenate,1,27620,exact,oleyl behenate,6437101,1,True,True
+7-cyano-7-deazaguanine,7-Cyano-7-deazaguanine,1,3146,exact,7-cyano-7-deazaguanine,135446206,1,True,True
+tg 13:0/16:0/22:0*,TG 13:0/16:0/22:0*,1,54165,compact_key,tg(13:0/16:0/22:0),56937595|131805935,2,True,True
+dichlorophenol,Dichlorophenol,1,15733,exact,dichlorophenol,11334,1,True,True
+tg 15:0_18:3_22:5,TG 15:0_18:3_22:5,1,55543,exact,tg 15:0_18:3_22:5,165324320,1,True,True
+tg 12:0/16:1/18:1,TG 12:0/16:1/18:1,2,53842,compact_key,tg 12:0_16:1_18:1|tg(12:0_16:1_18:1),164338670|56937141,2,True,True
+pc 18:1/22:0,PC 18:1/22:0,2,31695,compact_key,pc(18:1/22:0),24778893|24778899,2,True,True
+mesitol,Mesitol,2,24959,exact,mesitol,10698,1,True,True
+alprazolam,Alprazolam,1,3937,exact,alprazolam,2118,1,True,True
+tg 16:0/12:0/14:0,TG 16:0/12:0/14:0,1,55760,compact_key,tg(16:0/12:0/14:0),131811773,1,True,True
+"pe 19:0/20:5(5z,8z,11z,14z,17z)*","PE 19:0/20:5(5Z,8Z,11Z,14Z,17Z)*",1,37898,compact_key,"pe(19:0/20:5(5z,8z,11z,14z,17z))",52924487,1,True,True
+his-pro-asn,His-Pro-Asn,2,21122,exact,his-pro-asn,145455944,1,True,True
+pg 15:0_16:0,PG 15:0_16:0,9,42136,exact,pg 15:0_16:0,75960084,1,True,True
+dha,DHA,63,15672,exact,dha,15608515,1,True,True
+debromohymenialdisine,Debromohymenialdisine,2,12288,exact,debromohymenialdisine,135451156,1,True,True
+tg 16:0/20:3/22:6*,TG 16:0/20:3/22:6*,2,56146,compact_key,tg 16:0_20:3_22:6|tg(16:0_20:3_22:6),165323909|9545422,2,True,True
+tumonoic acid i,Tumonoic acid I,1,68175,exact,tumonoic acid i,25111592,1,True,True
+tg 14:0_14:0_16:3,TG 14:0_14:0_16:3,2,54611,exact,tg 14:0_14:0_16:3,164305280,1,True,True
+tg 15:0/15:0/21:0*,TG 15:0/15:0/21:0*,1,55221,compact_key,tg(15:0/15:0/21:0),131810035|56936685,2,True,True
+pa o-20:0/20:0,PA O-20:0/20:0,1,29252,compact_key,pa(o-20:0/20:0),52929623,1,True,True
+val-lys-lys,Val-Lys-Lys,2,68594,exact,val-lys-lys,53340373,1,True,True
+thr-cys-leu,Thr-Cys-Leu,1,67531,exact,thr-cys-leu,145458009,1,True,True
+pc 20:0/20:2,PC 20:0/20:2,3,32279,compact_key,pc(20:0/20:2)|pc(20:0_20:2),24779046|52923187,2,True,True
+"pe-nme((22:6(4z,7z,10z,13z,16z,19z)/22:6(4z,7z,10z,13z,16z,19z)))*","PE-NMe((22:6(4Z,7Z,10Z,13Z,16Z,19Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z)))*",1,41367,compact_key,"pe-nme(22:6(4z,7z,10z,13z,16z,19z)/22:6(4z,7z,10z,13z,16z,19z))",131820810,1,True,True
+8-azaadenosine,8-Azaadenosine,4,3246,exact,8-azaadenosine,96410,1,True,True
+tg 22:4_22:5_24:0,TG 22:4_22:5_24:0,1,61658,exact,tg 22:4_22:5_24:0,165213941,1,True,True
+pe-nme((14:1(9z)/18:1(9z)))*,PE-NMe((14:1(9Z)/18:1(9Z)))*,1,41207,compact_key,pe-nme(14:1(9z)/18:1(9z)),131820062,1,True,True
+terbutaline,Terbutaline,6,53210,exact,terbutaline,5403,1,True,True
+ce 26:5,CE 26:5,37,6095,exact,ce 26:5,164465485,1,True,True
+lpi 14:0,LPI 14:0,3,23961,exact,lpi 14:0,75961470,1,True,True
+dg 17:0_22:1,DG 17:0_22:1,1,13073,exact,dg 17:0_22:1,138242362,1,True,True
+"pc 18:2(9z,12z)/17:1(9z)*","PC 18:2(9Z,12Z)/17:1(9Z)*",1,31815,compact_key,"pc(18:2(9z,12z)/17:1(9z))",52922723,1,True,True
+"pe 15:1(9z)/20:5(5z,8z,11z,14z,17z)*","PE 15:1(9Z)/20:5(5Z,8Z,11Z,14Z,17Z)*",1,36870,compact_key,"pe(15:1(9z)/20:5(5z,8z,11z,14z,17z))",52924201,1,True,True
+"tg 22:4(7z,10z,13z,16z)/18:0/20:5(5z,8z,11z,14z,17z)*","TG 22:4(7Z,10Z,13Z,16Z)/18:0/20:5(5Z,8Z,11Z,14Z,17Z)*",1,61628,compact_key,"tg(22:4(7z,10z,13z,16z)/18:0/20:5(5z,8z,11z,14z,17z))",131765244,1,True,True
+ur-144 n-5-hydroxypentyl,UR-144 N-5-hydroxypentyl,2,68424,exact,ur-144 n-5-hydroxypentyl,11515395,1,True,True
+tg 17:0_18:3_20:5,TG 17:0_18:3_20:5,1,57713,exact,tg 17:0_18:3_20:5,165271411,1,True,True
+pi 18:2_20:2,PI 18:2_20:2,5,45185,exact,pi 18:2_20:2,138198428,1,True,True
+"tg 22:0/16:1(9z)/18:3(6z,9z,12z)*","TG 22:0/16:1(9Z)/18:3(6Z,9Z,12Z)*",1,61303,compact_key,"tg(22:0/16:1(9z)/18:3(6z,9z,12z))",131757388,1,True,True
+phaeantharine,Phaeantharine,1,44112,exact,phaeantharine,73053,1,True,True
+leucomycin a5,Leucomycin A5,3,22594,exact,leucomycin a5,5282324,1,True,True
+pc 10:0/19:0,PC 10:0/19:0,2,29749,compact_key,pc(10:0/19:0),24778533,1,True,True
+succinylglycine,Succinylglycine,1,53016,exact,succinylglycine,14954082,1,True,True
+pe (17:1/18:2)*,PE (17:1/18:2)*,2,36376,compact_key,pe 17:1_18:2|pe(17:1/18:2),138166177|52924388,2,True,True
